@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2066515390906474861",
+    "created_at": "2026-06-17T12:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T13:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067220805021569400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1834129912061411328",
+          "start": 0,
+          "username": "biqun42094"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067220805021569400",
+    "in_reply_to_user_id": "1834129912061411328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066515390906474861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biqun42094 啊？这理由也是能用的吗，我还是咒自己得癌吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2066515390906474861",
+        "created_at": "2026-06-17T12:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T13:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067220805021569400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1834129912061411328",
+              "start": 0,
+              "username": "biqun42094"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067220805021569400",
+        "in_reply_to_user_id": "1834129912061411328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066515390906474861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biqun42094 啊？这理由也是能用的吗，我还是咒自己得癌吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834129912061411328",
+        "conversation_id": "2066515390906474861",
+        "created_at": "2026-06-15T13:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066515390906474861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066515390906474861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4805,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这个畜生为了开曲马多说家猫得癌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 88,
+          "like_count": 5847,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 777
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T07:20:31.000Z",
+        "description": "",
+        "id": "1834129912061411328",
+        "name": "Tell me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065051624377298944/Ebgkmpi0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 67,
+          "like_count": 1165,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "biqun42094",
+        "verified": false
+      }
+    ]
+  }
+}

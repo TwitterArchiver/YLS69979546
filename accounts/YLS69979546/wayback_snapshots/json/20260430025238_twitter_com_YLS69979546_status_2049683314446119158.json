@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2049402867396878483",
+    "created_at": "2026-04-30T02:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T03:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049683314446119158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1919296206381170688",
+          "start": 0,
+          "username": "juhao0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049683314446119158",
+    "in_reply_to_user_id": "1919296206381170688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049402867396878483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juhao0721 哈哈哈，不行了，笑不活了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1980,
+        "media_key": "3_2049402741337001984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDw718akAAs--n.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2049402867396878483",
+        "created_at": "2026-04-30T02:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T03:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049683314446119158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1919296206381170688",
+              "start": 0,
+              "username": "juhao0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049683314446119158",
+        "in_reply_to_user_id": "1919296206381170688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049402867396878483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhao0721 哈哈哈，不行了，笑不活了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049402741337001984"
+          ]
+        },
+        "author_id": "1919296206381170688",
+        "conversation_id": "2049402867396878483",
+        "created_at": "2026-04-29T08:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049402867396878483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YWSwJqaOph",
+              "end": 56,
+              "expanded_url": "https://x.com/juhao0721/status/2049402867396878483/photo/1",
+              "media_key": "3_2049402741337001984",
+              "start": 33,
+              "url": "https://t.co/YWSwJqaOph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049402867396878483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 100243,
+          "like_count": 465,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我的妈妈对我发:谁的m4掉了\n我要不要告诉她这个表情的真实含义😨 https://t.co/YWSwJqaOph"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 58,
+          "like_count": 3309,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 333
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T07:42:19.000Z",
+        "description": "饱饱我和别的女生不一样，我是男的\n♥️@Allenium114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "Allenium114"
+              }
+            ]
+          }
+        },
+        "id": "1919296206381170688",
+        "location": "重庆",
+        "name": "baka_0v0",
+        "pinned_tweet_id": "1988833019495375171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965438456919957504/fGrs8E0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4223,
+          "following_count": 107,
+          "like_count": 2805,
+          "listed_count": 8,
+          "media_count": 312,
+          "tweet_count": 1328
+        },
+        "username": "juhao0721",
+        "verified": false
+      }
+    ]
+  }
+}

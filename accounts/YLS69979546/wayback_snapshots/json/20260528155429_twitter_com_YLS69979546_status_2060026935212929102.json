@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2059920617781318129",
+    "created_at": "2026-05-28T15:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060026935212929102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060026935212929102",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059920617781318129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 腾子的ace怎么永远都有各种烂活"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2059920608365084672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZO4R8bgAAO08l.jpg",
+        "width": 1280
+      },
+      {
+        "height": 884,
+        "media_key": "3_2059920608360865792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZO4R7bIAAVZmg.jpg",
+        "width": 1131
+      },
+      {
+        "height": 213,
+        "media_key": "3_2059920608352509953",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZO4R5boAEa_Ir.jpg",
+        "width": 384
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059920617781318129",
+        "created_at": "2026-05-28T15:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060026935212929102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060026935212929102",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059920617781318129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 腾子的ace怎么永远都有各种烂活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059920608365084672",
+            "3_2059920608360865792",
+            "3_2059920608352509953"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059920617781318129",
+        "created_at": "2026-05-28T08:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059920617781318129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3DHC48RGw4",
+              "end": 107,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2059920617781318129/photo/1",
+              "media_key": "3_2059920608365084672",
+              "start": 84,
+              "url": "https://t.co/3DHC48RGw4"
+            },
+            {
+              "display_url": "pic.x.com/3DHC48RGw4",
+              "end": 107,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2059920617781318129/photo/1",
+              "media_key": "3_2059920608360865792",
+              "start": 84,
+              "url": "https://t.co/3DHC48RGw4"
+            },
+            {
+              "display_url": "pic.x.com/3DHC48RGw4",
+              "end": 107,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2059920617781318129/photo/1",
+              "media_key": "3_2059920608352509953",
+              "start": 84,
+              "url": "https://t.co/3DHC48RGw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059920617781318129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 16685,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新闻：\n卸载洛克王国会导致其他腾讯游戏出错\n\n具体情况表现为：\nACE 反作弊模块报 13-327694-2 错误，导致无法进行游戏。\n\n没想到洛克王国还有「亡语」。 https://t.co/3DHC48RGw4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 65,
+          "like_count": 4729,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 561
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4291,
+          "following_count": 863,
+          "like_count": 22874,
+          "listed_count": 11,
+          "media_count": 1216,
+          "tweet_count": 6816
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083219904623522194",
+    "created_at": "2026-07-31T15:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083219904623522194"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083219904623522194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我感觉阿片减量应该是每天几次小剂量，不是硬抗十好几个小时然后来一针，我这个玩法不对，但这样会有比较明显的欣快感，每天几次小剂量应该只会抑制戒断症状舒服一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083219904623522194",
+        "created_at": "2026-07-31T15:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083219904623522194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083219904623522194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉阿片减量应该是每天几次小剂量，不是硬抗十好几个小时然后来一针，我这个玩法不对，但这样会有比较明显的欣快感，每天几次小剂量应该只会抑制戒断症状舒服一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 165,
+          "like_count": 8560,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1893
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

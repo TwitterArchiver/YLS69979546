@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2060380497625116776",
+    "created_at": "2026-05-30T08:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060638066860228749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1303058075100884994",
+          "start": 0,
+          "username": "S0Tx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060638066860228749",
+    "in_reply_to_user_id": "1303058075100884994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060380497625116776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S0Tx0 这个世界没救了，全世界人都找不到工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2060380497625116776",
+        "created_at": "2026-05-30T08:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060638066860228749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1303058075100884994",
+              "start": 0,
+              "username": "S0Tx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060638066860228749",
+        "in_reply_to_user_id": "1303058075100884994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060380497625116776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S0Tx0 这个世界没救了，全世界人都找不到工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303058075100884994",
+        "conversation_id": "2060380497625116776",
+        "created_at": "2026-05-29T15:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060380497625116776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060380497625116776",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 47254,
+          "like_count": 1527,
+          "quote_count": 11,
+          "reply_count": 102,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "Je dépose des cv partout y’a personne qui m’appelle bordel après on dit que les jeunes ne veulent plus travailler"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 68,
+          "like_count": 4871,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 581
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T19:58:32.000Z",
+        "description": "✝️🇨🇵🇩🇪🇳🇴-🔴⚪️-Muay thaï enjoyer/K1🥊-Kop Nord🔥-Dustin Poirier supremacy💎-#MV3-1312",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 71,
+                "tag": "MV3"
+              }
+            ]
+          }
+        },
+        "id": "1303058075100884994",
+        "location": "Tromsø, Norvège",
+        "name": "ᚢ ♱ Fr⩜⃝nklin S⩜⃝int ❀🍋",
+        "pinned_tweet_id": "2036850889520975946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037686997574139904/Uh3CFfzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 481,
+          "like_count": 64613,
+          "listed_count": 1,
+          "media_count": 716,
+          "tweet_count": 12125
+        },
+        "username": "S0Tx0",
+        "verified": false
+      }
+    ]
+  }
+}

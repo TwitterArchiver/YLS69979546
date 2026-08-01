@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2020432617884258500",
+    "created_at": "2026-02-08T15:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T16:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020523979534950804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711065980959698944",
+          "start": 0,
+          "username": "gngcichfny25600"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020523979534950804",
+    "in_reply_to_user_id": "1711065980959698944",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020432617884258500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gngcichfny25600 我的也是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 125,
+        "media_key": "3_2020432615598424064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoEwllbgAAM4nL.jpg",
+        "width": 335
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2020432617884258500",
+        "created_at": "2026-02-08T15:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020523979534950804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711065980959698944",
+              "start": 0,
+              "username": "gngcichfny25600"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020523979534950804",
+        "in_reply_to_user_id": "1711065980959698944",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020432617884258500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gngcichfny25600 我的也是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020432615598424064"
+          ]
+        },
+        "author_id": "1711065980959698944",
+        "conversation_id": "2020432617884258500",
+        "created_at": "2026-02-08T09:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T10:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020432617884258500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CQlKJR9Tv",
+              "end": 31,
+              "expanded_url": "https://x.com/gngcichfny25600/status/2020432617884258500/photo/1",
+              "media_key": "3_2020432615598424064",
+              "start": 8,
+              "url": "https://t.co/8CQlKJR9Tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020432617884258500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11689,
+          "like_count": 250,
+          "quote_count": 9,
+          "reply_count": 78,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特好凄凉 https://t.co/8CQlKJR9Tv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 37,
+          "like_count": 1177,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 57
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T17:08:37.000Z",
+        "description": "被分割开的天空 潮湿不堪的水泥地 零散的垃圾 不合时宜的雨\n在无人理会的地方，我死去了。",
+        "id": "1711065980959698944",
+        "location": "距离你1.8公里",
+        "name": "在无人理会的地方我死去了（互fo",
+        "pinned_tweet_id": "2016865823240188387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016158814202990593/OOhHmG_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 1174,
+          "like_count": 6470,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1884
+        },
+        "username": "gngcichfny25600",
+        "verified": false
+      }
+    ]
+  }
+}

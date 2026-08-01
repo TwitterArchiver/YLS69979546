@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072620249200185344"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2072620251448308191",
+    "created_at": "2026-07-02T09:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T10:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072620251448308191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DnSx7jWrsg",
+          "end": 71,
+          "expanded_url": "https://x.com/YLS69979546/status/2072620251448308191/photo/1",
+          "media_key": "3_2072620249200185344",
+          "start": 48,
+          "url": "https://t.co/DnSx7jWrsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072620251448308191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次都在把事情搞砸的边缘疯狂试探，启动困难和拖延到底怎么治，我感觉兴奋剂也不能完全治好这破毛病 https://t.co/DnSx7jWrsg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2072620249200185344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNtIqvb0AAn7ob.jpg",
+        "width": 839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072620249200185344"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2072620251448308191",
+        "created_at": "2026-07-02T09:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072620251448308191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DnSx7jWrsg",
+              "end": 71,
+              "expanded_url": "https://x.com/YLS69979546/status/2072620251448308191/photo/1",
+              "media_key": "3_2072620249200185344",
+              "start": 48,
+              "url": "https://t.co/DnSx7jWrsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072620251448308191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次都在把事情搞砸的边缘疯狂试探，启动困难和拖延到底怎么治，我感觉兴奋剂也不能完全治好这破毛病 https://t.co/DnSx7jWrsg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 116,
+          "like_count": 6755,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1114
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2055871790640189467",
+    "created_at": "2026-05-17T10:00:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:00:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055951547927040403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714510407006851072",
+          "start": 0,
+          "username": "hhhhhhhhhh68887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055951547927040403",
+    "in_reply_to_user_id": "1714510407006851072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055871790640189467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhhhhhhhhh68887 这恶心的不是西柚汁是另一个东西吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2055871790640189467",
+        "created_at": "2026-05-17T10:00:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:00:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055951547927040403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1714510407006851072",
+              "start": 0,
+              "username": "hhhhhhhhhh68887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055951547927040403",
+        "in_reply_to_user_id": "1714510407006851072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055871790640189467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhhhhhhhhh68887 这恶心的不是西柚汁是另一个东西吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714510407006851072",
+        "conversation_id": "2055871790640189467",
+        "created_at": "2026-05-17T04:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055871790640189467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055871790640189467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 803,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西柚汁，一闻到味道便反射性的想吐，着实难以入口。喝了也教人难以下咽。\n我永远不会原谅世界上最难喝的果汁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 59,
+          "like_count": 4282,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 494
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T05:15:24.000Z",
+        "description": "希腊裔法国人、未来主义者、超现实主义诗人、残酷戏剧创造者、法兰西护国主与极速弥赛亚。\n\n放弃和弥漫的虚无作斗争吧...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/sharedfiles/fi…",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2587855526",
+                "start": 0,
+                "url": "https://t.co/M2EioLD2t1"
+              }
+            ]
+          }
+        },
+        "id": "1714510407006851072",
+        "location": "“太阳”",
+        "name": "⚡️安托南•阿尔托Antonin Artaud🇫🇷",
+        "pinned_tweet_id": "1821412705938629078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053222646314401792/TEFjqA7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 810,
+          "like_count": 22061,
+          "listed_count": 2,
+          "media_count": 1002,
+          "tweet_count": 9420
+        },
+        "url": "https://t.co/M2EioLD2t1",
+        "username": "hhhhhhhhhh68887",
+        "verified": false
+      }
+    ]
+  }
+}

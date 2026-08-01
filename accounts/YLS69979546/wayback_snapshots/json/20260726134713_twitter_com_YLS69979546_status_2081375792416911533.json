@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2081375792416911533",
+    "created_at": "2026-07-26T13:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081375792416911533"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Donna1054957/s…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Donna1054957/status/2081291684768633325",
+          "start": 15,
+          "url": "https://t.co/rcqjyA6qjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081375792416911533",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081291684768633325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让清朝人送两包鸦片来 我饿了 https://t.co/rcqjyA6qjx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2081375792416911533",
+        "created_at": "2026-07-26T13:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081375792416911533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Donna1054957/s…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Donna1054957/status/2081291684768633325",
+              "start": 15,
+              "url": "https://t.co/rcqjyA6qjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081375792416911533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081291684768633325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让清朝人送两包鸦片来 我饿了 https://t.co/rcqjyA6qjx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2081291684768633325",
+        "created_at": "2026-07-26T08:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T09:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081291684768633325"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081291684768633325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 849,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "让清朝人送两包鸦片来 我饿了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 146,
+          "like_count": 8299,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 1644
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076659281622130688/qEJbcVrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 184,
+          "like_count": 500,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

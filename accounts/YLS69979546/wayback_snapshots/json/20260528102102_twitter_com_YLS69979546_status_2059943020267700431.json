@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2059943020267700431",
+    "created_at": "2026-05-28T10:21:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T11:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059943020267700431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009165773797998592",
+          "start": 3,
+          "username": "Favwontmiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059943020267700431",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059701621475430722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Favwontmiss: Autism: sudden change ruins my day.\n\nADHD: routine ruins my day.\n\nAuDHD: every option ruins my day in a unique and fascina…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059943020267700431",
+        "created_at": "2026-05-28T10:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059943020267700431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009165773797998592",
+              "start": 3,
+              "username": "Favwontmiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059943020267700431",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059701621475430722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Favwontmiss: Autism: sudden change ruins my day.\n\nADHD: routine ruins my day.\n\nAuDHD: every option ruins my day in a unique and fascina…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009165773797998592",
+        "conversation_id": "2059701621475430722",
+        "created_at": "2026-05-27T18:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059701621475430722"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059701621475430722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 4750,
+          "like_count": 182,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "Autism: sudden change ruins my day.\n\nADHD: routine ruins my day.\n\nAuDHD: every option ruins my day in a unique and fascinating way."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 65,
+          "like_count": 4707,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 554
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T07:30:28.000Z",
+        "description": "Buzz. Build. Bloom. 🐝🎀",
+        "id": "2009165773797998592",
+        "name": "Fav ⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027572806309822465/wNW-U_LX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4098,
+          "following_count": 68,
+          "like_count": 14747,
+          "listed_count": 14,
+          "media_count": 26,
+          "tweet_count": 8880
+        },
+        "username": "Favwontmiss",
+        "verified": true
+      }
+    ]
+  }
+}

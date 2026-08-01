@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2076699959265763348",
+    "created_at": "2026-07-13T16:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T17:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076699959265763348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Favwontmiss/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/Favwontmiss/status/2076418367708082186",
+          "start": 21,
+          "url": "https://t.co/ILF2yE7dDY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076699959265763348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076418367708082186",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直就是我，至少一半的焦虑都是这么出来的 https://t.co/ILF2yE7dDY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2076699959265763348",
+        "created_at": "2026-07-13T16:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T17:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076699959265763348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Favwontmiss/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Favwontmiss/status/2076418367708082186",
+              "start": 21,
+              "url": "https://t.co/ILF2yE7dDY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076699959265763348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076418367708082186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直就是我，至少一半的焦虑都是这么出来的 https://t.co/ILF2yE7dDY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009165773797998592",
+        "conversation_id": "2076418367708082186",
+        "created_at": "2026-07-12T21:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076418367708082186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076418367708082186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 8989,
+          "like_count": 518,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "Does anyone else with ADHD avoid one small task for weeks and think about it every single day instead of just doing it?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 128,
+          "like_count": 7435,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1308
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T07:30:28.000Z",
+        "description": "Buzz. Build. Bloom. 🐝",
+        "id": "2009165773797998592",
+        "name": "Fav ⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027572806309822465/wNW-U_LX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7251,
+          "following_count": 56,
+          "like_count": 19652,
+          "listed_count": 33,
+          "media_count": 46,
+          "tweet_count": 10405
+        },
+        "url": "",
+        "username": "Favwontmiss",
+        "verified": true
+      }
+    ]
+  }
+}

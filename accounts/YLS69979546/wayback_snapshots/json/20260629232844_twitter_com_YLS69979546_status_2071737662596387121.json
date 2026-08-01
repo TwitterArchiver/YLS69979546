@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2071736065019523588",
+    "created_at": "2026-06-29T23:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T00:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071737662596387121"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071737662596387121",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071736065019523588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在要先吃点想吃的，然后睡觉睡醒再吃点想吃的，不然到时候又啥都吃不下了，阿片戒断我踏马的吃饭都感觉恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2071736065019523588",
+        "created_at": "2026-06-29T23:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071737662596387121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071737662596387121",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071736065019523588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在要先吃点想吃的，然后睡觉睡醒再吃点想吃的，不然到时候又啥都吃不下了，阿片戒断我踏马的吃饭都感觉恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2071736065019523588",
+        "created_at": "2026-06-29T23:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071736065019523588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2071719013130883133",
+              "start": 63,
+              "url": "https://t.co/DHTIf2cZ72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071736065019523588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071719013130883133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我真的不知道之后戒断反应会咋样，今天真得搞得特别猛，罢了罢了，反正又不会死人，我就是喜欢时不时折磨一下自己，都是我自找的 https://t.co/DHTIf2cZ72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 115,
+          "like_count": 6587,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 1085
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

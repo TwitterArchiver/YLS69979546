@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065412861455950034",
+    "created_at": "2026-06-13T04:34:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:34:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065654049299628138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063272125289664512",
+          "start": 0,
+          "username": "anshibaias"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065654049299628138",
+    "in_reply_to_user_id": "2063272125289664512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065412861455950034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anshibaias 还是别吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065412861455950034",
+        "created_at": "2026-06-13T04:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065654049299628138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063272125289664512",
+              "start": 0,
+              "username": "anshibaias"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065654049299628138",
+        "in_reply_to_user_id": "2063272125289664512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065412861455950034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anshibaias 还是别吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063272125289664512",
+        "conversation_id": "2065412861455950034",
+        "created_at": "2026-06-12T12:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065412861455950034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065412861455950034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1294,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到了好多od和自残👁️👄👁️\n我也要吗👁️👄👁️od是什么感觉\n（好奇宝宝）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 82,
+          "like_count": 5527,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 704
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T14:50:59.000Z",
+        "description": "14岁喜欢可爱的东西.希望交到朋友",
+        "id": "2063272125289664512",
+        "name": "安士白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063627399213056000/QLQJLk7q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 40,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "anshibaias",
+        "verified": false
+      }
+    ]
+  }
+}

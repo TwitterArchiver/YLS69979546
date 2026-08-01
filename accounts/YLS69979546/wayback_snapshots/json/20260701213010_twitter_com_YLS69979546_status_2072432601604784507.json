@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2072432601604784507",
+    "created_at": "2026-07-01T21:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T22:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072432601604784507"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xayviza/status…",
+          "end": 104,
+          "expanded_url": "https://twitter.com/xayviza/status/2072157911921664102",
+          "start": 81,
+          "url": "https://t.co/KXHTK87sLY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072432601604784507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072157911921664102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不行了我看到这个第一反应竟然是手腕疼，我的伤真没救了，我还老作死不好好休息更好不了了，玛德我好像还是因为健身不热身不做防护给自己搞复发的，玛德我个傻逼真没救了吧 https://t.co/KXHTK87sLY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 83989,
+        "height": 832,
+        "media_key": "13_2072157845051920384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072157845051920384/img/9imyGbk0v5M2VO6e.jpg",
+        "public_metrics": {
+          "view_count": 1039650
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072157845051920384/vid/avc1/320x368/rErGlPV0m2KBzp6A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072157845051920384/vid/avc1/480x554/kiN1W4OuJWgXqH8K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072157845051920384/vid/avc1/720x832/MB__TCeYWtLjKCl8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072157845051920384/pl/Nqv3TvqxihM3IhYo.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2072432601604784507",
+        "created_at": "2026-07-01T21:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T22:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072432601604784507"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xayviza/status…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/xayviza/status/2072157911921664102",
+              "start": 81,
+              "url": "https://t.co/KXHTK87sLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072432601604784507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072157911921664102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行了我看到这个第一反应竟然是手腕疼，我的伤真没救了，我还老作死不好好休息更好不了了，玛德我好像还是因为健身不热身不做防护给自己搞复发的，玛德我个傻逼真没救了吧 https://t.co/KXHTK87sLY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072157845051920384"
+          ]
+        },
+        "author_id": "1863488145582403584",
+        "conversation_id": "2072157911921664102",
+        "created_at": "2026-07-01T03:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072157911921664102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ib3tFJdeNq",
+              "end": 54,
+              "expanded_url": "https://x.com/xayviza/status/2072157911921664102/video/1",
+              "media_key": "13_2072157845051920384",
+              "start": 31,
+              "url": "https://t.co/ib3tFJdeNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072157911921664102",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 327,
+          "impression_count": 2267842,
+          "like_count": 5648,
+          "quote_count": 11,
+          "reply_count": 798,
+          "retweet_count": 538
+        },
+        "reply_settings": "everyone",
+        "text": "What a professional looks like https://t.co/ib3tFJdeNq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 116,
+          "like_count": 6723,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1108
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T07:39:55.000Z",
+        "description": "",
+        "id": "1863488145582403584",
+        "name": "Patryzia",
+        "pinned_tweet_id": "2072157911921664102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021490238078742528/bPGJO-k2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 1071,
+          "like_count": 273,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 505
+        },
+        "url": "",
+        "username": "xayviza",
+        "verified": true
+      }
+    ]
+  }
+}

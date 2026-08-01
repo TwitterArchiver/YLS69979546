@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2081441016637432116",
+    "created_at": "2026-07-26T18:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081441611914088544"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081441611914088544",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081441016637432116",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉我可能吸了不到20mg，因为我没解离剂耐受，20mg算高剂量了，我觉得药效没想象的那么强烈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2081441008605401089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLDkcLbEAEy0X7.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2081441016637432116",
+        "created_at": "2026-07-26T18:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081441611914088544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081441611914088544",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081441016637432116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉我可能吸了不到20mg，因为我没解离剂耐受，20mg算高剂量了，我觉得药效没想象的那么强烈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081441008605401089"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2081441016637432116",
+        "created_at": "2026-07-26T18:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081441016637432116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IqeV731vJh",
+              "end": 48,
+              "expanded_url": "https://x.com/YLS69979546/status/2081441016637432116/photo/1",
+              "media_key": "3_2081441008605401089",
+              "start": 25,
+              "url": "https://t.co/IqeV731vJh"
+            },
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2081410027987128376",
+              "start": 49,
+              "url": "https://t.co/wx1gf87iB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081441016637432116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081410027987128376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "先发一段，其实我发的一部分目的是保存记录免得丢了 https://t.co/IqeV731vJh https://t.co/wx1gf87iB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 150,
+          "like_count": 8307,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1651
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

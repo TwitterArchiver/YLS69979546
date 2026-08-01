@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070333332370715093",
+    "created_at": "2026-06-26T19:53:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:53:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070596272277565724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1803914919668256768",
+          "start": 0,
+          "username": "wibucraft_25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070596272277565724",
+    "in_reply_to_user_id": "1803914919668256768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070333332370715093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wibucraft_25 no,no,no你到底看到了什么假象"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070333332370715093",
+        "created_at": "2026-06-26T19:53:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070596272277565724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1803914919668256768",
+              "start": 0,
+              "username": "wibucraft_25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070596272277565724",
+        "in_reply_to_user_id": "1803914919668256768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070333332370715093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wibucraft_25 no,no,no你到底看到了什么假象"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803914919668256768",
+        "conversation_id": "2070333332370715093",
+        "created_at": "2026-06-26T02:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070333332370715093"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "ce7988d3a8b6f49f"
+        },
+        "id": "2070333332370715093",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 83483,
+          "like_count": 108,
+          "quote_count": 11,
+          "reply_count": 301,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Coba kita lahir di China  deh enak bet  sekolah di China. Bayangin aja gak ada koruptor di China"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 105,
+          "like_count": 6346,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-20T22:17:15.000Z",
+        "description": "Rawr~🗿💅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@wibucraft35",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@wibucraft35",
+                "start": 0,
+                "url": "https://t.co/sugVoDlSf7"
+              }
+            ]
+          }
+        },
+        "id": "1803914919668256768",
+        "location": "Kalimantan Barat, Indonesia",
+        "name": "WibuCraft",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974742475974787072/3k-v09mj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 244
+        },
+        "url": "https://t.co/sugVoDlSf7",
+        "username": "wibucraft_25",
+        "verified": false
+      }
+    ]
+  }
+}

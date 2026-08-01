@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065328997316362245",
+    "created_at": "2026-06-12T12:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T13:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065413515222147292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620328547847110656",
+          "start": 0,
+          "username": "NPC888666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065413515222147292",
+    "in_reply_to_user_id": "1620328547847110656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065328997316362245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NPC888666 可恶的中间商"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2065328981633822720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmFxCaacAAjuIa.jpg",
+        "width": 694
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065328997316362245",
+        "created_at": "2026-06-12T12:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T13:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065413515222147292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620328547847110656",
+              "start": 0,
+              "username": "NPC888666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065413515222147292",
+        "in_reply_to_user_id": "1620328547847110656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065328997316362245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NPC888666 可恶的中间商"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065328981633822720"
+          ]
+        },
+        "author_id": "1620328547847110656",
+        "conversation_id": "2065328997316362245",
+        "created_at": "2026-06-12T07:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T08:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065328997316362245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s8HJN3crOd",
+              "end": 23,
+              "expanded_url": "https://x.com/NPC888666/status/2065328997316362245/photo/1",
+              "media_key": "3_2065328981633822720",
+              "start": 0,
+              "url": "https://t.co/s8HJN3crOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065328997316362245",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8932,
+          "like_count": 380,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/s8HJN3crOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 79,
+          "like_count": 5431,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 687
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:50:10.000Z",
+        "description": "我喜欢讲故事和分享一些感悟，主打一个真实，不虚伪。 一个普通散户 不是KOL。",
+        "id": "1620328547847110656",
+        "name": "有故事的NPC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897867547439251457/CcDVFS1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43870,
+          "following_count": 1322,
+          "like_count": 7234,
+          "listed_count": 247,
+          "media_count": 1279,
+          "tweet_count": 7753
+        },
+        "username": "NPC888666",
+        "verified": true
+      }
+    ]
+  }
+}

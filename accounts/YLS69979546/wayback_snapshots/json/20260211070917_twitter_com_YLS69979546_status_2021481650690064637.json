@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021481641903001600"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2021100354226749627",
+    "created_at": "2026-02-11T07:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T08:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021481650690064637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1537770657198444545",
+          "start": 0,
+          "username": "chaoge_btc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/35n0jSL1sl",
+          "end": 50,
+          "expanded_url": "https://x.com/YLS69979546/status/2021481650690064637/photo/1",
+          "media_key": "3_2021481641903001600",
+          "start": 27,
+          "url": "https://t.co/35n0jSL1sl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021481650690064637",
+    "in_reply_to_user_id": "1537770657198444545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021100354226749627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaoge_btc 还行，我的gpt还算是正常的 https://t.co/35n0jSL1sl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021481641903001600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA2-19GaEAAbjtJ.jpg",
+        "width": 943
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2021100344663830528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAxkDiMbcAAwpLV.jpg",
+        "width": 522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021481641903001600"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2021100354226749627",
+        "created_at": "2026-02-11T07:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T08:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021481650690064637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1537770657198444545",
+              "start": 0,
+              "username": "chaoge_btc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35n0jSL1sl",
+              "end": 50,
+              "expanded_url": "https://x.com/YLS69979546/status/2021481650690064637/photo/1",
+              "media_key": "3_2021481641903001600",
+              "start": 27,
+              "url": "https://t.co/35n0jSL1sl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021481650690064637",
+        "in_reply_to_user_id": "1537770657198444545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021100354226749627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaoge_btc 还行，我的gpt还算是正常的 https://t.co/35n0jSL1sl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021100344663830528"
+          ]
+        },
+        "author_id": "1537770657198444545",
+        "conversation_id": "2021100354226749627",
+        "created_at": "2026-02-10T05:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021100354226749627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UBsMg0YVnB",
+              "end": 60,
+              "expanded_url": "https://x.com/chaoge_btc/status/2021100354226749627/photo/1",
+              "media_key": "3_2021100344663830528",
+              "start": 37,
+              "url": "https://t.co/UBsMg0YVnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021100354226749627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 209,
+          "impression_count": 364756,
+          "like_count": 560,
+          "quote_count": 25,
+          "reply_count": 233,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "我想去洗车，洗车店离我家只有50米，走几步就到了，你说我还值得开车去吗？ https://t.co/UBsMg0YVnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 35,
+          "like_count": 1281,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 86
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T12:14:41.000Z",
+        "description": "13年买入BTC持有至今从未主动出售过 | 前国内首款比特币交易移动APP BitCat创始人 | 前交易所CTO | 投资过矿场，媒体，钱包，交易所 | 个人TG @chaoge_btc l 10BTC悬赏黄天威",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 83,
+                "username": "chaoge_btc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chaoge_Channel",
+                "end": 23,
+                "expanded_url": "https://t.me/Chaoge_Channel",
+                "start": 0,
+                "url": "https://t.co/roKfL0hdzX"
+              }
+            ]
+          }
+        },
+        "id": "1537770657198444545",
+        "location": "Hong Kong",
+        "name": "超哥BTC",
+        "pinned_tweet_id": "1994731657530880276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537770768225882112/xJ3lFpur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19539,
+          "following_count": 1392,
+          "like_count": 12436,
+          "listed_count": 116,
+          "media_count": 427,
+          "tweet_count": 3977
+        },
+        "url": "https://t.co/roKfL0hdzX",
+        "username": "chaoge_btc",
+        "verified": true
+      }
+    ]
+  }
+}

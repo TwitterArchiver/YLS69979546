@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2068583437192298673",
+    "created_at": "2026-06-21T07:57:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T08:57:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068604154365534566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1844356739539533829",
+          "start": 0,
+          "username": "xccpma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068604154365534566",
+    "in_reply_to_user_id": "1844356739539533829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068583437192298673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpma 吸，毒就是要多吸🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2068583437192298673",
+        "created_at": "2026-06-21T07:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T08:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068604154365534566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1844356739539533829",
+              "start": 0,
+              "username": "xccpma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068604154365534566",
+        "in_reply_to_user_id": "1844356739539533829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068583437192298673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpma 吸，毒就是要多吸🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844356739539533829",
+        "conversation_id": "2068583437192298673",
+        "created_at": "2026-06-21T06:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068583437192298673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chrnqklak/stat…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/chrnqklak/status/2067906497582096575",
+              "start": 136,
+              "url": "https://t.co/qG0ThyfJIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068583437192298673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 250,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067906497582096575",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有人开始吸阿片类药物！\n\n曲马多、羟考酮、白兔、1161、复方甘草片等，一律爽吸！阿片类会让你瞬间产生极强的幸福和欣快感！\n一旦吸食，舒适感是无比享受和满足\n你会变成只为阿片而活的“阿片鬼”，满脑子只有对药物的疯狂渴求，彻底过上正常人生。\n\n哪怕不吃饭，也要吸阿片类！ https://t.co/qG0ThyfJIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 89,
+          "like_count": 6074,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-10T12:38:17.000Z",
+        "description": "这都是要应验的，不要干这种事情（欢迎互fo）",
+        "id": "1844356739539533829",
+        "name": "担麦人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048433578531557377/aCKL5-8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 79,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "xccpma",
+        "verified": false
+      }
+    ]
+  }
+}

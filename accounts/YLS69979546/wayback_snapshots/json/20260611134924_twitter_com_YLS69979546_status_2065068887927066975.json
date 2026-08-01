@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2064957558025343065",
+    "created_at": "2026-06-11T13:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065068887927066975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1890029305205608448",
+          "start": 0,
+          "username": "wsl8297"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065068887927066975",
+    "in_reply_to_user_id": "1890029305205608448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064957558025343065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsl8297 太糊了看不清，不知道多少欧，欧姆的欧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1331,
+        "media_key": "3_2064957555663921152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKgz9M2bYAArYhH.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2064957558025343065",
+        "created_at": "2026-06-11T13:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065068887927066975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1890029305205608448",
+              "start": 0,
+              "username": "wsl8297"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065068887927066975",
+        "in_reply_to_user_id": "1890029305205608448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064957558025343065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsl8297 太糊了看不清，不知道多少欧，欧姆的欧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064957555663921152"
+          ]
+        },
+        "author_id": "1890029305205608448",
+        "conversation_id": "2064957558025343065",
+        "created_at": "2026-06-11T06:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T07:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064957558025343065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCmmmxvwdi",
+              "end": 31,
+              "expanded_url": "https://x.com/wsl8297/status/2064957558025343065/photo/1",
+              "media_key": "3_2064957555663921152",
+              "start": 8,
+              "url": "https://t.co/zCmmmxvwdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064957558025343065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 55781,
+          "like_count": 327,
+          "quote_count": 1,
+          "reply_count": 123,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家帮我看看： https://t.co/zCmmmxvwdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 79,
+          "like_count": 5334,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 678
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T13:24:51.000Z",
+        "description": "AI · 程序员  \n幽默 · 段子手\n坤年 · 练习生",
+        "id": "1890029305205608448",
+        "name": "Joruno",
+        "pinned_tweet_id": "2054798253955375388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890029372645720064/E4FVs5WU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16697,
+          "following_count": 597,
+          "like_count": 17673,
+          "listed_count": 97,
+          "media_count": 1565,
+          "tweet_count": 16447
+        },
+        "username": "wsl8297",
+        "verified": true
+      }
+    ]
+  }
+}

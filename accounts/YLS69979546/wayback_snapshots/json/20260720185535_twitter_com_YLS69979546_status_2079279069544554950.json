@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079273391119606190",
+    "created_at": "2026-07-20T18:55:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:55:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079279069544554950"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079279069544554950",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079276938439667828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个逼状态会让我行动能力大幅下降，类似于动物被吓住呆愣在原地的状态，任何的行动都需要给自己充分的心理暗示或者强行对抗，玛德这不好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079273391119606190",
+        "created_at": "2026-07-20T18:55:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:55:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079279069544554950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079279069544554950",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079276938439667828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个逼状态会让我行动能力大幅下降，类似于动物被吓住呆愣在原地的状态，任何的行动都需要给自己充分的心理暗示或者强行对抗，玛德这不好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079273391119606190",
+        "created_at": "2026-07-20T18:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079276938439667828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079276938439667828",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079275944586727725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道从几岁开始不再这样了，现在被一个梦整出了可能是十来年前的状态，强烈的不安全感（怎么能有如此胆小的成年人，而且我说不上来怕什么具体的东西）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 143,
+          "like_count": 7811,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1474
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

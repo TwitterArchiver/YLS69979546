@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065684617601159261",
+    "created_at": "2026-06-13T06:36:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T07:36:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065684617601159261"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065684617601159261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一进医院候诊区就焦虑的要死的病怎么治啊，我真的一坐在那边就度秒如年，坐立难安，如果周围人多的话更踏马的受不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065684617601159261",
+        "created_at": "2026-06-13T06:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065684617601159261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065684617601159261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一进医院候诊区就焦虑的要死的病怎么治啊，我真的一坐在那边就度秒如年，坐立难安，如果周围人多的话更踏马的受不了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 82,
+          "like_count": 5531,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 707
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

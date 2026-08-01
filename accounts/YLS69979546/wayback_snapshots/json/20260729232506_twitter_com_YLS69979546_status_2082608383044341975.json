@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082513676989239296"
+      ],
+      "media_source_tweet_id": [
+        "2082514307351257231"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2082608383044341975",
+    "created_at": "2026-07-29T23:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T00:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082608383044341975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "973242961562611716",
+          "start": 3,
+          "username": "eddllllll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LNuhFA0XYg",
+          "end": 70,
+          "expanded_url": "https://x.com/eddllllll/status/2082514307351257231/photo/1",
+          "media_key": "3_2082513676989239296",
+          "start": 47,
+          "url": "https://t.co/LNuhFA0XYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082608383044341975",
+    "lang": "ar",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082514307351257231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eddllllll: الكثير من الناس مدمنين هذا الشي https://t.co/LNuhFA0XYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2082513676989239296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaTJ9TWEAAeCXc.png",
+        "width": 2248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082513676989239296"
+          ]
+        },
+        "author_id": "973242961562611716",
+        "conversation_id": "2082514307351257231",
+        "created_at": "2026-07-29T17:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082514307351257231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNuhFA0XYg",
+              "end": 55,
+              "expanded_url": "https://x.com/eddllllll/status/2082514307351257231/photo/1",
+              "media_key": "3_2082513676989239296",
+              "start": 32,
+              "url": "https://t.co/LNuhFA0XYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082514307351257231",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 171866,
+          "like_count": 902,
+          "quote_count": 14,
+          "reply_count": 57,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "الكثير من الناس مدمنين هذا الشي https://t.co/LNuhFA0XYg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082513676989239296"
+          ],
+          "media_source_tweet_id": [
+            "2082514307351257231"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082608383044341975",
+        "created_at": "2026-07-29T23:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082608383044341975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "973242961562611716",
+              "start": 3,
+              "username": "eddllllll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNuhFA0XYg",
+              "end": 70,
+              "expanded_url": "https://x.com/eddllllll/status/2082514307351257231/photo/1",
+              "media_key": "3_2082513676989239296",
+              "start": 47,
+              "url": "https://t.co/LNuhFA0XYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082608383044341975",
+        "lang": "ar",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082514307351257231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eddllllll: الكثير من الناس مدمنين هذا الشي https://t.co/LNuhFA0XYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 163,
+          "like_count": 8474,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1773
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-12T17:02:58.000Z",
+        "description": "مايو",
+        "id": "973242961562611716",
+        "name": "1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043061002422341632/omxnz5Uc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11111,
+          "following_count": 3493,
+          "like_count": 315658,
+          "listed_count": 61,
+          "media_count": 3627,
+          "tweet_count": 272803
+        },
+        "url": "",
+        "username": "eddllllll",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2004914977426284983",
+    "created_at": "2025-12-27T14:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004924912503587037"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004924912503587037",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004921561032392845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "明天要收快递还得早起，今天又不想睡作息调不过来只能吃安眠药再，手头只有破逼右佐吃完第二天嘴里都是苦的，我还想说点什么但我推特号用QQ邮箱注册的我不敢乱说，还有我这傻逼用户名看着也好难受，搞得我老想弄个新号，我当年为什么这么傻逼，上一个谷歌账号也是用QQ邮箱注册的，真的对以前的自己无语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2004914977426284983",
+        "created_at": "2025-12-27T14:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004924912503587037"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004924912503587037",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004921561032392845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明天要收快递还得早起，今天又不想睡作息调不过来只能吃安眠药再，手头只有破逼右佐吃完第二天嘴里都是苦的，我还想说点什么但我推特号用QQ邮箱注册的我不敢乱说，还有我这傻逼用户名看着也好难受，搞得我老想弄个新号，我当年为什么这么傻逼，上一个谷歌账号也是用QQ邮箱注册的，真的对以前的自己无语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2004914977426284983",
+        "created_at": "2025-12-27T14:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004921561032392845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004921561032392845",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004918144595578913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的是服了，手机坏了任何软件都登不上谁都联系不上干什么都没劲，只能从中午硬睡到天黑倒是正好补了昨天熬的夜，等到晚上又烦得要死一边看新手机推荐一边等我房东回来，焦虑犯了想打游戏都打不下去，还好我房东住我隔壁，找他帮忙通厕所然后借他的手机给家里人打电话让帮我买新手机寄到我这边来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "平平无奇的普通少年罢了",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

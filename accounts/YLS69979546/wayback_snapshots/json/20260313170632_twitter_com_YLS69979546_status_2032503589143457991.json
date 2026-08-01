@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2032132544075075821",
+    "created_at": "2026-03-13T17:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032503589143457991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1802704441961017344",
+          "start": 0,
+          "username": "hikawakaede3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032503589143457991",
+    "in_reply_to_user_id": "1802704441961017344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032132544075075821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hikawakaede3 好像是有点，即使我没有宗教信仰用dpt的时候还是有种奇特的宗教感（？）说不清是什么，好像有神控制世界的感觉，尤其是头几次用的时候这种说不清的感觉更明显"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2032132544075075821",
+        "created_at": "2026-03-13T17:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032503589143457991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1802704441961017344",
+              "start": 0,
+              "username": "hikawakaede3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032503589143457991",
+        "in_reply_to_user_id": "1802704441961017344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032132544075075821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hikawakaede3 好像是有点，即使我没有宗教信仰用dpt的时候还是有种奇特的宗教感（？）说不清是什么，好像有神控制世界的感觉，尤其是头几次用的时候这种说不清的感觉更明显"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802704441961017344",
+        "conversation_id": "2032132544075075821",
+        "created_at": "2026-03-12T16:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032132544075075821"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032132544075075821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来dmt好像使用过后无神论者好像会大幅倾向转变为有神论者？dpt就只是把甲基换成丙基，好像也有这种效果？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 43,
+          "like_count": 2109,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 193
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T14:06:56.000Z",
+        "description": "2025.11.14 enby oder｜欲行动而不知，欲全知而不得，虚无，虚无，可识人心真面目？｜精神状态奇异 政治倾向奇特 想成为不走极端的人 喜欢我的请来和我交朋友 如果我发疯对不起请原谅我 狗猫：@PrimAsdue /@HCwufs 小号的我：@shirokanearashi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 102,
+                "username": "PrimAsdue"
+              },
+              {
+                "end": 121,
+                "start": 114,
+                "username": "HCwufs"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "shirokanearashi"
+              }
+            ]
+          }
+        },
+        "id": "1802704441961017344",
+        "location": "燃素与以太之地",
+        "name": "冰川枫🏳️‍⚧️#天车一",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029333996317065216/UHUJborI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858,
+          "following_count": 790,
+          "like_count": 22244,
+          "listed_count": 4,
+          "media_count": 187,
+          "tweet_count": 6447
+        },
+        "username": "hikawakaede3",
+        "verified": false
+      }
+    ]
+  }
+}

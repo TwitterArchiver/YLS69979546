@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2082894434061222284",
+    "created_at": "2026-07-30T18:21:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T19:21:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082894434061222284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Smithhxz2/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Smithhxz2/status/2082515465738256606",
+          "start": 7,
+          "url": "https://t.co/G7MCnLqply"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082894434061222284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082515465738256606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想要这个 https://t.co/G7MCnLqply"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2082515456582144000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaUxizW0AAHd3_.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082894434061222284",
+        "created_at": "2026-07-30T18:21:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:21:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082894434061222284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Smithhxz2/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Smithhxz2/status/2082515465738256606",
+              "start": 7,
+              "url": "https://t.co/G7MCnLqply"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082894434061222284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082515465738256606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想要这个 https://t.co/G7MCnLqply"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082515456582144000"
+          ]
+        },
+        "author_id": "2076919317690560512",
+        "conversation_id": "2082515465738256606",
+        "created_at": "2026-07-29T17:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082515465738256606"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KWzzkmYPN2",
+              "end": 55,
+              "expanded_url": "https://x.com/Smithhxz2/status/2082515465738256606/photo/1",
+              "media_key": "3_2082515456582144000",
+              "start": 32,
+              "url": "https://t.co/KWzzkmYPN2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082515465738256606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6422,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "1st time trying heroin #drugtwt https://t.co/KWzzkmYPN2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 162,
+          "like_count": 8511,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1818
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-14T06:40:35.000Z",
+        "description": "drugtwt|edtwt|Shtwt\nLonely ,,Sex addict,,drug addict",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/26SXAKt8ep",
+                "end": 23,
+                "expanded_url": "https://discord.gg/26SXAKt8ep",
+                "start": 0,
+                "url": "https://t.co/UzUZCQT9zw"
+              }
+            ]
+          }
+        },
+        "id": "2076919317690560512",
+        "location": "California, USA",
+        "name": "Smith",
+        "pinned_tweet_id": "2082515465738256606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076934069963644928/fesGW-gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 954,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/UzUZCQT9zw",
+        "username": "Smithhxz2",
+        "verified": false
+      }
+    ]
+  }
+}

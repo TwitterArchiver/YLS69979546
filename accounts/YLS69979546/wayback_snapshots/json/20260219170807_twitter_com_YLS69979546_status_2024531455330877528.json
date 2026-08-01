@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2024517261948768338",
+    "created_at": "2026-02-19T17:08:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T18:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024531455330877528"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2024531455330877528",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024517261948768338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个哮喘片我好像懂了什么，前半段是阿片类+兴奋剂（罂粟壳+麻黄）所以特别爽，后半段感觉弱了很多，因为麻黄碱药效短过去了就没了，罂粟壳里吗啡含量低而且不稳定，所以后半段纯阿片的药效就一般，现在又觉得没啥感觉，不怎么爽还犯困了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2024517261948768338",
+        "created_at": "2026-02-19T17:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T18:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024531455330877528"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024531455330877528",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024517261948768338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个哮喘片我好像懂了什么，前半段是阿片类+兴奋剂（罂粟壳+麻黄）所以特别爽，后半段感觉弱了很多，因为麻黄碱药效短过去了就没了，罂粟壳里吗啡含量低而且不稳定，所以后半段纯阿片的药效就一般，现在又觉得没啥感觉，不怎么爽还犯困了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2024517261948768338",
+        "created_at": "2026-02-19T16:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T17:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024517261948768338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024517261948768338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我艹了啊，我这几天好像天天都在od磕药，不不会把自己玩西内吧，我现在还不想西内。还有，这哮喘片咋嫩爽呢，我靠爽死了，之前两板哮喘片我觉得一般来着，这次我甚至前两天都玩了阿片，今天三板哮喘片咋这么爽，再这么下去感觉真要体验阿片戒断去咯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 41,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 116
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

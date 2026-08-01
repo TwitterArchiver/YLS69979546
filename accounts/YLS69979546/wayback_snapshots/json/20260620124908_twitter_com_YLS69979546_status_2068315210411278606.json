@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2068315210411278606",
+    "created_at": "2026-06-20T12:49:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T13:49:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068315210411278606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1309455512895807488",
+          "start": 3,
+          "username": "sigmoid_uno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068315210411278606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068024231431152095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sigmoid_uno: 有一种感觉，现在的00后陷入虚无和堕落是必然的。00后的生长环境里，作为参与者和经历者，见证了上个年代大部分叙事的破产。小时候成长于经济上行期见证了各种鸡汤和奋斗叙事，青年时见证了内卷，高考神话的破产，毕业后也从象牙塔中梦醒躺平。从纸醉金迷到对…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2068315210411278606",
+        "created_at": "2026-06-20T12:49:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T13:49:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068315210411278606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1309455512895807488",
+              "start": 3,
+              "username": "sigmoid_uno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068315210411278606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068024231431152095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sigmoid_uno: 有一种感觉，现在的00后陷入虚无和堕落是必然的。00后的生长环境里，作为参与者和经历者，见证了上个年代大部分叙事的破产。小时候成长于经济上行期见证了各种鸡汤和奋斗叙事，青年时见证了内卷，高考神话的破产，毕业后也从象牙塔中梦醒躺平。从纸醉金迷到对…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1309455512895807488",
+        "conversation_id": "2068024231431152095",
+        "created_at": "2026-06-19T17:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068024231431152095"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068024231431152095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 43377,
+          "like_count": 886,
+          "quote_count": 7,
+          "reply_count": 107,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "有一种感觉，现在的00后陷入虚无和堕落是必然的。00后的生长环境里，作为参与者和经历者，见证了上个年代大部分叙事的破产。小时候成长于经济上行期见证了各种鸡汤和奋斗叙事，青年时见证了内卷，高考神话的破产，毕业后也从象牙塔中梦醒躺平。从纸醉金迷到对环境麻木，注定是这一代人的宿命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 88,
+          "like_count": 6044,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 817
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-25T11:31:43.000Z",
+        "description": "所有残暴的欢愉，都终将以残暴结局",
+        "id": "1309455512895807488",
+        "name": "🎃",
+        "pinned_tweet_id": "2063802671740633105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049294031402991616/4xsg-j1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4959,
+          "following_count": 320,
+          "like_count": 76655,
+          "listed_count": 16,
+          "media_count": 922,
+          "tweet_count": 11558
+        },
+        "url": "",
+        "username": "sigmoid_uno",
+        "verified": false
+      }
+    ]
+  }
+}

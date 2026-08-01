@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2068690842500428259",
+    "created_at": "2026-06-22T00:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068852798574444896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "979178381160919040",
+          "start": 0,
+          "username": "patrickstone222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068852798574444896",
+    "in_reply_to_user_id": "979178381160919040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068690842500428259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@patrickstone222 我真通了一个宵，然后健了会身，现在准备吃颗安眠药去睡觉了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 873,
+        "media_key": "3_2068690818404151296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLV3VsUXcAAOQl0.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2068690842500428259",
+        "created_at": "2026-06-22T00:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068852798574444896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "979178381160919040",
+              "start": 0,
+              "username": "patrickstone222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068852798574444896",
+        "in_reply_to_user_id": "979178381160919040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068690842500428259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@patrickstone222 我真通了一个宵，然后健了会身，现在准备吃颗安眠药去睡觉了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068690818404151296"
+          ]
+        },
+        "author_id": "979178381160919040",
+        "conversation_id": "2068690842500428259",
+        "created_at": "2026-06-21T13:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T14:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068690842500428259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PRJ2EViYoc",
+              "end": 38,
+              "expanded_url": "https://x.com/patrickstone222/status/2068690842500428259/photo/1",
+              "media_key": "3_2068690818404151296",
+              "start": 15,
+              "url": "https://t.co/PRJ2EViYoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068690842500428259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 8342,
+          "like_count": 269,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "熬夜之后去睡觉，不是去健身房 https://t.co/PRJ2EViYoc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 91,
+          "like_count": 6137,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 836
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-29T02:08:13.000Z",
+        "description": "寻找并传递温度、快乐！\nOPC、AI、历史",
+        "id": "979178381160919040",
+        "location": "Tokyo-to, Japan",
+        "name": "Alan.S",
+        "pinned_tweet_id": "2060927364687954148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048009926690361345/BR_BGAi0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5088,
+          "following_count": 7458,
+          "like_count": 2340,
+          "listed_count": 10,
+          "media_count": 947,
+          "tweet_count": 4056
+        },
+        "url": "",
+        "username": "patrickstone222",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2068625189894803734",
+    "created_at": "2026-06-21T11:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068665026463121562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1662058783215087617",
+          "start": 0,
+          "username": "HacchiTheMaid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068665026463121562",
+    "in_reply_to_user_id": "1662058783215087617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068625189894803734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HacchiTheMaid 这么看是有点像毒品吧，一小包不明粉末"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068625187046817792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLU7pcdaAAAUCO1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2068625189894803734",
+        "created_at": "2026-06-21T11:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068665026463121562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1662058783215087617",
+              "start": 0,
+              "username": "HacchiTheMaid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068665026463121562",
+        "in_reply_to_user_id": "1662058783215087617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068625189894803734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HacchiTheMaid 这么看是有点像毒品吧，一小包不明粉末"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068625187046817792"
+          ]
+        },
+        "author_id": "1662058783215087617",
+        "conversation_id": "2068625189894803734",
+        "created_at": "2026-06-21T09:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T10:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068625189894803734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/btrvva390z",
+              "end": 100,
+              "expanded_url": "https://x.com/HacchiTheMaid/status/2068625189894803734/photo/1",
+              "media_key": "3_2068625187046817792",
+              "start": 77,
+              "url": "https://t.co/btrvva390z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068625189894803734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2059,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大无语事件之好朋友给我买了爽身粉什么的，然后我家里人以为这个是毒品，先是问是不是毒品，然后说别做突破底线的事情，然后和我说去自首吧\n为什么会觉得我吸毒】 https://t.co/btrvva390z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 90,
+          "like_count": 6104,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 829
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-26T11:31:22.000Z",
+        "description": "终其永怀，又窘阴雨。",
+        "id": "1662058783215087617",
+        "location": "距离2.4km",
+        "name": "Hacchi",
+        "pinned_tweet_id": "2067962231330066858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937052623523168256/NWtxx8z__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11291,
+          "following_count": 2049,
+          "like_count": 52594,
+          "listed_count": 38,
+          "media_count": 1398,
+          "tweet_count": 37348
+        },
+        "url": "",
+        "username": "HacchiTheMaid",
+        "verified": false
+      }
+    ]
+  }
+}

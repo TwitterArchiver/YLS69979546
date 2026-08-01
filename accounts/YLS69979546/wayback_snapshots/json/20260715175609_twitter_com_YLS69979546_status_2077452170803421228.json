@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2077085637292040601",
+    "created_at": "2026-07-15T17:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T18:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077452170803421228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810616157059301376",
+          "start": 0,
+          "username": "Bocchi_Kk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077452170803421228",
+    "in_reply_to_user_id": "1810616157059301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077444731446153619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bocchi_Kk1 但是这玩意难喝，喝完了还恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2077085637292040601",
+        "created_at": "2026-07-15T17:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077452170803421228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810616157059301376",
+              "start": 0,
+              "username": "Bocchi_Kk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077452170803421228",
+        "in_reply_to_user_id": "1810616157059301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077444731446153619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bocchi_Kk1 但是这玩意难喝，喝完了还恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810616157059301376",
+        "conversation_id": "2077085637292040601",
+        "created_at": "2026-07-15T17:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T18:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077444731446153619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077444731446153619",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077085637292040601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 我喝480ml的，浑身软软的💀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 134,
+          "like_count": 7512,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1374
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T10:05:14.000Z",
+        "description": "09/od/互fo/中抑中焦",
+        "id": "1810616157059301376",
+        "location": "你家",
+        "name": "可爱波奇大王💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 122,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "Bocchi_Kk1",
+        "verified": false
+      }
+    ]
+  }
+}

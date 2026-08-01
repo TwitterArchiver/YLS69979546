@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2077935250542608387",
+    "created_at": "2026-07-17T23:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T00:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078259121288302795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987138845058736133",
+          "start": 0,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078259121288302795",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077935250542608387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maipianaini0930 好多精品神药，每次看到医院药房就好想进去大吃特吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2077935234079956992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZPFgWaoAA6BH9.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1434,
+        "media_key": "3_2077935234050670592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZPFgPbwAAmZ_Z.jpg",
+        "width": 1662
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2077935250542608387",
+        "created_at": "2026-07-17T23:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078259121288302795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078259121288302795",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077935250542608387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好多精品神药，每次看到医院药房就好想进去大吃特吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077935234079956992",
+            "3_2077935234050670592"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2077935250542608387",
+        "created_at": "2026-07-17T01:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077935250542608387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABPQqKbfXD",
+              "end": 87,
+              "expanded_url": "https://x.com/maipianaini0930/status/2077935250542608387/photo/1",
+              "media_key": "3_2077935234079956992",
+              "start": 64,
+              "url": "https://t.co/ABPQqKbfXD"
+            },
+            {
+              "display_url": "pic.x.com/ABPQqKbfXD",
+              "end": 87,
+              "expanded_url": "https://x.com/maipianaini0930/status/2077935250542608387/photo/1",
+              "media_key": "3_2077935234050670592",
+              "start": 64,
+              "url": "https://t.co/ABPQqKbfXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077935250542608387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 546,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "地西畔消除半衰期长达一周，影响lsd的作用\n但我又不能这么长时间不用苯二氮卓药物，如果对抗焦虑和戒酒影响不大以后就不开地西畔了 https://t.co/ABPQqKbfXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 139,
+          "like_count": 7597,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1412
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 296,
+          "like_count": 11037,
+          "listed_count": 1,
+          "media_count": 730,
+          "tweet_count": 4843
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

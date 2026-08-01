@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2069954758442406350",
+    "created_at": "2026-06-25T23:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T00:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070293021212688658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2028348776101081088",
+          "start": 0,
+          "username": "4_M1574k3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070293021212688658",
+    "in_reply_to_user_id": "2028348776101081088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069954758442406350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4_M1574k3 算吧，我自残的一部分原因就是喜欢疼痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2069954758442406350",
+        "created_at": "2026-06-25T23:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T00:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070293021212688658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2028348776101081088",
+              "start": 0,
+              "username": "4_M1574k3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070293021212688658",
+        "in_reply_to_user_id": "2028348776101081088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069954758442406350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4_M1574k3 算吧，我自残的一部分原因就是喜欢疼痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028348776101081088",
+        "conversation_id": "2069954758442406350",
+        "created_at": "2026-06-25T01:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T02:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069954758442406350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069954758442406350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 23724,
+          "like_count": 1561,
+          "quote_count": 24,
+          "reply_count": 53,
+          "retweet_count": 126
+        },
+        "reply_settings": "everyone",
+        "text": "Is it really considered self-harm if you like the pain? Genuine question"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 99,
+          "like_count": 6326,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T05:57:27.000Z",
+        "description": "👾21, BMI- 17.6 UGW-85LBS, SHtwt, she/they, pansexual, AUDHD👾 THE WAY THE ROPE TELEPORTED TO MY NECK!! DATTBAYO FELAS!!! 🤣🤣 (forced recovery rn :/)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "homestuck.com",
+                "end": 23,
+                "expanded_url": "http://homestuck.com",
+                "start": 0,
+                "url": "https://t.co/09G2EzHENK"
+              }
+            ]
+          }
+        },
+        "id": "2028348776101081088",
+        "location": "My mothers basment 🔥",
+        "name": "-「42r0n0m1c4l-M1574k3」-",
+        "pinned_tweet_id": "2032188928627794067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030477831013269505/Ld8Sb8eb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 78,
+          "like_count": 4677,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/09G2EzHENK",
+        "username": "4_M1574k3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079273391119606190",
+    "created_at": "2026-07-20T18:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079273391119606190"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079273391119606190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一点多的时候好困睡着了，做了个让我特别难受的梦（不说是噩梦因为觉得它不能完全算噩梦）总之导致非常痛苦，恐惧，悲哀，现在去个厕所恨不得打开全家的灯，不安全感，并且天亮之前都不敢睡觉了，真丢人有时候胆小的要命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079273391119606190",
+        "created_at": "2026-07-20T18:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079273391119606190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079273391119606190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点多的时候好困睡着了，做了个让我特别难受的梦（不说是噩梦因为觉得它不能完全算噩梦）总之导致非常痛苦，恐惧，悲哀，现在去个厕所恨不得打开全家的灯，不安全感，并且天亮之前都不敢睡觉了，真丢人有时候胆小的要命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 143,
+          "like_count": 7811,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1471
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

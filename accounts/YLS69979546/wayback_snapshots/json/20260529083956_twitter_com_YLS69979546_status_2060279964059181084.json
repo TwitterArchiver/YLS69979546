@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2060147264375648643",
+    "created_at": "2026-05-29T08:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060279964059181084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1636774495980752897",
+          "start": 0,
+          "username": "JewBizLogic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060279964059181084",
+    "in_reply_to_user_id": "1636774495980752897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060147264375648643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JewBizLogic 我没去过美国，但我经常健身，国内健身房有时候会有磅为单位的器械，我直接把磅当斤（0.5公斤）算，反正我健身那点重量也不至于有太夸张的偏差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2060147264375648643",
+        "created_at": "2026-05-29T08:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060279964059181084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1636774495980752897",
+              "start": 0,
+              "username": "JewBizLogic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060279964059181084",
+        "in_reply_to_user_id": "1636774495980752897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060147264375648643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JewBizLogic 我没去过美国，但我经常健身，国内健身房有时候会有磅为单位的器械，我直接把磅当斤（0.5公斤）算，反正我健身那点重量也不至于有太夸张的偏差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636774495980752897",
+        "conversation_id": "2060147264375648643",
+        "created_at": "2026-05-28T23:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060147264375648643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060147264375648643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "去了美国之后，一个中国人才真正意识到\"斤\"有多深入自己的生活。\n\n在国内从没想过500克为什么是一斤，因为不需要思考——买菜、买肉、水果、体重，对分量的感知就是\"斤\"，自然而然。\n\n到了美国，这种本能忽然消失了。\n\n超市里全是磅。每次买东西，都要在脑子里偷偷换算。温度也是，美国人说今天七十多度，要想一下换成摄氏度是多少。长度更痛苦，英寸、英尺、码，本来一尺一米直觉性的东西，变成了陌生数字，要在脑子里翻译一遍才能建立感知。\n\n他本以为欧美国家都这样，后来才意识到，特殊的一直只有美国。世界上绝大多数国家早就完成了公制统一，只有美国顽强地保留着英制系统。\n\n这让他重新想起那个问题：为什么一斤恰好是500克？\n\n现代公制进入中国的时候，没有把老百姓用了上千年的\"斤\"彻底废掉，因为那样会让所有人陷入他在美国经历的那种混乱，让全体人民的生活失去尺度感。\n\n于是采取了一个折中的办法——保留\"斤\"，同时让它和公制接轨。500克，刚好是最方便的中间值。一公斤等于两斤，一斤等于500克，换算清晰，既保留了传统习惯，又能和国际对齐。\n\n这是一种很中国式的智慧，既不强硬一刀切，也不推倒重来，而是以兼容的方式慢慢过渡。\n\n就像他现在在美国，看到磅，还是会下意识地换算成斤。\n\n有些单位，不只是度量衡，而是人对世界的感知方式。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 67377,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去了美国之后，一个中国人才真正意识到\"斤\"有多深入自己的生活。\n\n在国内从没想过500克为什么是一斤，因为不需要思考——买菜、买肉、水果、体重，对分量的感知就是\"斤\"，自然而然。\n\n到了美国，这种本能忽然消失了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 66,
+          "like_count": 4786,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 572
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-17T17:00:49.000Z",
+        "description": "看透了价值交换，就看透了生活万象。在噪音中保持清醒，做个不入局的操盘手。 所谓命运，不过是认知的变现。",
+        "id": "1636774495980752897",
+        "name": "JewBiz",
+        "pinned_tweet_id": "2008379686741594484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994264359347122177/zhUw-MCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16577,
+          "following_count": 1956,
+          "like_count": 740,
+          "listed_count": 76,
+          "media_count": 220,
+          "tweet_count": 5896
+        },
+        "username": "JewBizLogic",
+        "verified": true
+      }
+    ]
+  }
+}

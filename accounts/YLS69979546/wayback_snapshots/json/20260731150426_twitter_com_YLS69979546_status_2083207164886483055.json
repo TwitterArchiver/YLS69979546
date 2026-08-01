@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083207153817636864"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083207164886483055",
+    "created_at": "2026-07-31T15:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083207164886483055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UPKhEFIe3L",
+          "end": 45,
+          "expanded_url": "https://x.com/YLS69979546/status/2083207164886483055/photo/1",
+          "media_key": "3_2083207153817636864",
+          "start": 22,
+          "url": "https://t.co/UPKhEFIe3L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083207164886483055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "纳洛酮注射液，说我现在来一针会不会急性戒断 https://t.co/UPKhEFIe3L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2083207153817636864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkJ3nzaUAADgjg.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083207153817636864"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083207164886483055",
+        "created_at": "2026-07-31T15:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083207164886483055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UPKhEFIe3L",
+              "end": 45,
+              "expanded_url": "https://x.com/YLS69979546/status/2083207164886483055/photo/1",
+              "media_key": "3_2083207153817636864",
+              "start": 22,
+              "url": "https://t.co/UPKhEFIe3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083207164886483055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "纳洛酮注射液，说我现在来一针会不会急性戒断 https://t.co/UPKhEFIe3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 165,
+          "like_count": 8546,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1882
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

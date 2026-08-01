@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070905182817587664",
+    "created_at": "2026-06-27T17:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T18:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070925148480262400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070925148480262400",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070905182817587664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 是高级🐛，都不吃晚安的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2070905171392217088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL1VSABaQAAzZcj.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070905182817587664",
+        "created_at": "2026-06-27T17:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070925148480262400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070925148480262400",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070905182817587664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 是高级🐛，都不吃晚安的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070905171392217088"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070905182817587664",
+        "created_at": "2026-06-27T16:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T17:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070905182817587664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ydTgyA7nIw",
+              "end": 25,
+              "expanded_url": "https://x.com/Ta1z19/status/2070905182817587664/photo/1",
+              "media_key": "3_2070905171392217088",
+              "start": 2,
+              "url": "https://t.co/ydTgyA7nIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070905182817587664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 152,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🐛 https://t.co/ydTgyA7nIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 109,
+          "like_count": 6422,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1017
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo@正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 59,
+          "like_count": 1335,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 635
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

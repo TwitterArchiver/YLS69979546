@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073870803054264320"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2073870894972522500",
+    "created_at": "2026-07-05T20:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T21:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073870894972522500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AIrEQhX2fk",
+          "end": 53,
+          "expanded_url": "https://x.com/YLS69979546/status/2073870894972522500/photo/1",
+          "media_key": "3_2073870803054264320",
+          "start": 30,
+          "url": "https://t.co/AIrEQhX2fk"
+        },
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2073859756440375527",
+          "start": 54,
+          "url": "https://t.co/WWTfLGNqhx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073870894972522500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073859756440375527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实也没什么意思（只是打翻了颜料，对）\n实施飞机入睡法去了 https://t.co/AIrEQhX2fk https://t.co/WWTfLGNqhx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2073870803054264320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfege4agAAdvR9.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073870803054264320"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073870894972522500",
+        "created_at": "2026-07-05T20:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073870894972522500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIrEQhX2fk",
+              "end": 53,
+              "expanded_url": "https://x.com/YLS69979546/status/2073870894972522500/photo/1",
+              "media_key": "3_2073870803054264320",
+              "start": 30,
+              "url": "https://t.co/AIrEQhX2fk"
+            },
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2073859756440375527",
+              "start": 54,
+              "url": "https://t.co/WWTfLGNqhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073870894972522500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073859756440375527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实也没什么意思（只是打翻了颜料，对）\n实施飞机入睡法去了 https://t.co/AIrEQhX2fk https://t.co/WWTfLGNqhx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073859756440375527",
+        "created_at": "2026-07-05T20:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073859756440375527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073859756440375527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我艹为啥，我性瘾和割瘾都犯了，我的意思是我又疯狂想导又疯狂想喇自己，这俩玩意真的比毒都难戒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 121,
+          "like_count": 6940,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079615068728414463",
+    "created_at": "2026-07-21T22:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T23:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079697884623348152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058593205067841536",
+          "start": 0,
+          "username": "mndfu1s7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079697884623348152",
+    "in_reply_to_user_id": "2058593205067841536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079615068728414463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mndfu1s7 有时候可以看到洋人的，中推圈就别想看更别想发了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079615068728414463",
+        "created_at": "2026-07-21T22:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T23:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079697884623348152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058593205067841536",
+              "start": 0,
+              "username": "mndfu1s7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079697884623348152",
+        "in_reply_to_user_id": "2058593205067841536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079615068728414463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mndfu1s7 有时候可以看到洋人的，中推圈就别想看更别想发了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058593205067841536",
+        "conversation_id": "2079615068728414463",
+        "created_at": "2026-07-21T17:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T18:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079615068728414463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079615068728414463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1039,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个推特上是不是看不到血图了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 143,
+          "like_count": 7935,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1528
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T16:58:27.000Z",
+        "description": "=钰柠 09女高餐券妹 中抑 精神状态很差 我是le 贝贝们来和我互fo互推呀TvT\n我的置顶被谋害了 我现在没有精力写一个新的X_X 我好累。",
+        "id": "2058593205067841536",
+        "name": "為什麽我們不能成為永恆",
+        "pinned_tweet_id": "2069791503774523416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058594428982603776/w9DolSRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 235,
+          "like_count": 4952,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "mndfu1s7",
+        "verified": false
+      }
+    ]
+  }
+}

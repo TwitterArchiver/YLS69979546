@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079507876633051242",
+    "created_at": "2026-07-21T15:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T16:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079587665591091701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1492859298015334403",
+          "start": 0,
+          "username": "Kuni37tomato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079587665591091701",
+    "in_reply_to_user_id": "1492859298015334403",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079561192746455249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuni37tomato 😮‍💨\n🙂‍↔️\n🙂‍↕️\n🥴‍💫\n😤‍💨\n❤️‍🩹\n⛓️‍💥\n🏳️‍🌈\n🏳️‍⚧️\n🏴‍☠️\n👨‍💻\n👩‍🚀\n🧑‍🚒\n🐈‍⬛\n🦸‍♂️\n🦹‍♀️\n👨‍🦰\n👩‍🦱\n👨‍❤️‍👨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079507876633051242",
+        "created_at": "2026-07-21T15:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079587665591091701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1492859298015334403",
+              "start": 0,
+              "username": "Kuni37tomato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079587665591091701",
+        "in_reply_to_user_id": "1492859298015334403",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079561192746455249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuni37tomato 😮‍💨\n🙂‍↔️\n🙂‍↕️\n🥴‍💫\n😤‍💨\n❤️‍🩹\n⛓️‍💥\n🏳️‍🌈\n🏳️‍⚧️\n🏴‍☠️\n👨‍💻\n👩‍🚀\n🧑‍🚒\n🐈‍⬛\n🦸‍♂️\n🦹‍♀️\n👨‍🦰\n👩‍🦱\n👨‍❤️‍👨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492859298015334403",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2079507876633051242",
+        "created_at": "2026-07-21T13:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079561192746455249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079561192746455249",
+        "in_reply_to_user_id": "1492859298015334403",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "こんなに伸びると思ってなかった🤣\n初めましての方たくさん！🍅\n冥界在住🍅トマトの妖精Vライバーです！7/26に活動1周年＆水着Live2Dお披露目します✨\n他にも見つけたので試してみて👇\n😮‍ここ削除💨\n🙂‍ここ削除↔️\n🙂‍ここ削除↕️\n🥴‍ここ削除💫\n😤‍ここ削除💨\n❤️‍ここ削除🩹\n⛓️‍ここ削除💥\n🏳️‍ここ削除🌈\n🏳️‍ここ削除⚧️\n🏴‍ここ削除☠️\n👨‍ここ削除💻\n👩‍ここ削除🚀\n🧑‍ここ削除🚒\n🐈‍ここ削除⬛\n🦸‍ここ削除♂️\n🦹‍ここ削除♀️\n👨‍ここ削除🦰\n👩‍ここ削除🦱\n👨‍こ❤️‍ここ削除👨"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 108963,
+          "like_count": 219,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079507876633051242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "こんなに伸びると思ってなかった🤣\n初めましての方たくさん！🍅\n冥界在住🍅トマトの妖精Vライバーです！7/26に活動1周年＆水着Live2Dお披露目します✨\n他にも見つけたので試してみて👇\n😮‍ここ削除💨\n🙂‍ここ削除↔️\n🙂‍ここ削除↕️\n🥴‍ここ削除💫\n😤‍ここ削除💨\n❤️‍ここ削除🩹\n⛓️‍ここ削除💥\n🏳️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 143,
+          "like_count": 7895,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1521
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T13:53:03.000Z",
+        "description": "🪦🍅冥界在住トマトの妖精🍅🪦\n超かわいいLIVE 2D✨\nFM:ʚ🍅ɞ ・FN:Hope・FA:#くにこあーと \n総合: #くにちゃんのおいとま\nマルチリンガル🇯🇵🇰🇷🇬🇧🇹🇷🇨🇳 (@MaMa_pro_IRIAM )クラウンライバー』",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "くにこあーと"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "tag": "くにちゃんのおいとま"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 92,
+                "username": "MaMa_pro_IRIAM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.iriam.app/s/user/YXyVXyi…",
+                "end": 23,
+                "expanded_url": "https://web.iriam.app/s/user/YXyVXyiiCY?uuid=d7407134",
+                "start": 0,
+                "url": "https://t.co/dKlfMMzLBg"
+              }
+            ]
+          }
+        },
+        "id": "1492859298015334403",
+        "location": "冥界",
+        "name": "くにちゃんʚ🍅ɞ@7/26アニバ",
+        "pinned_tweet_id": "2041484382423122205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072066244442759168/58aN0thb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1941,
+          "following_count": 1500,
+          "like_count": 24010,
+          "listed_count": 20,
+          "media_count": 703,
+          "tweet_count": 2665
+        },
+        "url": "https://t.co/dKlfMMzLBg",
+        "username": "Kuni37tomato",
+        "verified": true
+      }
+    ]
+  }
+}

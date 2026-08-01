@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2029082785408008340",
+    "created_at": "2026-03-04T07:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T08:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029100557366116870"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029100557366116870",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029082785408008340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我好像知道了，dpt的大多数身体副作用都来自高体温，高体温来自血清素过高，好像无解，什么血清素能致幻剂都这样？我得整点别的东西玩了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029082782828535808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjAClpbIAA4LWe.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2029082785408008340",
+        "created_at": "2026-03-04T07:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029100557366116870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029100557366116870",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029082785408008340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好像知道了，dpt的大多数身体副作用都来自高体温，高体温来自血清素过高，好像无解，什么血清素能致幻剂都这样？我得整点别的东西玩了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029082782828535808"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2029082785408008340",
+        "created_at": "2026-03-04T06:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T07:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029082785408008340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kYc2LScHZN",
+              "end": 42,
+              "expanded_url": "https://x.com/YLS69979546/status/2029082785408008340/photo/1",
+              "media_key": "3_2029082782828535808",
+              "start": 19,
+              "url": "https://t.co/kYc2LScHZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029082785408008340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我永远不知道我想说啥，自己都记不起来 https://t.co/kYc2LScHZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 43,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 175
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

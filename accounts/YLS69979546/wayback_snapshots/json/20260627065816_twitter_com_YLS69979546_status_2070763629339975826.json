@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070729994670940463",
+    "created_at": "2026-06-27T06:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070763629339975826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1280001743162609664",
+          "start": 0,
+          "username": "Poca2381"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070763629339975826",
+    "in_reply_to_user_id": "1280001743162609664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070729994670940463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Poca2381 也不是不行，可以制药（毒）嘛，多赚钱，说不定还能送一副银手镯，加包吃包住或者免费安乐死活动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070729994670940463",
+        "created_at": "2026-06-27T06:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070763629339975826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1280001743162609664",
+              "start": 0,
+              "username": "Poca2381"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070763629339975826",
+        "in_reply_to_user_id": "1280001743162609664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070729994670940463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Poca2381 也不是不行，可以制药（毒）嘛，多赚钱，说不定还能送一副银手镯，加包吃包住或者免费安乐死活动"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2070729994670940463",
+        "created_at": "2026-06-27T04:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070729994670940463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070729994670940463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "要填志愿了，给大家推荐一批就业前景光明的专业。\n1. 化学（070301）\n2. 应用化学（070302）\n3. 化学生物学（070303T）\n4. 分子科学与工程（070304T）\n5. 能源化学（070305T）\n6. 化学测量学与技术（070306T）\n7. 化学工程与工艺（081301）\n8. 制药工程（081302）\n9. 资源循环科学与工程（081303T）\n10. 能源化学工程（081304T）\n11. 化学工程与工业生物工程（081305T）\n12. 化工安全工程（081306T）\n13. 涂料工程（081307T）\n14. 精细化工（081308T）\n15. 材料化学（080403）\n16. 高分子材料与工程（080407）\n17. 纳米材料与技术（080413T）\n18. 新能源材料与器件（080414T）\n19. 药物化学（100706T）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3245,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "要填志愿了，给大家推荐一批就业前景光明的专业。\n1. 化学（070301）\n2. 应用化学（070302）\n3. 化学生物学（070303T）\n4. 分子科学与工程（070304T）\n5. 能源化学（070305T）\n6. 化学测量学与技术（070306T）\n7. 化学工程与工艺（081301）\n8. 制药工程（081302）\n9. 资源循环科学与工程（081303T）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 105,
+          "like_count": 6354,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 977
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22326,
+          "following_count": 9664,
+          "like_count": 152699,
+          "listed_count": 52,
+          "media_count": 5084,
+          "tweet_count": 52551
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

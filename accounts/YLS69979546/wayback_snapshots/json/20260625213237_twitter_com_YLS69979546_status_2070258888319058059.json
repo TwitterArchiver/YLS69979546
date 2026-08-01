@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070258888319058059",
+    "created_at": "2026-06-25T21:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T22:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070258888319058059"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2070210776053502212",
+          "start": 57,
+          "url": "https://t.co/ZZqIseCFFd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070258888319058059",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070210776053502212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我又这么来了一针，然后不小心把血滴自己衣服上了擦都擦不干净，额该换衣服了，但是好爽，我要爽死了，升天，升天，升天 https://t.co/ZZqIseCFFd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070210763042791424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrduHVbIAAedQk.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070258888319058059",
+        "created_at": "2026-06-25T21:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070258888319058059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2070210776053502212",
+              "start": 57,
+              "url": "https://t.co/ZZqIseCFFd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070258888319058059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070210776053502212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我又这么来了一针，然后不小心把血滴自己衣服上了擦都擦不干净，额该换衣服了，但是好爽，我要爽死了，升天，升天，升天 https://t.co/ZZqIseCFFd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070210763042791424"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070210776053502212",
+        "created_at": "2026-06-25T18:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T19:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070210776053502212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aw2BUyH9Lz",
+              "end": 107,
+              "expanded_url": "https://x.com/YLS69979546/status/2070210776053502212/photo/1",
+              "media_key": "3_2070210763042791424",
+              "start": 84,
+              "url": "https://t.co/aw2BUyH9Lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070210776053502212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "禁毒日？吸毒日！老传统吸毒方式来了，抽自己的血溶解了一些1161，然后注射回去（其实直接抽然后再推回去，反复几次才是四号的传统注射方式，但我觉得摇一下充分溶解比较好） https://t.co/aw2BUyH9Lz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 96,
+          "like_count": 6316,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 926
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

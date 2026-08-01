@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2082174785099112668",
+    "created_at": "2026-07-28T18:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082175008663896347"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082175008663896347",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082174785099112668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好了，现在要去摄入一点此物质了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2082174775875792896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVe7URa8AABLsu.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082174785099112668",
+        "created_at": "2026-07-28T18:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082175008663896347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082175008663896347",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082174785099112668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了，现在要去摄入一点此物质了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082174775875792896"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2082174785099112668",
+        "created_at": "2026-07-28T18:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082174785099112668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIcgd0SarY",
+              "end": 35,
+              "expanded_url": "https://x.com/YLS69979546/status/2082174785099112668/photo/1",
+              "media_key": "3_2082174775875792896",
+              "start": 12,
+              "url": "https://t.co/sIcgd0SarY"
+            },
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2082145727451640055",
+              "start": 36,
+              "url": "https://t.co/ERvj5w1Duf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082174785099112668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082145727451640055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "画了半小时，扎了一小时 https://t.co/sIcgd0SarY https://t.co/ERvj5w1Duf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 157,
+          "like_count": 8418,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

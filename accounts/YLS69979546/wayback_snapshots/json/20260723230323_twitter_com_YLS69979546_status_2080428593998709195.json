@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2080332065531441255",
+    "created_at": "2026-07-23T23:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T00:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080428593998709195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711437791828336641",
+          "start": 0,
+          "username": "bigLongma1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080428593998709195",
+    "in_reply_to_user_id": "1711437791828336641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080366522871185746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigLongma1 偷偷买偷偷吸应该还好？没买过我不确定，我想去泰国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2080332065531441255",
+        "created_at": "2026-07-23T23:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080428593998709195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711437791828336641",
+              "start": 0,
+              "username": "bigLongma1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080428593998709195",
+        "in_reply_to_user_id": "1711437791828336641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080366522871185746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigLongma1 偷偷买偷偷吸应该还好？没买过我不确定，我想去泰国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711437791828336641",
+        "conversation_id": "2080332065531441255",
+        "created_at": "2026-07-23T18:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080366522871185746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080366522871185746",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080332065531441255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 国内买麻有风险吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 144,
+          "like_count": 8112,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1583
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T17:45:50.000Z",
+        "description": "目前🇨🇳 //交友// 赚钱去美国 //偏门性格\n就喜欢听些电子音乐//包容世间万物",
+        "id": "1711437791828336641",
+        "location": "Vietnam",
+        "name": "Pohana",
+        "pinned_tweet_id": "1987233007313584421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982163138096074752/TaZp26FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 38,
+          "like_count": 513,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "bigLongma1",
+        "verified": false
+      }
+    ]
+  }
+}

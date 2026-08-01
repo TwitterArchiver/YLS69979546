@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074421227029160055",
+    "created_at": "2026-07-07T09:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074430664934556118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074430664934556118",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074421227029160055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii 少扎点，尤其是如果你技术一般，还有扎完别不按，我之前1161注射多了，搞的我胳膊上青一块紫一块，虽然不疼吧但有人看到就很内啥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2074421216023396352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnTGu-bwAApXYq.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074421227029160055",
+        "created_at": "2026-07-07T09:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074430664934556118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074430664934556118",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074421227029160055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii 少扎点，尤其是如果你技术一般，还有扎完别不按，我之前1161注射多了，搞的我胳膊上青一块紫一块，虽然不疼吧但有人看到就很内啥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074421216023396352"
+          ]
+        },
+        "author_id": "2032059814348754944",
+        "conversation_id": "2074421227029160055",
+        "created_at": "2026-07-07T09:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074421227029160055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XscJXY3qVg",
+              "end": 28,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074421227029160055/photo/1",
+              "media_key": "3_2074421216023396352",
+              "start": 5,
+              "url": "https://t.co/XscJXY3qVg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074421227029160055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么肿了 https://t.co/XscJXY3qVg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 123,
+          "like_count": 7018,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1218
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 64,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 127
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

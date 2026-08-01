@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2062475440044868077",
+    "created_at": "2026-06-04T11:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062502805164990614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1751240173650935808",
+          "start": 0,
+          "username": "Liver_MST"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062502805164990614",
+    "in_reply_to_user_id": "1751240173650935808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062475440044868077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liver_MST 我也是，以前根本没法专心做事，要么坐椅子上晃来晃去，要么开小差神游，要么查资料查着查着就去看别的了，要么写一会作业就开始搞不知道什么小手工，吃了专注达直接认真的学了一下午高数，吃完药才发现世界能如此清晰安静，感觉adhd毁了我的整个青春，吃完药终于变好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2062475440044868077",
+        "created_at": "2026-06-04T11:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062502805164990614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1751240173650935808",
+              "start": 0,
+              "username": "Liver_MST"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062502805164990614",
+        "in_reply_to_user_id": "1751240173650935808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062475440044868077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liver_MST 我也是，以前根本没法专心做事，要么坐椅子上晃来晃去，要么开小差神游，要么查资料查着查着就去看别的了，要么写一会作业就开始搞不知道什么小手工，吃了专注达直接认真的学了一下午高数，吃完药才发现世界能如此清晰安静，感觉adhd毁了我的整个青春，吃完药终于变好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751240173650935808",
+        "conversation_id": "2062475440044868077",
+        "created_at": "2026-06-04T10:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062475440044868077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liver_mst/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/liver_mst/status/2062311357152993730",
+              "start": 144,
+              "url": "https://t.co/fFa5Md308g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062475440044868077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 389,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062311357152993730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "效果很好，今天第一次做到连着在电脑前写了2个小时的作业，中途居然一次都没有起来，一看时间已经忙了两个钟了，放以前我真的会10分钟起来一趟，喝水上厕所什么的。难以置信，我居然也可以做到这么专心，哎，要是早点干预就好了，我可能真的不会是这个样子。\n暂时没有感到明显的副作用(如焦虑加重等)。 https://t.co/fFa5Md308g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 73,
+          "like_count": 5055,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 621
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T13:46:20.000Z",
+        "description": "欢迎私信扩列互fo/可以叫我帕克/🎂2006.07.01/音ゲー/maimai暁神確認/🇨🇳简体中文|🇹🇼繁體中文|🇬🇧🇺🇸English|🇯🇵日本語の投稿はすべて機械翻訳です。おかしな表現があったらごめんね！",
+        "id": "1751240173650935808",
+        "location": "Guangzhou, China",
+        "name": "Livermst",
+        "pinned_tweet_id": "2062488691990302808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059924381317656576/Ov7oEjtl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 558,
+          "like_count": 1,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 1126
+        },
+        "username": "Liver_MST",
+        "verified": false
+      }
+    ]
+  }
+}

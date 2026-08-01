@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018574930078773248"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2017823111689929107",
+    "created_at": "2026-02-03T06:39:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T07:39:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018574932775743969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682660496",
+          "start": 0,
+          "username": "tangchuan_CN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9QMk4mT8pn",
+          "end": 37,
+          "expanded_url": "https://x.com/YLS69979546/status/2018574932775743969/photo/1",
+          "media_key": "3_2018574930078773248",
+          "start": 14,
+          "url": "https://t.co/9QMk4mT8pn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018574932775743969",
+    "in_reply_to_user_id": "1682660496",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017823111689929107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangchuan_CN https://t.co/9QMk4mT8pn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018574930078773248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HANrNDvasAA_acD.jpg",
+        "width": 943
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2017823092484280320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAC_aWcbEAAobXP.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018574930078773248"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2017823111689929107",
+        "created_at": "2026-02-03T06:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018574932775743969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682660496",
+              "start": 0,
+              "username": "tangchuan_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QMk4mT8pn",
+              "end": 37,
+              "expanded_url": "https://x.com/YLS69979546/status/2018574932775743969/photo/1",
+              "media_key": "3_2018574930078773248",
+              "start": 14,
+              "url": "https://t.co/9QMk4mT8pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018574932775743969",
+        "in_reply_to_user_id": "1682660496",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017823111689929107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangchuan_CN https://t.co/9QMk4mT8pn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017823092484280320"
+          ]
+        },
+        "author_id": "1682660496",
+        "conversation_id": "2017823111689929107",
+        "created_at": "2026-02-01T04:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017823111689929107"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RfmemhNSI9",
+              "end": 65,
+              "expanded_url": "https://x.com/tangchuan_CN/status/2017823111689929107/photo/1",
+              "media_key": "3_2017823092484280320",
+              "start": 42,
+              "url": "https://t.co/RfmemhNSI9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017823111689929107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "挺好儿的，这个提示词可以让你看到AI的“真容”。我的gpt认为自己是一个毛绒玩具。\n\n请生成一张类似你自己的iphone自拍照，没有明确的主体或构图感，就像是随手一拍的快照。照片略带运动模糊，阳光灯光不均导致轻微曝光过度。角度尴尬，构图混乱，整体呈现出一种刻意的平庸感，就像是从口袋里拿手机时不小心拍到的一张自拍"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 33228,
+          "like_count": 69,
+          "quote_count": 9,
+          "reply_count": 39,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "挺好儿的，这个提示词可以让你看到AI的“真容”。我的gpt认为自己是一个毛绒玩具。 https://t.co/RfmemhNSI9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 27,
+          "like_count": 927,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-19T08:13:52.000Z",
+        "description": "AI✨ | PM | Designer | 3D Artist | 推都是呓语",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/tangchuan",
+                "end": 23,
+                "expanded_url": "https://bento.me/tangchuan",
+                "start": 0,
+                "url": "https://t.co/uEa9QKpgV9"
+              }
+            ]
+          }
+        },
+        "id": "1682660496",
+        "name": "糖串sensei.✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234918220416471040/2vAg3xns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 2022,
+          "like_count": 8491,
+          "listed_count": 45,
+          "media_count": 474,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/uEa9QKpgV9",
+        "username": "tangchuan_CN",
+        "verified": true
+      }
+    ]
+  }
+}

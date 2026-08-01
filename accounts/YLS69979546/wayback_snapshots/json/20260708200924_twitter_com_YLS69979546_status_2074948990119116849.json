@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074399198506836481",
+    "created_at": "2026-07-08T20:09:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T21:09:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074948990119116849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1927296278146260992",
+          "start": 0,
+          "username": "BoluoEye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074948990119116849",
+    "in_reply_to_user_id": "1927296278146260992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074399198506836481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoluoEye 防止打印小抄作弊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_2074399186104250369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMm_EbIacAEETAV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074399198506836481",
+        "created_at": "2026-07-08T20:09:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T21:09:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074948990119116849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1927296278146260992",
+              "start": 0,
+              "username": "BoluoEye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074948990119116849",
+        "in_reply_to_user_id": "1927296278146260992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074399198506836481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoluoEye 防止打印小抄作弊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074399186104250369"
+          ]
+        },
+        "author_id": "1927296278146260992",
+        "conversation_id": "2074399198506836481",
+        "created_at": "2026-07-07T07:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074399198506836481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyDWLBmggW",
+              "end": 43,
+              "expanded_url": "https://x.com/BoluoEye/status/2074399198506836481/photo/1",
+              "media_key": "3_2074399186104250369",
+              "start": 20,
+              "url": "https://t.co/IyDWLBmggW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074399198506836481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 45420,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老板严打这一块 ，这是啥意思呢 ？？？ https://t.co/IyDWLBmggW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 125,
+          "like_count": 7132,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-27T09:30:26.000Z",
+        "description": "马上30岁\n喜欢蹭大佬智慧 ，偶尔发段子\n坚持小额定投标普500和纳斯达克100",
+        "id": "1927296278146260992",
+        "name": "菠萝王",
+        "pinned_tweet_id": "2066719356344828117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030436515474821120/ManRR0D5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2955,
+          "following_count": 531,
+          "like_count": 8182,
+          "listed_count": 2,
+          "media_count": 313,
+          "tweet_count": 493
+        },
+        "url": "",
+        "username": "BoluoEye",
+        "verified": true
+      }
+    ]
+  }
+}

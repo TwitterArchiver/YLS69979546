@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070015889039073368",
+    "created_at": "2026-06-25T15:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T16:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070168595230040167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1892970687792402432",
+          "start": 0,
+          "username": "Toyiu11"
+        },
+        {
+          "end": 20,
+          "id": "938115028871467009",
+          "start": 9,
+          "username": "samliu0105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070168595230040167",
+    "in_reply_to_user_id": "1892970687792402432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070073098234413405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Toyiu11 @samliu0105 这扑克才2块钱一副，真便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070015889039073368",
+        "created_at": "2026-06-25T15:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T16:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070168595230040167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1892970687792402432",
+              "start": 0,
+              "username": "Toyiu11"
+            },
+            {
+              "end": 20,
+              "id": "938115028871467009",
+              "start": 9,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070168595230040167",
+        "in_reply_to_user_id": "1892970687792402432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070073098234413405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Toyiu11 @samliu0105 这扑克才2块钱一副，真便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892970687792402432",
+        "conversation_id": "2070015889039073368",
+        "created_at": "2026-06-25T09:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070073098234413405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "938115028871467009",
+              "start": 0,
+              "username": "samliu0105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070073098234413405",
+        "in_reply_to_user_id": "938115028871467009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070015889039073368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samliu0105 监狱为啥有扑克啊 那不就可以在里面赌博了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 91,
+          "like_count": 6292,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 905
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T16:12:46.000Z",
+        "description": "171/47kg 比我矮比我胖比我丑的没有资格骂我 本人3d人士患有精神病 想发什么就发什么",
+        "id": "1892970687792402432",
+        "name": "十亿少男少女的梦",
+        "pinned_tweet_id": "1932040756266737865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069844859620634624/r1Y139aQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2279,
+          "following_count": 82,
+          "like_count": 41,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "Toyiu11",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-05T18:37:06.000Z",
+        "description": "欢迎大家来和我做朋友喵🤗互fo请私信我喵😋",
+        "id": "938115028871467009",
+        "location": "The moon",
+        "name": "Sam liu",
+        "pinned_tweet_id": "2067869786634330283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047609458612908032/Tr9b6tGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 676,
+          "like_count": 4108,
+          "listed_count": 0,
+          "media_count": 1034,
+          "tweet_count": 2689
+        },
+        "url": "",
+        "username": "samliu0105",
+        "verified": true
+      }
+    ]
+  }
+}

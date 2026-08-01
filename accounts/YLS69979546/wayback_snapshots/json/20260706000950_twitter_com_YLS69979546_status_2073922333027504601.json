@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073922299238268928"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2073888408506863618",
+    "created_at": "2026-07-06T00:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T01:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073922333027504601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ilgb7YNGH5",
+          "end": 70,
+          "expanded_url": "https://x.com/YLS69979546/status/2073922333027504601/photo/1",
+          "media_key": "3_2073922299238268928",
+          "start": 47,
+          "url": "https://t.co/Ilgb7YNGH5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073922333027504601",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073888408506863618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真停不下来了，ai和游戏，社交软件还有各种百科可能都需要防沉迷，这些玩意都能让我的时间消失 https://t.co/Ilgb7YNGH5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2073922299238268928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgNV9HbwAAHD17.jpg",
+        "width": 1156
+      },
+      {
+        "height": 1122,
+        "media_key": "3_2073888402265780224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfug5DasAAJbDJ.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073922299238268928"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073888408506863618",
+        "created_at": "2026-07-06T00:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073922333027504601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ilgb7YNGH5",
+              "end": 70,
+              "expanded_url": "https://x.com/YLS69979546/status/2073922333027504601/photo/1",
+              "media_key": "3_2073922299238268928",
+              "start": 47,
+              "url": "https://t.co/Ilgb7YNGH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073922333027504601",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073888408506863618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真停不下来了，ai和游戏，社交软件还有各种百科可能都需要防沉迷，这些玩意都能让我的时间消失 https://t.co/Ilgb7YNGH5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073888402265780224"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073888408506863618",
+        "created_at": "2026-07-05T21:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073888408506863618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gfU3oqsQ3B",
+              "end": 85,
+              "expanded_url": "https://x.com/YLS69979546/status/2073888408506863618/photo/1",
+              "media_key": "3_2073888402265780224",
+              "start": 62,
+              "url": "https://t.co/gfU3oqsQ3B"
+            },
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2073870894972522500",
+              "start": 86,
+              "url": "https://t.co/xvr7EPZzs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073888408506863618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073870894972522500",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "撸完洗了个手然后突然想起了点问题，于是和ai聊的停不下来了，他又给我看这个，我踏马真的没有想自杀，gpt你不要这么敏感行吗 https://t.co/gfU3oqsQ3B https://t.co/xvr7EPZzs1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 121,
+          "like_count": 6941,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1181
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074426958562394519",
+    "created_at": "2026-07-07T20:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T21:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074596102914150846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074596102914150846",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074433745114079355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 或许真是，极度烦躁的时候真的会想象砍死身边烦我的所有人然后全都丢下楼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074426958562394519",
+        "created_at": "2026-07-07T20:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074596102914150846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074596102914150846",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074433745114079355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 或许真是，极度烦躁的时候真的会想象砍死身边烦我的所有人然后全都丢下楼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660586167807664129",
+        "conversation_id": "2074426958562394519",
+        "created_at": "2026-07-07T10:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T11:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074433745114079355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074433745114079355",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得或许是你过多的精神压力需要靠想象来释放，而暴力和死亡作为最有冲击力的一种，很适合作为这种释放的对象。我不觉得人非要从本恶和本善里二选一，所谓的善恶，本来就是人类为了社会而赋予的一套概念。把人当成动物就好了，就像老虎吃小羊，你能说它是坏的吗？或许有人会觉得动物捕猎可爱的小动物是坏的，但这种评价不也是人类赋予的吗？所以不用太纠结自己到底是本善还是本恶，更重要的还是现实里会怎么做"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074428622652522884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 我觉得或许是你过多的精神压力需要靠想象来释放，而暴力和死亡作为最有冲击力的一种，很适合作为这种释放的对象。我不觉得人非要从本恶和本善里二选一，所谓的善恶，本来就是人类为了社会而赋予的一套概念。把人当成动物就好了，就像老虎吃小羊，你能说它是坏的吗？或许有人会觉得动物捕猎可爱的小动物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 124,
+          "like_count": 7096,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1236
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 23,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 0,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "Beijing ",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066369584224198656/N9WKr45P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 1678,
+          "like_count": 3785,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/e90qOe4ADO",
+        "username": "ttttk567",
+        "verified": true
+      }
+    ]
+  }
+}

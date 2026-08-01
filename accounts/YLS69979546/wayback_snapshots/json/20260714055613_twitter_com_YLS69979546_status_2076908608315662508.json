@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2076908608315662508",
+    "created_at": "2026-07-14T05:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076908608315662508"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2076900924346532020",
+          "start": 89,
+          "url": "https://t.co/JrP6hp78ZV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076908608315662508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076900924346532020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉我老冯回家会问我开啥药去了，虽然很烦但是已经无所吊谓了，我自会掰扯掰扯，把医保账户和她绑一起是我最后悔的事之一，失去开药自由，不想被问的时候就得自费（自费开了好几次思诺思） https://t.co/JrP6hp78ZV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2076900912648671232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKiYEwb0AAi-VG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2076908608315662508",
+        "created_at": "2026-07-14T05:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076908608315662508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2076900924346532020",
+              "start": 89,
+              "url": "https://t.co/JrP6hp78ZV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076908608315662508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076900924346532020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉我老冯回家会问我开啥药去了，虽然很烦但是已经无所吊谓了，我自会掰扯掰扯，把医保账户和她绑一起是我最后悔的事之一，失去开药自由，不想被问的时候就得自费（自费开了好几次思诺思） https://t.co/JrP6hp78ZV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076900912648671232"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2076900924346532020",
+        "created_at": "2026-07-14T05:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076900924346532020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N5w7BimAM",
+              "end": 112,
+              "expanded_url": "https://x.com/YLS69979546/status/2076900924346532020/photo/1",
+              "media_key": "3_2076900912648671232",
+              "start": 89,
+              "url": "https://t.co/1N5w7BimAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076900924346532020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精品神药，其实想开某弱阿片，结果开了个普瑞出来，应该说点别的多掰扯掰扯的，看到不是精二我就猜出是普瑞了结果果然是，其实普瑞我能直接点菜的都不用掰扯（原来这个医院有150的普瑞） https://t.co/1N5w7BimAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 130,
+          "like_count": 7462,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

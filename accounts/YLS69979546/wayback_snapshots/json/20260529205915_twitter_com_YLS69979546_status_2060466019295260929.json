@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2060307842544939310",
+    "created_at": "2026-05-29T20:59:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:59:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060466019295260929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "509380248",
+          "start": 0,
+          "username": "ferchoprr"
+        },
+        {
+          "end": 27,
+          "id": "2546534624",
+          "start": 11,
+          "username": "escritomarginal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060466019295260929",
+    "in_reply_to_user_id": "509380248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060386898216907002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ferchoprr @escritomarginal 东方人表示经常听说西方人更擅长团队合作，而且我也讨厌小组作业"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2060307842544939310",
+        "created_at": "2026-05-29T20:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060466019295260929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "509380248",
+              "start": 0,
+              "username": "ferchoprr"
+            },
+            {
+              "end": 27,
+              "id": "2546534624",
+              "start": 11,
+              "username": "escritomarginal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060466019295260929",
+        "in_reply_to_user_id": "509380248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060386898216907002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ferchoprr @escritomarginal 东方人表示经常听说西方人更擅长团队合作，而且我也讨厌小组作业"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "509380248",
+        "conversation_id": "2060307842544939310",
+        "created_at": "2026-05-29T15:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060386898216907002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2546534624",
+              "start": 0,
+              "username": "escritomarginal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060386898216907002",
+        "in_reply_to_user_id": "2546534624",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060307842544939310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@escritomarginal Por eso los orientales nos llevan la ventaja que nos llevan, porque ellos desde muy niños aprenden a trabajar en equipo, nosotros, acostumbrados desde niños a los puestos, al fascismo, a segregar, por eso no progresamos como sociedad."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 67,
+          "like_count": 4861,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 579
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-29T23:00:12.000Z",
+        "description": "Escritor, no creo en el sistema educativo de Colombia, por eso genero pensamiento crítico en mis estudiantes. Con ganas de leer muchos libros y escribir otros.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fisicajfpc.jimdo.com",
+                "end": 23,
+                "expanded_url": "http://www.fisicajfpc.jimdo.com",
+                "start": 0,
+                "url": "https://t.co/k36hY1Z1M0"
+              }
+            ]
+          }
+        },
+        "id": "509380248",
+        "location": "bogota. ",
+        "name": "JOSE FERNANDO PARRA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1083365270700331014/Q0jUj3No_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 698,
+          "like_count": 73799,
+          "listed_count": 5,
+          "media_count": 2035,
+          "tweet_count": 70775
+        },
+        "url": "https://t.co/k36hY1Z1M0",
+        "username": "ferchoprr",
+        "verified": false
+      },
+      {
+        "created_at": "2014-06-04T17:22:41.000Z",
+        "description": "Un golpe violento entre el corazón y la razón.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lidiamaartin?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lidiamaartin?igsh=MTg0b3dyNzQ1eXZ1Mg==",
+                "start": 0,
+                "url": "https://t.co/Fe63g4lzxi"
+              }
+            ]
+          }
+        },
+        "id": "2546534624",
+        "name": "Cocolín🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056323056239259648/2sHo6o1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6003,
+          "following_count": 3566,
+          "like_count": 13585,
+          "listed_count": 3,
+          "media_count": 819,
+          "tweet_count": 20780
+        },
+        "url": "https://t.co/Fe63g4lzxi",
+        "username": "escritomarginal",
+        "verified": false
+      }
+    ]
+  }
+}

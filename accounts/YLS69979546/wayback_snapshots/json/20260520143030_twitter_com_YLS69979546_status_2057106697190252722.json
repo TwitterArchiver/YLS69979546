@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2057106697190252722",
+    "created_at": "2026-05-20T14:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057106697190252722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1558521768976846849",
+          "start": 3,
+          "username": "Lv4yI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057106697190252722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057044076718068034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lv4yI: 好想和世界大吵一架但是世界说中文要宋体小四，英文要Times New Rome，行间距1.5倍，首行缩进两字符"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2057106697190252722",
+        "created_at": "2026-05-20T14:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057106697190252722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1558521768976846849",
+              "start": 3,
+              "username": "Lv4yI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057106697190252722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057044076718068034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lv4yI: 好想和世界大吵一架但是世界说中文要宋体小四，英文要Times New Rome，行间距1.5倍，首行缩进两字符"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1558521768976846849",
+        "conversation_id": "2057044076718068034",
+        "created_at": "2026-05-20T10:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T11:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057044076718068034"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057044076718068034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 909,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "好想和世界大吵一架但是世界说中文要宋体小四，英文要Times New Rome，行间距1.5倍，首行缩进两字符"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 63,
+          "like_count": 4403,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 509
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-13T18:32:09.000Z",
+        "description": "キティって呼んで| 🇨🇳 | 20↑ | 🚺 | 日本語を勉強し始めたばかり♡ | @k1ttyiwi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 42,
+                "username": "k1ttyiwi"
+              }
+            ]
+          }
+        },
+        "id": "1558521768976846849",
+        "name": "小郁",
+        "pinned_tweet_id": "2054953436551234036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053283168728608768/kOamveHC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 93,
+          "like_count": 6391,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 893
+        },
+        "username": "Lv4yI",
+        "verified": true
+      }
+    ]
+  }
+}

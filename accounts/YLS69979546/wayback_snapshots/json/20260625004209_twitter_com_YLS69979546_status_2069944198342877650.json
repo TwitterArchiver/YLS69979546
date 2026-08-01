@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2068981341140783199",
+    "created_at": "2026-06-25T00:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T01:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069944198342877650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1872858571563753472",
+          "start": 0,
+          "username": "c020402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069944198342877650",
+    "in_reply_to_user_id": "1872858571563753472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068981341140783199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@c020402 1161？我那个转了不知道一手，两手还是几手的都没这么贵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2068981341140783199",
+        "created_at": "2026-06-25T00:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069944198342877650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1872858571563753472",
+              "start": 0,
+              "username": "c020402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069944198342877650",
+        "in_reply_to_user_id": "1872858571563753472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068981341140783199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@c020402 1161？我那个转了不知道一手，两手还是几手的都没这么贵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872858571563753472",
+        "conversation_id": "2068981341140783199",
+        "created_at": "2026-06-22T08:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068981341140783199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068981341140783199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 316,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报价38000 1g的别来捣乱好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 91,
+          "like_count": 6265,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-28T04:14:21.000Z",
+        "description": "hold me now!",
+        "id": "1872858571563753472",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060947855200952320/JE-P-e1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 26,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "c020402",
+        "verified": false
+      }
+    ]
+  }
+}

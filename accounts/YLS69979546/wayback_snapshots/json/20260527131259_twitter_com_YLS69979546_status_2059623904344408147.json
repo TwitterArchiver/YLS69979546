@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2059359067403866137",
+    "created_at": "2026-05-27T13:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059623904344408147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "100399047",
+          "start": 0,
+          "username": "Tz_2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059623904344408147",
+    "in_reply_to_user_id": "100399047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059359067403866137",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tz_2022 这种东西我遇到无数次了，不用管他过不了几天它自己就会变成已注销账号了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2172,
+        "media_key": "3_2059359063301890048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRQKDkXIAAH_Be.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2059359063297691648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJRQKDjXEAA1Zk_.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059359067403866137",
+        "created_at": "2026-05-27T13:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059623904344408147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "100399047",
+              "start": 0,
+              "username": "Tz_2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059623904344408147",
+        "in_reply_to_user_id": "100399047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059359067403866137",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tz_2022 这种东西我遇到无数次了，不用管他过不了几天它自己就会变成已注销账号了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059359063301890048",
+            "3_2059359063297691648"
+          ]
+        },
+        "author_id": "100399047",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059359067403866137",
+        "created_at": "2026-05-26T19:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059359067403866137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rwrVrzxLYy",
+              "end": 53,
+              "expanded_url": "https://x.com/Tz_2022/status/2059359067403866137/photo/1",
+              "media_key": "3_2059359063301890048",
+              "start": 30,
+              "url": "https://t.co/rwrVrzxLYy"
+            },
+            {
+              "display_url": "pic.x.com/rwrVrzxLYy",
+              "end": 53,
+              "expanded_url": "https://x.com/Tz_2022/status/2059359067403866137/photo/1",
+              "media_key": "3_2059359063297691648",
+              "start": 30,
+              "url": "https://t.co/rwrVrzxLYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059359067403866137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 20199,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家务必小心在 Telegram 上的这种钓鱼诈骗号。。。 https://t.co/rwrVrzxLYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 66,
+          "like_count": 4665,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 537
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-30T04:06:23.000Z",
+        "description": "品味是一种异常值。→ tastes.md\nAI is the steam engine of the mind. \nAI 是心灵的蒸汽机。科幻是现实的有效坍塌。加速正在被加速。看，那千尺海啸正扑面而来，而我们还在海滩上捡垃圾。\n念念不忘，必有回响。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tastes.md",
+                "end": 23,
+                "expanded_url": "https://tastes.md",
+                "start": 0,
+                "url": "https://t.co/vbxodrKnzl"
+              }
+            ]
+          }
+        },
+        "id": "100399047",
+        "location": "Scotland, United Kingdom",
+        "name": "Tz",
+        "pinned_tweet_id": "2039485765193801819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1579478276287905794/7-2NGiY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23707,
+          "following_count": 1566,
+          "like_count": 11414,
+          "listed_count": 271,
+          "media_count": 1940,
+          "tweet_count": 9381
+        },
+        "url": "https://t.co/vbxodrKnzl",
+        "username": "Tz_2022",
+        "verified": true
+      }
+    ]
+  }
+}

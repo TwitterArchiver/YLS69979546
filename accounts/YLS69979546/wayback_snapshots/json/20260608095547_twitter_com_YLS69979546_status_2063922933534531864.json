@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2063830523248865295",
+    "created_at": "2026-06-08T09:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063922933534531864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1619698674917068801",
+          "start": 0,
+          "username": "InfiniteTritium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063922933534531864",
+    "in_reply_to_user_id": "1619698674917068801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063830523248865295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@InfiniteTritium 是的这个偏差特别大，不确定性特别大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_2063830510342897664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQy6h2aAAAquhv.jpg",
+        "width": 1290
+      },
+      {
+        "height": 766,
+        "media_key": "3_2063830510338793473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQy6h1bYAE8-ZM.jpg",
+        "width": 1290
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2063830510338789376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKQy6h1bUAAM1Ov.jpg",
+        "width": 1232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2063830523248865295",
+        "created_at": "2026-06-08T09:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063922933534531864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1619698674917068801",
+              "start": 0,
+              "username": "InfiniteTritium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063922933534531864",
+        "in_reply_to_user_id": "1619698674917068801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063830523248865295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InfiniteTritium 是的这个偏差特别大，不确定性特别大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063830510342897664",
+            "3_2063830510338793473",
+            "3_2063830510338789376"
+          ]
+        },
+        "author_id": "1619698674917068801",
+        "conversation_id": "2063830523248865295",
+        "created_at": "2026-06-08T03:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063830523248865295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGRgbTlHYX",
+              "end": 107,
+              "expanded_url": "https://x.com/InfiniteTritium/status/2063830523248865295/photo/1",
+              "media_key": "3_2063830510342897664",
+              "start": 84,
+              "url": "https://t.co/JGRgbTlHYX"
+            },
+            {
+              "display_url": "pic.x.com/JGRgbTlHYX",
+              "end": 107,
+              "expanded_url": "https://x.com/InfiniteTritium/status/2063830523248865295/photo/1",
+              "media_key": "3_2063830510338793473",
+              "start": 84,
+              "url": "https://t.co/JGRgbTlHYX"
+            },
+            {
+              "display_url": "pic.x.com/JGRgbTlHYX",
+              "end": 107,
+              "expanded_url": "https://x.com/InfiniteTritium/status/2063830523248865295/photo/1",
+              "media_key": "3_2063830510338789376",
+              "start": 84,
+              "url": "https://t.co/JGRgbTlHYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063830523248865295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 288,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概…吧 估算一下..\n所以这个哮喘片（拿葵花举例）\n实际吗啡含量也就在0.2-0.1mg之间 不过不像甘草片基本0.4mg 但是这个是壳 所以能被利用上的更不确定🫤 https://t.co/JGRgbTlHYX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 76,
+          "like_count": 5194,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 658
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T14:08:10.000Z",
+        "description": "UnrealEngine地编师（学 接 私）｜艺术｜形而上｜理想国｜棱镜｜身外的世界总是模糊的…\n我想休息一下 在一个只有我的世界里。\n匿↘️）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/infinite%20tri…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/infinite%20tritium",
+                "start": 0,
+                "url": "https://t.co/rFRsz41wvR"
+              }
+            ]
+          }
+        },
+        "id": "1619698674917068801",
+        "location": "NewMap",
+        "name": "mono氚",
+        "pinned_tweet_id": "2049368028752875769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916186524884078594/dGmyKGAr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 217,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/rFRsz41wvR",
+        "username": "InfiniteTritium",
+        "verified": false
+      }
+    ]
+  }
+}

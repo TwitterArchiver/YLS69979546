@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2081271706216464512",
+    "created_at": "2026-07-27T00:15:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:15:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081533807631663162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081533807631663162",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081271706216464512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 我这附近的二甲医院开阿普没其他三甲开的多，还没思诺思，普瑞倒是挺好开的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 855,
+        "media_key": "3_2081271701388812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIpldpaYAA03oJ.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2081271706216464512",
+        "created_at": "2026-07-27T00:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081533807631663162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081533807631663162",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081271706216464512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 我这附近的二甲医院开阿普没其他三甲开的多，还没思诺思，普瑞倒是挺好开的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081271701388812288"
+          ]
+        },
+        "author_id": "1605724119156260866",
+        "conversation_id": "2081271706216464512",
+        "created_at": "2026-07-26T06:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081271706216464512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PE1OXkSt9O",
+              "end": 185,
+              "expanded_url": "https://x.com/qijieya/status/2081271706216464512/photo/1",
+              "media_key": "3_2081271701388812288",
+              "start": 162,
+              "url": "https://t.co/PE1OXkSt9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081271706216464512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 865,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "二甲医院的医生就是有实力\n我在南京脑科医院，一整个病区只有 5 颗 0.5mg 的氯硝西泮，病人睡不着 只能吃 0.4mg*2 的阿普唑仑\n我在本地二甲小医院 一开就是 100 片\n而且给的处方是每晚 2mg 氯硝&amp;0.5mg 阿普唑仑，两种苯二氮卓一起吃，医生问我吃多少 我就说吃两毫克氯硝，现在想想还是太带劲了 https://t.co/PE1OXkSt9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 151,
+          "like_count": 8327,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  中度偏重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 128,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 123,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 100,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "pinned_tweet_id": "2069318895748739435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 330,
+          "like_count": 10906,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 890
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2052388641750896924",
+    "created_at": "2026-05-07T16:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T17:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052431834475278466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1647403535430983681",
+          "start": 0,
+          "username": "wnwn65123324315"
+        },
+        {
+          "end": 26,
+          "id": "1911628907842818049",
+          "start": 17,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052431834475278466",
+    "in_reply_to_user_id": "1647403535430983681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052428348429922655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnwn65123324315 @codyhunk 真的要充吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2052388641750896924",
+        "created_at": "2026-05-07T16:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052431834475278466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1647403535430983681",
+              "start": 0,
+              "username": "wnwn65123324315"
+            },
+            {
+              "end": 26,
+              "id": "1911628907842818049",
+              "start": 17,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052431834475278466",
+        "in_reply_to_user_id": "1647403535430983681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052428348429922655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnwn65123324315 @codyhunk 真的要充吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647403535430983681",
+        "conversation_id": "2052388641750896924",
+        "created_at": "2026-05-07T16:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052428348429922655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052428348429922655",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052388641750896924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 充充饥吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 59,
+          "like_count": 3632,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 393
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-16T00:56:38.000Z",
+        "description": "",
+        "id": "1647403535430983681",
+        "name": "稳稳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647403596538073088/_n_sGMnQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 74,
+          "like_count": 291,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 988
+        },
+        "username": "wnwn65123324315",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13583,
+          "following_count": 1183,
+          "like_count": 24113,
+          "listed_count": 38,
+          "media_count": 6040,
+          "tweet_count": 9128
+        },
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

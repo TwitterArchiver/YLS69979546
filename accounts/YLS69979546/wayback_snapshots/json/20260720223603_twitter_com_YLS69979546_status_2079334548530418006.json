@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079334548530418006",
+    "created_at": "2026-07-20T22:36:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:36:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079334548530418006"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b0nef1res/stat…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/b0nef1res/status/2078795958565945382",
+          "start": 53,
+          "url": "https://t.co/Hhdaxfp7XC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079334548530418006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078795958565945382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是，🔪手真的很爽，很舒服，大臂只能是次选就没那么解压了，腿上快感减半，而且我的大毛裤不太允许我这么干 https://t.co/Hhdaxfp7XC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079334548530418006",
+        "created_at": "2026-07-20T22:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079334548530418006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b0nef1res/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/b0nef1res/status/2078795958565945382",
+              "start": 53,
+              "url": "https://t.co/Hhdaxfp7XC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079334548530418006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078795958565945382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是，🔪手真的很爽，很舒服，大臂只能是次选就没那么解压了，腿上快感减半，而且我的大毛裤不太允许我这么干 https://t.co/Hhdaxfp7XC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997852808360730624",
+        "conversation_id": "2078795958565945382",
+        "created_at": "2026-07-19T10:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T11:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078795958565945382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wonderless4u/s…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/wonderless4u/status/2077931447269142736",
+              "start": 71,
+              "url": "https://t.co/X02z2jky0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078795958565945382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 233,
+          "impression_count": 85880,
+          "like_count": 4795,
+          "quote_count": 26,
+          "reply_count": 56,
+          "retweet_count": 479
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077931447269142736",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "genuinely what's the science behind forearm cutting being so addictive https://t.co/X02z2jky0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 142,
+          "like_count": 7822,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1483
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T02:17:11.000Z",
+        "description": "25 / tw / ifb 18+",
+        "id": "1997852808360730624",
+        "location": "Eng/ptbr ",
+        "name": "fat orphan (1)",
+        "pinned_tweet_id": "2067867089948537019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067049134742478848/QxDteNeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2128,
+          "following_count": 1007,
+          "like_count": 17135,
+          "listed_count": 27,
+          "media_count": 359,
+          "tweet_count": 7210
+        },
+        "url": "",
+        "username": "b0nef1res",
+        "verified": false
+      }
+    ]
+  }
+}

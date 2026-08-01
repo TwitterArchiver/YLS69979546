@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2078142842380452280",
+    "created_at": "2026-07-17T15:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078147473475088661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2078147473475088661",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078142842380452280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我艹了，去杂物间关着门来着窗抽了根烟，我妈还能闻到，本来就有点晕晕的，现在更晕了，嗯，我有点爽，但不能表现出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2078142842380452280",
+        "created_at": "2026-07-17T15:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078147473475088661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078147473475088661",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078142842380452280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我艹了，去杂物间关着门来着窗抽了根烟，我妈还能闻到，本来就有点晕晕的，现在更晕了，嗯，我有点爽，但不能表现出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2078142842380452280",
+        "created_at": "2026-07-17T15:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078142842380452280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078142842380452280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完大蛋了，普瑞+阿普+1161不知道咋的吃睡着了，桌上还放在全是血的纸，用过的消毒棉片，带血的棉签饭，注射器也没吃，我老冯回家也没听到，看手机屏幕使用时间我三点之后没用过手机睡到了十一点，睡的踏马的真香啥动静都没听见"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 134,
+          "like_count": 7573,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1398
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

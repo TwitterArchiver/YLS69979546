@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022094014015844352",
+        "3_2022094014124847104",
+        "3_2022094014183616516",
+        "3_2022094014259105792"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022094018369429695",
+    "created_at": "2026-02-12T23:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T00:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022094018369429695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/82FRco5ZRK",
+          "end": 42,
+          "expanded_url": "https://x.com/YLS69979546/status/2022094018369429695/photo/1",
+          "media_key": "3_2022094014015844352",
+          "start": 19,
+          "url": "https://t.co/82FRco5ZRK"
+        },
+        {
+          "display_url": "pic.x.com/82FRco5ZRK",
+          "end": 42,
+          "expanded_url": "https://x.com/YLS69979546/status/2022094018369429695/photo/1",
+          "media_key": "3_2022094014124847104",
+          "start": 19,
+          "url": "https://t.co/82FRco5ZRK"
+        },
+        {
+          "display_url": "pic.x.com/82FRco5ZRK",
+          "end": 42,
+          "expanded_url": "https://x.com/YLS69979546/status/2022094018369429695/photo/1",
+          "media_key": "3_2022094014183616516",
+          "start": 19,
+          "url": "https://t.co/82FRco5ZRK"
+        },
+        {
+          "display_url": "pic.x.com/82FRco5ZRK",
+          "end": 42,
+          "expanded_url": "https://x.com/YLS69979546/status/2022094018369429695/photo/1",
+          "media_key": "3_2022094014259105792",
+          "start": 19,
+          "url": "https://t.co/82FRco5ZRK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022094018369429695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "太好看了，感觉是最好看的一次，发一下 https://t.co/82FRco5ZRK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022094018369429695].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022094018369429695",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022094018369429695"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2022094014015844352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_rys_bsAAZBAo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2022094014124847104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_rytZa8AAQGOW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2022094014183616516",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_rytnbsAQOVdj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022094014259105792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA_ryt5bkAAXwuO.jpg",
+        "width": 1152
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 38,
+          "like_count": 1352,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 92
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

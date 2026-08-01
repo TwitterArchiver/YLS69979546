@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2081838580482392337",
+    "created_at": "2026-07-28T01:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T02:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081908783627039213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1515562361070960646",
+          "start": 0,
+          "username": "Minastear1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081908783627039213",
+    "in_reply_to_user_id": "1515562361070960646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081839370894790829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear1 是这样的，然后就一直补，我一晚上给自己注射两针了，现在还想再来点，啊又停不下来了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2081838580482392337",
+        "created_at": "2026-07-28T01:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T02:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081908783627039213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1515562361070960646",
+              "start": 0,
+              "username": "Minastear1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081908783627039213",
+        "in_reply_to_user_id": "1515562361070960646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081839370894790829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear1 是这样的，然后就一直补，我一晚上给自己注射两针了，现在还想再来点，啊又停不下来了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1515562361070960646",
+        "conversation_id": "2081838580482392337",
+        "created_at": "2026-07-27T20:29:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T21:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081839370894790829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081839370894790829",
+        "in_reply_to_user_id": "1515562361070960646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081838580482392337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过我发现每次使用1161在药效高峰过去之后都会陷入低落，这就是和恶魔的交易吧…我并没有平白无故获得幸福感，我只是提前预支了一些而已。通过药物短暂触摸的爱与希望都是要还回去的，物质使用是有代价的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 158,
+          "like_count": 8383,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1687
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-17T05:26:48.000Z",
+        "description": "＝易烟︱我独立于世界之上︱18↑︱友跨顺女泛性恋︱oder︱提供小零食出售业务︱第二世@Minastear030 等待复活中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Minastear030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/b3aLfzgd4Y"
+              }
+            ]
+          }
+        },
+        "id": "1515562361070960646",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2030864448249024731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515562692299264001/veLb66ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 223,
+          "like_count": 600,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/b3aLfzgd4Y",
+        "username": "Minastear1",
+        "verified": false
+      }
+    ]
+  }
+}

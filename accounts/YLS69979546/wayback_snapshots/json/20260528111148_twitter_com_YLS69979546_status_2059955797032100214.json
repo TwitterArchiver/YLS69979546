@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2059955797032100214",
+    "created_at": "2026-05-28T11:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T12:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059955797032100214"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/engualicha/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/engualicha/status/2059865556765810824",
+          "start": 39,
+          "url": "https://t.co/8SqlCc9ghZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059955797032100214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059865556765810824",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果爱情是一种毒品，而科学无法将其制成药片，那真是一场悲剧。就很喜欢这句话啊 https://t.co/8SqlCc9ghZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059955797032100214",
+        "created_at": "2026-05-28T11:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T12:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059955797032100214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/engualicha/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/engualicha/status/2059865556765810824",
+              "start": 39,
+              "url": "https://t.co/8SqlCc9ghZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059955797032100214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059865556765810824",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果爱情是一种毒品，而科学无法将其制成药片，那真是一场悲剧。就很喜欢这句话啊 https://t.co/8SqlCc9ghZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1460134901701918724",
+        "conversation_id": "2059653245694333162",
+        "created_at": "2026-05-28T05:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059865556765810824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1704631044736192513",
+              "start": 0,
+              "username": "sinam_d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059865556765810824",
+        "in_reply_to_user_id": "1704631044736192513",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2065,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059653245694333162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinam_d dios si el amor es una droga y  la ciencia no podrá ponerlas en comprimidos es una tragedia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 65,
+          "like_count": 4714,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 555
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-15T06:37:57.000Z",
+        "description": "estoy sould out",
+        "id": "1460134901701918724",
+        "name": "flora",
+        "pinned_tweet_id": "1957237815512805808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004038895629897728/R_GPj7Zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 828,
+          "like_count": 73785,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 3300
+        },
+        "username": "engualicha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2049661491344036336",
+    "created_at": "2026-04-30T18:57:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T19:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049926149082624198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049926149082624198",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049661491344036336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 没活了，咬个打火机？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049661487896199168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHHcQ3_aAAAx8Ay.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2049661491344036336",
+        "created_at": "2026-04-30T18:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049926149082624198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049926149082624198",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049661491344036336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 没活了，咬个打火机？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049661487896199168"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2049661491344036336",
+        "created_at": "2026-04-30T01:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T02:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049661491344036336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLT45e19gV",
+              "end": 40,
+              "expanded_url": "https://x.com/hg3551019177402/status/2049661491344036336/photo/1",
+              "media_key": "3_2049661487896199168",
+              "start": 17,
+              "url": "https://t.co/iLT45e19gV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049661491344036336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，完成今天的抽打火机任务！ https://t.co/iLT45e19gV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 58,
+          "like_count": 3339,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 340
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑色柳丁：@rinii165892 老板a 干点烟代，电子烟纸烟（老板嫌一盒利润太低只能买整条，但是可以混拼！）（价格跟你外面直接买更便宜一点，我能挣个20块左右的回扣，这会让我开心几秒钟，只要有录制开箱视频售后绝对做到位）还有个老板b可以散烟买，利润使用小学数学法！ 已被学校开除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2049802773710151920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 712,
+          "like_count": 18310,
+          "listed_count": 1,
+          "media_count": 598,
+          "tweet_count": 9114
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

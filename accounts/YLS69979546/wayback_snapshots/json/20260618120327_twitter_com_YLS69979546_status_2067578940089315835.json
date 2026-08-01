@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2067578940089315835",
+    "created_at": "2026-06-18T12:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T13:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067578940089315835"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067578940089315835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我好像又抑郁了，有空整点致幻剂吧，但是我现在想吃bzd，最近状态真踏马烂，情绪波动有点离谱了，而且连续一段时间都感觉自己疑神疑鬼的，寻思也没磕啥非常规的药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2067578940089315835",
+        "created_at": "2026-06-18T12:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T13:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067578940089315835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067578940089315835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像又抑郁了，有空整点致幻剂吧，但是我现在想吃bzd，最近状态真踏马烂，情绪波动有点离谱了，而且连续一段时间都感觉自己疑神疑鬼的，寻思也没磕啥非常规的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 88,
+          "like_count": 5919,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 789
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

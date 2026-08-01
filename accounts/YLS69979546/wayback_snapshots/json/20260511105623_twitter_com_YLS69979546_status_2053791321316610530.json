@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2053503451246813454",
+    "created_at": "2026-05-11T10:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053791321316610530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777730090924978176",
+          "start": 0,
+          "username": "Hiiragi_qin8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053791321316610530",
+    "in_reply_to_user_id": "1777730090924978176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053503451246813454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hiiragi_qin8964 我上次这么搭配喝多了剧烈断片"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2124,
+        "media_key": "3_2053503406044835840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Cd8ZbcAAgv_8.jpg",
+        "width": 1201
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2053503451246813454",
+        "created_at": "2026-05-11T10:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053791321316610530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777730090924978176",
+              "start": 0,
+              "username": "Hiiragi_qin8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053791321316610530",
+        "in_reply_to_user_id": "1777730090924978176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053503451246813454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hiiragi_qin8964 我上次这么搭配喝多了剧烈断片"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053503406044835840"
+          ]
+        },
+        "author_id": "1777730090924978176",
+        "conversation_id": "2053503451246813454",
+        "created_at": "2026-05-10T15:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053503451246813454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YyFttWmunX",
+              "end": 44,
+              "expanded_url": "https://x.com/Hiiragi_qin/status/2053503451246813454/photo/1",
+              "media_key": "3_2053503406044835840",
+              "start": 21,
+              "url": "https://t.co/YyFttWmunX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053503451246813454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 850,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今日已严肃摄入酒精与阿普唑仑，请医生死心 https://t.co/YyFttWmunX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 57,
+          "like_count": 3927,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 449
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-09T16:08:06.000Z",
+        "description": "止まりどっかで またやり直せたら\n（欢迎查成分互fo）\n阿普唑仑重度依赖\n稍微懂一点点药理、可提供建议、乐子\n欢迎咨询\nCN\\JP\n累了，反正我本来就很无聊\n我自己本来就是乐子，也喜欢给带伙们提供乐子，我自己都能笑我自己\n以防自己被ban先加个防ban数字",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hiiragi_qin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hiiragi_qin",
+                "start": 0,
+                "url": "https://t.co/uj2xkcmm73"
+              }
+            ]
+          }
+        },
+        "id": "1777730090924978176",
+        "location": "穿越过去给自己一巴掌",
+        "name": "ヒイラギ（冬青）",
+        "pinned_tweet_id": "2040691843143512093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051158429058863104/6-7Jw_zW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 241,
+          "like_count": 17848,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 417
+        },
+        "url": "https://t.co/uj2xkcmm73",
+        "username": "Hiiragi_qin8964",
+        "verified": false
+      }
+    ]
+  }
+}

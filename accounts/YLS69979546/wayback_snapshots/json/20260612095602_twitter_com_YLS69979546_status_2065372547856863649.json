@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065344525305008282",
+    "created_at": "2026-06-12T09:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065372547856863649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1506521082853216258",
+          "start": 0,
+          "username": "17891956wer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065372547856863649",
+    "in_reply_to_user_id": "1506521082853216258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065344525305008282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17891956wer 沃擦，真出大红了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065344512332046337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmT5CxaoAEG3aL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065344525305008282",
+        "created_at": "2026-06-12T09:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065372547856863649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1506521082853216258",
+              "start": 0,
+              "username": "17891956wer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065372547856863649",
+        "in_reply_to_user_id": "1506521082853216258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065344525305008282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17891956wer 沃擦，真出大红了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065344512332046337"
+          ]
+        },
+        "author_id": "1506521082853216258",
+        "conversation_id": "2065344525305008282",
+        "created_at": "2026-06-12T08:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065344525305008282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLnuQTUwkh",
+              "end": 42,
+              "expanded_url": "https://x.com/17891956wer/status/2065344525305008282/photo/1",
+              "media_key": "3_2065344512332046337",
+              "start": 19,
+              "url": "https://t.co/YLnuQTUwkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065344525305008282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 305,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "废弃军区医院出大红了，先展示一个小金 https://t.co/YLnuQTUwkh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 80,
+          "like_count": 5402,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 681
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-23T06:39:55.000Z",
+        "description": "一个喜欢ACGN的死宅，灵魂自由，在精神世界中漫游~\n喝酒/吸烟/od/焦虑抑郁/休学中（改被迫上学）/中文/其他语言会用翻译器/诗歌/友跨/ACGN/电波系/猫猫/mtx～\n欢迎互粉喵～\n（有时互of没看到的私信）\n匿名私信https://t.co/6s74CaEsDY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Mumu",
+                "end": 136,
+                "expanded_url": "https://miyu.link/Mumu",
+                "start": 113,
+                "url": "https://t.co/6s74CaEsDY"
+              }
+            ]
+          }
+        },
+        "id": "1506521082853216258",
+        "location": "Shanghai",
+        "name": "秋风",
+        "pinned_tweet_id": "2025353338393694611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869799456050425858/n5q-m2lW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 257,
+          "like_count": 238,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 469
+        },
+        "username": "17891956wer",
+        "verified": false
+      }
+    ]
+  }
+}

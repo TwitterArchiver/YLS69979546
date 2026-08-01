@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2008097882881360264",
+    "created_at": "2026-01-06T03:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008383104373706987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3068721487",
+          "start": 0,
+          "username": "xuxinglinna"
+        },
+        {
+          "end": 22,
+          "id": "1601893417549967360",
+          "start": 13,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008383104373706987",
+    "in_reply_to_user_id": "3068721487",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008182033852580091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuxinglinna @AcboxLiu 并非注意方向的问题，是3号线和4号线在那边有一段共用同一个站台，就站那不动上一辆来的是3号线下一辆可能来的是4号线，不注意非常容易坐错车"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2008097882881360264",
+        "created_at": "2026-01-06T03:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008383104373706987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3068721487",
+              "start": 0,
+              "username": "xuxinglinna"
+            },
+            {
+              "end": 22,
+              "id": "1601893417549967360",
+              "start": 13,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008383104373706987",
+        "in_reply_to_user_id": "3068721487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008182033852580091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuxinglinna @AcboxLiu 并非注意方向的问题，是3号线和4号线在那边有一段共用同一个站台，就站那不动上一辆来的是3号线下一辆可能来的是4号线，不注意非常容易坐错车"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3068721487",
+        "conversation_id": "2008097882881360264",
+        "created_at": "2026-01-05T14:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T15:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008182033852580091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008182033852580091",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008097882881360264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcboxLiu 几年没去了，看评论怎么会有看不懂的，此站可以站内换4号线，不过4号线是环线，要注意方向"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 11
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-08T20:35:54.000Z",
+        "description": "時來逢益友，運蹇遇佳人。😍ོ 性别男，爱好女",
+        "id": "3068721487",
+        "location": "Shanghai",
+        "name": "東海舊家😍ོ ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/959758010158477312/ibR7j84M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 2,
+          "like_count": 1198,
+          "listed_count": 2,
+          "media_count": 639,
+          "tweet_count": 1842
+        },
+        "username": "xuxinglinna",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "📦活跃在互联网的神秘箱子/She&Her/💻开源开发/🎨平面设计/🚇轨道交通/全栈&LLM&UI&UX/🐱Github: sheepbox8646/Building ChatTutor/❤️大猫：@Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "Dustella_Chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 23,
+                "expanded_url": "https://github.com/sheepbox8646",
+                "start": 0,
+                "url": "https://t.co/mRP5RDvKAZ"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "Suzhou",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2001697455390507470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000629929281810432/W3tlGjqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10626,
+          "following_count": 2993,
+          "like_count": 2985,
+          "listed_count": 42,
+          "media_count": 1189,
+          "tweet_count": 6103
+        },
+        "url": "https://t.co/mRP5RDvKAZ",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

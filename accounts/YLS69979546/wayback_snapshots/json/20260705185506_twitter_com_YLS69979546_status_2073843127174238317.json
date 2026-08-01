@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2073820145026580930",
+    "created_at": "2026-07-05T18:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073843127174238317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "Nauseous_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073843127174238317",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073820145026580930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nauseous_17 嘶，我好像闭眼就能自动出内幻，有时候还能有剧情🤔但刻意这样的话我要么睡着了，要么坐不住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073820145026580930",
+        "created_at": "2026-07-05T18:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073843127174238317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "Nauseous_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073843127174238317",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073820145026580930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nauseous_17 嘶，我好像闭眼就能自动出内幻，有时候还能有剧情🤔但刻意这样的话我要么睡着了，要么坐不住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054912328978817024",
+        "conversation_id": "2073820145026580930",
+        "created_at": "2026-07-05T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073820145026580930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Nauseous_17/st…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Nauseous_17/status/2073661743889568110",
+              "start": 153,
+              "url": "https://t.co/gBrGcguGxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073820145026580930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 500,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073661743889568110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总结：不建议 是真的 但效果因人而异 可能会有内幻 但个人认为dmt不是主要原因 在我的学科认知里人体很难甚至不太可能产生致幻剂量的dmt \n个人认为幻觉原因是感官剥夺 长达3-5h的感官剥夺仅仅只算入门级 上不了太高的高原 我就是个臭毒虫不是修佛教的 我完全没耐心 我直接吸dmt不就得了 爽多了快多了 https://t.co/gBrGcguGxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 121,
+          "like_count": 6938,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1173
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "是的我是十七 第二账号 随缘回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/AjBpCjFKeY"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "十七Nauseous",
+        "pinned_tweet_id": "2055265228334739510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067675245201563648/LId8p_ka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 124,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/AjBpCjFKeY",
+        "username": "Nauseous_17",
+        "verified": false
+      }
+    ]
+  }
+}

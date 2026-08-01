@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079713119996420119",
+    "created_at": "2026-07-21T23:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T00:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079713767139746213"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079713767139746213",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079713119996420119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果把那时候的我换成现在的我，包要给自己来一针的，这哪个毒虫能忍住，放在眼前的度品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079713119996420119",
+        "created_at": "2026-07-21T23:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079713767139746213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079713767139746213",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079713119996420119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果把那时候的我换成现在的我，包要给自己来一针的，这哪个毒虫能忍住，放在眼前的度品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079713119996420119",
+        "created_at": "2026-07-21T23:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079713119996420119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2079709858040037423",
+              "start": 140,
+              "url": "https://t.co/ZxsBNdNx1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079713119996420119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079709858040037423",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起他去世前我四五岁或者五六岁，还是十好几年前的时候阿片类的注射剂可以带回家，我在边上看家里人给他打止痛针，我就特别好奇这针打了什么感觉，我当时真的不知道那个是什么纯好奇心重，很久之后我家里其他人告诉我那是啥了，我好奇心更重了，我可能命中注定要吸毒的，现在磕上药真的一点都不奇怪 https://t.co/ZxsBNdNx1A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 143,
+          "like_count": 7954,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1536
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

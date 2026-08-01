@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065877649424064884",
+    "created_at": "2026-06-14T11:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T12:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066124613948723642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1695553771961729024",
+          "start": 0,
+          "username": "Shiraishiwatari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066124613948723642",
+    "in_reply_to_user_id": "1695553771961729024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065877649424064884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiraishiwatari 我先看图片才关注文字的，开始只瞥了一眼真以为是个恐龙玩具，我说这恐龙咋长的有点抽象"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2992,
+        "media_key": "3_2065877600048717824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKt4u1RXIAA6w9q.jpg",
+        "width": 2992
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065877649424064884",
+        "created_at": "2026-06-14T11:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066124613948723642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1695553771961729024",
+              "start": 0,
+              "username": "Shiraishiwatari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066124613948723642",
+        "in_reply_to_user_id": "1695553771961729024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065877649424064884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiraishiwatari 我先看图片才关注文字的，开始只瞥了一眼真以为是个恐龙玩具，我说这恐龙咋长的有点抽象"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065877600048717824"
+          ]
+        },
+        "author_id": "1695553771961729024",
+        "conversation_id": "2065877649424064884",
+        "created_at": "2026-06-13T19:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065877649424064884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3qDFVmPUS",
+              "end": 36,
+              "expanded_url": "https://x.com/Shiraishiwatari/status/2065877649424064884/photo/1",
+              "media_key": "3_2065877600048717824",
+              "start": 13,
+              "url": "https://t.co/U3qDFVmPUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065877649424064884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "林的像恐龙的奇怪小工具。 https://t.co/U3qDFVmPUS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 80,
+          "like_count": 5647,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 732
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T21:48:32.000Z",
+        "description": "我会在某个阴暗角落盯着你视奸我，林。",
+        "id": "1695553771961729024",
+        "name": "白石渡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866204965921816576/ZEtERUnz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 50,
+          "like_count": 5223,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1336
+        },
+        "username": "Shiraishiwatari",
+        "verified": false
+      }
+    ]
+  }
+}

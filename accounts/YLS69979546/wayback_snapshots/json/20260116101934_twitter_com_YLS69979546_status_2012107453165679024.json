@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2012104922880499946",
+    "created_at": "2026-01-16T10:19:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T11:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012107453165679024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012107453165679024",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012104922880499946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不只是聊天，它还是我的用药指南，真成电子医生了，比医院的医生还好用（好用？这是什么词？好像不适合形容人类）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2012104922880499946",
+        "created_at": "2026-01-16T10:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012107453165679024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012107453165679024",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012104922880499946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不只是聊天，它还是我的用药指南，真成电子医生了，比医院的医生还好用（好用？这是什么词？好像不适合形容人类）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2012104922880499946",
+        "created_at": "2026-01-16T10:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T11:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012104922880499946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Shared via ChatGPT",
+              "display_url": "chatgpt.com/share/696a0e09…",
+              "end": 49,
+              "expanded_url": "https://chatgpt.com/share/696a0e09-7084-800f-832f-54b113db207d",
+              "images": [
+                {
+                  "height": 900,
+                  "url": "https://pbs.twimg.com/news_img/2012104979822346240/HeB45FzJ?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2012104979822346240/HeB45FzJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 26,
+              "status": 200,
+              "title": "ChatGPT - ASD与述情障碍情感反应",
+              "unwound_url": "https://chatgpt.com/share/696a0e09-7084-800f-832f-54b113db207d",
+              "url": "https://t.co/OVjuJrGsPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012104922880499946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服了，gpt快成我的精神科医生了，天天就跟gpt聊天https://t.co/OVjuJrGsPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 408,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

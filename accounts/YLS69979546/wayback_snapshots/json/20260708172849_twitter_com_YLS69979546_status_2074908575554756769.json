@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074843085285339398",
+    "created_at": "2026-07-08T17:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T18:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074908575554756769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032059814348754944",
+          "start": 0,
+          "username": "KrvyScorpii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074908575554756769",
+    "in_reply_to_user_id": "2032059814348754944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074843085285339398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KrvyScorpii 怎么什么东西都静注"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2074843026472759296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSvVWa8AA_ljr.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2074843038791393281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSwDPaYAEdM8o.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2074843055107321856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSxABbsAAMDWZ.jpg",
+        "width": 3060
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2074843073163792384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSyDSbkAAlB1x.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074843085285339398",
+        "created_at": "2026-07-08T17:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T18:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074908575554756769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032059814348754944",
+              "start": 0,
+              "username": "KrvyScorpii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074908575554756769",
+        "in_reply_to_user_id": "2032059814348754944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074843085285339398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KrvyScorpii 怎么什么东西都静注"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074843026472759296",
+            "3_2074843038791393281",
+            "3_2074843055107321856",
+            "3_2074843073163792384"
+          ]
+        },
+        "author_id": "2032059814348754944",
+        "conversation_id": "2074843085285339398",
+        "created_at": "2026-07-08T13:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074843085285339398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843026472759296",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            },
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843038791393281",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            },
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843055107321856",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            },
+            {
+              "display_url": "pic.x.com/ZGCLnu7L5j",
+              "end": 33,
+              "expanded_url": "https://x.com/KrvyScorpii/status/2074843085285339398/photo/1",
+              "media_key": "3_2074843073163792384",
+              "start": 10,
+              "url": "https://t.co/ZGCLnu7L5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074843085285339398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2189,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "测试一下棉花糖静注 https://t.co/ZGCLnu7L5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 125,
+          "like_count": 7121,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1263
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T11:43:12.000Z",
+        "description": "这里是krvy，pdw wiki管理员 不写wiki的贝斯手",
+        "id": "2032059814348754944",
+        "name": "Krvy #心宿二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055970057549934592/BEgsZwuu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 68,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "KrvyScorpii",
+        "verified": false
+      }
+    ]
+  }
+}

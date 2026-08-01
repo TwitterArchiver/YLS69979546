@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2082816091911508074",
+    "created_at": "2026-07-30T20:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T21:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082928410691850378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1826397809303535616",
+          "start": 0,
+          "username": "owerwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082928410691850378",
+    "in_reply_to_user_id": "1826397809303535616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082816091911508074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owerwe 🐮🍺，怎么做到的，什么卷"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082816083736866816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOemMWObMAACZHo.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082816091911508074",
+        "created_at": "2026-07-30T20:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082928410691850378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1826397809303535616",
+              "start": 0,
+              "username": "owerwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082928410691850378",
+        "in_reply_to_user_id": "1826397809303535616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082816091911508074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owerwe 🐮🍺，怎么做到的，什么卷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082816083736866816"
+          ]
+        },
+        "author_id": "1826397809303535616",
+        "conversation_id": "2082816091911508074",
+        "created_at": "2026-07-30T13:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082816091911508074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0KWX6wlKr7",
+              "end": 31,
+              "expanded_url": "https://x.com/owerwe/status/2082816091911508074/photo/1",
+              "media_key": "3_2082816083736866816",
+              "start": 8,
+              "url": "https://t.co/0KWX6wlKr7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082816091911508074",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劲爆优惠wdf https://t.co/0KWX6wlKr7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 162,
+          "like_count": 8517,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1822
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T23:15:59.000Z",
+        "description": "INFJ/od💊/双相/纹身/穿孔/请多多关注我吧 互fo请私信｜查成分 🚪188基础🚪 333有图包 520电子宠物💗",
+        "id": "1826397809303535616",
+        "location": "私信除过门线下咨询不回可视频验证20r",
+        "name": "おとわྀིྀི",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082295472052719616/DbLasm8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 70,
+          "like_count": 1036,
+          "listed_count": 5,
+          "media_count": 114,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "owerwe",
+        "verified": false
+      }
+    ]
+  }
+}

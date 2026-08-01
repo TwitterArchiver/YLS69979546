@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074463502979432496",
+    "created_at": "2026-07-07T14:52:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074506783604060410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037890001485074432",
+          "start": 0,
+          "username": "taffycvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074506783604060410",
+    "in_reply_to_user_id": "2037890001485074432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074463502979432496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffycvc 一次买60盒啊卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074463500752302080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMn5kB3asAAd7Au.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074463502979432496",
+        "created_at": "2026-07-07T14:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074506783604060410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037890001485074432",
+              "start": 0,
+              "username": "taffycvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074506783604060410",
+        "in_reply_to_user_id": "2037890001485074432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074463502979432496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffycvc 一次买60盒啊卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074463500752302080"
+          ]
+        },
+        "author_id": "2037890001485074432",
+        "conversation_id": "2074463502979432496",
+        "created_at": "2026-07-07T12:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074463502979432496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUHM9K0GnR",
+              "end": 34,
+              "expanded_url": "https://x.com/taffycvc/status/2074463502979432496/photo/1",
+              "media_key": "3_2074463500752302080",
+              "start": 11,
+              "url": "https://t.co/bUHM9K0GnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074463502979432496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1623,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "公安局又野到好吃的了 https://t.co/bUHM9K0GnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 123,
+          "like_count": 7069,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1229
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:50:38.000Z",
+        "description": "想要一辈子活在药效里\ninfp/普瑞巴林重度依赖/小号:@YuYpap🫐🫐🐰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "YuYpap"
+              }
+            ]
+          }
+        },
+        "id": "2037890001485074432",
+        "location": "普瑞药盒里",
+        "name": "taffy🐰",
+        "pinned_tweet_id": "2058417433262891055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 199,
+          "like_count": 9437,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "taffycvc",
+        "verified": false
+      }
+    ]
+  }
+}

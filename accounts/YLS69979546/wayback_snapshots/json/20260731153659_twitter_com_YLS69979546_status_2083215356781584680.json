@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083215356781584680",
+    "created_at": "2026-07-31T15:36:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T16:36:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083215356781584680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1r4i/status/…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/Ak1r4i/status/2083158482551808149",
+          "start": 28,
+          "url": "https://t.co/YUq6HmKYup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083215356781584680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083158482551808149",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好可憐的小朋友啊 這麼年輕就神經痛還乾咳嗽不止了😢😢😢 https://t.co/YUq6HmKYup"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083215356781584680",
+        "created_at": "2026-07-31T15:36:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083215356781584680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1r4i/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Ak1r4i/status/2083158482551808149",
+              "start": 28,
+              "url": "https://t.co/YUq6HmKYup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083215356781584680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083158482551808149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可憐的小朋友啊 這麼年輕就神經痛還乾咳嗽不止了😢😢😢 https://t.co/YUq6HmKYup"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022208955917979648",
+        "conversation_id": "2083158482551808149",
+        "created_at": "2026-07-31T11:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083158482551808149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wndsfefoumxlw6…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/wndsfefoumxlw6/status/2083108626026373478",
+              "start": 28,
+              "url": "https://t.co/AWKFNZP39v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083158482551808149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083108626026373478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好可憐的小朋友啊 這麼年輕就神經痛還乾咳嗽不止了😢😢😢 https://t.co/AWKFNZP39v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 165,
+          "like_count": 8556,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1889
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\n💊🔪🩸 Oct.09 社交無能笨蛋 希死念慮 \n發了ooc內容的話就是我嗑大了(不要討厭我🥺\n負能only sub垢@perconut 憑感覺fo跟回fo❤️ \n愛@tanga7lc\n可以來問我問題呀↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "perconut"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "tanga7lc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5aAqe"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "夢",
+        "name": "惺",
+        "pinned_tweet_id": "2082389496297910776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077712711434280960/C81eaJ93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 312,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 362
+        },
+        "url": "https://t.co/d4zjW5aAqe",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}

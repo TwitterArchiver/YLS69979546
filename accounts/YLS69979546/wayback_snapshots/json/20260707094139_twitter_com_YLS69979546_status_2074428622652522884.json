@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074426958562394519",
+    "created_at": "2026-07-07T09:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074428622652522884"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074428622652522884",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074426958562394519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果我在现实中这么做了我会怎样？我某一天会真的这么做吗？之后我再次思索，如果这么做那我之后会不会后悔，会不会悲伤，会不会害怕，我觉得我会\n或许人性本善，因为我还是觉得我不会怎么做，我觉得我不会如此疯狂，人本是温良的动物，只是外界因素的影响使人有了邪恶的想法，最终迫使有些人犯下罪行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074426958562394519",
+        "created_at": "2026-07-07T09:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074428622652522884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074428622652522884",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074426958562394519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我在现实中这么做了我会怎样？我某一天会真的这么做吗？之后我再次思索，如果这么做那我之后会不会后悔，会不会悲伤，会不会害怕，我觉得我会\n或许人性本善，因为我还是觉得我不会怎么做，我觉得我不会如此疯狂，人本是温良的动物，只是外界因素的影响使人有了邪恶的想法，最终迫使有些人犯下罪行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074426958562394519",
+        "created_at": "2026-07-07T09:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074426958562394519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074426958562394519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或许人性本恶，只是教育给了人温良的性格，其实我经常幻想杀死一些动物和人，想象将ta们的头颅砍下，胸腔剖开，想象血浆飞溅的样子，厌恶的情绪让这种想象给我带来充分的刺激和快感，但之后又会有一丝伤感缓慢的冒出来，然后产生疑问：真的是这样吗？我真的在想象中这么做？我如此讨厌ta们吗？如果我在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 123,
+          "like_count": 7018,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1216
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

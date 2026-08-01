@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2059348487637254166",
+    "created_at": "2026-05-26T19:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059354158462107983"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059354158462107983",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059348487637254166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠，我靠，阿片+烟真的绝了，爽死了，好爽好爽好爽好爽啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059348487637254166",
+        "created_at": "2026-05-26T19:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059354158462107983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059354158462107983",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059348487637254166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠，我靠，阿片+烟真的绝了，爽死了，好爽好爽好爽好爽啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059348487637254166",
+        "created_at": "2026-05-26T18:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059348487637254166"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059348487637254166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉1161和阿普唑仑一起在草我的脑子，含服阿普它溶解一点我就感觉到一阵强烈的欣快感，像被一下一下草了一样，啊草的我好爽啊，好爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 66,
+          "like_count": 4644,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 533
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

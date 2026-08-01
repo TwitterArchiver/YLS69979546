@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2062605303007318215",
+    "created_at": "2026-06-05T10:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T11:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062841078366273556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1638922874487730176",
+          "start": 0,
+          "username": "Sweet_xst"
+        },
+        {
+          "end": 22,
+          "id": "1900294775351500805",
+          "start": 11,
+          "username": "SippinS0DA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062841078366273556",
+    "in_reply_to_user_id": "1638922874487730176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062809999496352059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sweet_xst @SippinS0DA 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2062605303007318215",
+        "created_at": "2026-06-05T10:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T11:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062841078366273556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1638922874487730176",
+              "start": 0,
+              "username": "Sweet_xst"
+            },
+            {
+              "end": 22,
+              "id": "1900294775351500805",
+              "start": 11,
+              "username": "SippinS0DA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062841078366273556",
+        "in_reply_to_user_id": "1638922874487730176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062809999496352059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sweet_xst @SippinS0DA 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638922874487730176",
+        "conversation_id": "2062605303007318215",
+        "created_at": "2026-06-05T08:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T09:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062809999496352059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1900294775351500805",
+              "start": 0,
+              "username": "SippinS0DA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062809999496352059",
+        "in_reply_to_user_id": "1900294775351500805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1686,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062605303007318215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SippinS0DA 你法它了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 75,
+          "like_count": 5087,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 626
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T15:17:31.000Z",
+        "description": "认证号：@tangchaoli40605\n愿你每天都有好心情~\n青年大学习系列已强势归来！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "tangchaoli40605"
+              }
+            ]
+          }
+        },
+        "id": "1638922874487730176",
+        "name": "小薯条哭唧唧",
+        "pinned_tweet_id": "2058450609309884875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858729423815798784/6Gp3ENE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175789,
+          "following_count": 227,
+          "like_count": 4415,
+          "listed_count": 271,
+          "media_count": 1378,
+          "tweet_count": 3221
+        },
+        "username": "Sweet_xst",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T21:16:08.000Z",
+        "description": "i like Counter-Strike | @RazedCom | Not associated with Valve",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "RazedCom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "razed.com",
+                "end": 23,
+                "expanded_url": "http://www.razed.com",
+                "start": 0,
+                "url": "https://t.co/y6SyQnp8SA"
+              }
+            ]
+          }
+        },
+        "id": "1900294775351500805",
+        "location": "Mirage",
+        "name": "SODA",
+        "pinned_tweet_id": "2062605303007318215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061138404218470400/8INXBMLA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8079,
+          "following_count": 169,
+          "like_count": 8704,
+          "listed_count": 3,
+          "media_count": 407,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/y6SyQnp8SA",
+        "username": "SippinS0DA",
+        "verified": true
+      }
+    ]
+  }
+}

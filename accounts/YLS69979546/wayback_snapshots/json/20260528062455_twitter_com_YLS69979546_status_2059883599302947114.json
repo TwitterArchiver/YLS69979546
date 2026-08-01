@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2059883599302947114",
+    "created_at": "2026-05-28T06:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059883599302947114"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059883599302947114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我曾坚信自己的意志，认为堕落，成瘾者皆是意志不坚定之人，不知多久之后我才发现自己错了，在化学物质面前人之意志不堪一击，甚至一切的快乐，痛苦都只是产自化学变化罢了。\n当名为渴望之水不断注入容器，它总有一天会被装满，溢出，你无法遏制你的渴望，挣扎吧，嘶吼吧，破碎的一切，世界可太奇妙了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2059883599302947114",
+        "created_at": "2026-05-28T06:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059883599302947114"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059883599302947114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我曾坚信自己的意志，认为堕落，成瘾者皆是意志不坚定之人，不知多久之后我才发现自己错了，在化学物质面前人之意志不堪一击，甚至一切的快乐，痛苦都只是产自化学变化罢了。\n当名为渴望之水不断注入容器，它总有一天会被装满，溢出，你无法遏制你的渴望，挣扎吧，嘶吼吧，破碎的一切，世界可太奇妙了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 66,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 548
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2069058955603800482",
+    "created_at": "2026-06-23T11:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T12:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069387531863667144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1906605092612227072",
+          "start": 0,
+          "username": "N9qHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069387531863667144",
+    "in_reply_to_user_id": "1906605092612227072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069058955603800482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N9qHy 这玩意，咋说呢，对以前的我来说药效还行，但现在我已经对它没啥兴趣了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069058948397940736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbGJraaQAAkk1S.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2069058955603800482",
+        "created_at": "2026-06-23T11:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T12:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069387531863667144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1906605092612227072",
+              "start": 0,
+              "username": "N9qHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069387531863667144",
+        "in_reply_to_user_id": "1906605092612227072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069058955603800482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N9qHy 这玩意，咋说呢，对以前的我来说药效还行，但现在我已经对它没啥兴趣了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069058948397940736"
+          ]
+        },
+        "author_id": "1906605092612227072",
+        "conversation_id": "2069058955603800482",
+        "created_at": "2026-06-22T14:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T15:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069058955603800482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUYfo4eUwn",
+              "end": 47,
+              "expanded_url": "https://x.com/N9qHy/status/2069058955603800482/photo/1",
+              "media_key": "3_2069058948397940736",
+              "start": 24,
+              "url": "https://t.co/iUYfo4eUwn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069058955603800482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5543,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "悲报   pdd已经搜不到德通宝哮喘片了😥😥😥 https://t.co/iUYfo4eUwn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 90,
+          "like_count": 6178,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 842
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T07:11:09.000Z",
+        "description": "LV.4 - Angel Dust",
+        "id": "1906605092612227072",
+        "name": "明前",
+        "pinned_tweet_id": "1910581033193660670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 1879,
+          "like_count": 6000,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1916
+        },
+        "url": "",
+        "username": "N9qHy",
+        "verified": false
+      }
+    ]
+  }
+}

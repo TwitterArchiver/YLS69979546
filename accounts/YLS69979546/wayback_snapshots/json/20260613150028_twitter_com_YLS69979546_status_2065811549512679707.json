@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065691862497919385",
+    "created_at": "2026-06-13T15:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065811549512679707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2037890001485074432",
+          "start": 0,
+          "username": "taffycvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065811549512679707",
+    "in_reply_to_user_id": "2037890001485074432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065691862497919385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffycvc 耐药就睡不着了，但这样一点也不好玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065691862497919385",
+        "created_at": "2026-06-13T15:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065811549512679707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2037890001485074432",
+              "start": 0,
+              "username": "taffycvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065811549512679707",
+        "in_reply_to_user_id": "2037890001485074432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065691862497919385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffycvc 耐药就睡不着了，但这样一点也不好玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037890001485074432",
+        "conversation_id": "2065691862497919385",
+        "created_at": "2026-06-13T07:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T08:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065691862497919385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065691862497919385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求吃思诺思不睡着教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 82,
+          "like_count": 5578,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 724
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-28T13:50:38.000Z",
+        "description": "想要一辈子活在药效里\ninfp/普瑞巴林重度依赖/小号:@YuYpap🫐🫐🐰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "YuYpap"
+              }
+            ]
+          }
+        },
+        "id": "2037890001485074432",
+        "location": "普瑞药盒里",
+        "name": "taffy🐰",
+        "pinned_tweet_id": "2058417433262891055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056354779060916225/VSxcOJq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 176,
+          "like_count": 7720,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 212
+        },
+        "username": "taffycvc",
+        "verified": false
+      }
+    ]
+  }
+}

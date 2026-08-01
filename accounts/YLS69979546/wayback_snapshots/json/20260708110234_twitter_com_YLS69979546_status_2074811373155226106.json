@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074811365769019392"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074811373155226106",
+    "created_at": "2026-07-08T11:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074811373155226106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hwZPZBAXWH",
+          "end": 84,
+          "expanded_url": "https://x.com/YLS69979546/status/2074811373155226106/photo/1",
+          "media_key": "3_2074811365769019392",
+          "start": 61,
+          "url": "https://t.co/hwZPZBAXWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074811373155226106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我能不能挑战一个一周戒毒计划，好像真的磕的有点多了，感觉有点难，主要是我安眠药有时候也记上去，一周不吃安眠药的概率不太大 https://t.co/hwZPZBAXWH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2074811365769019392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMs18cCbAAAkEkt.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074811365769019392"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074811373155226106",
+        "created_at": "2026-07-08T11:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074811373155226106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwZPZBAXWH",
+              "end": 84,
+              "expanded_url": "https://x.com/YLS69979546/status/2074811373155226106/photo/1",
+              "media_key": "3_2074811365769019392",
+              "start": 61,
+              "url": "https://t.co/hwZPZBAXWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074811373155226106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能不能挑战一个一周戒毒计划，好像真的磕的有点多了，感觉有点难，主要是我安眠药有时候也记上去，一周不吃安眠药的概率不太大 https://t.co/hwZPZBAXWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 126,
+          "like_count": 7110,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 1256
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

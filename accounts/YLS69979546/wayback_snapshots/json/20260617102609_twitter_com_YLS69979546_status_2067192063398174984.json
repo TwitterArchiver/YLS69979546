@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2059183369615974650",
+    "created_at": "2026-06-17T10:26:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T11:26:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067192063398174984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520477092751998976",
+          "start": 0,
+          "username": "3pQ8Y4t2VlI0urq"
+        },
+        {
+          "end": 33,
+          "id": "1708493840477458432",
+          "start": 17,
+          "username": "gCdQqjm35088619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067192063398174984",
+    "in_reply_to_user_id": "1520477092751998976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066900324670173429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3pQ8Y4t2VlI0urq @gCdQqjm35088619 我在发现自己成瘾的时候就停了，然后熬了一周戒断反应，之后变成每一两周一次了，长时间天天用的话感觉只能逐渐减量了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059183369615974650",
+        "created_at": "2026-06-17T10:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067192063398174984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520477092751998976",
+              "start": 0,
+              "username": "3pQ8Y4t2VlI0urq"
+            },
+            {
+              "end": 33,
+              "id": "1708493840477458432",
+              "start": 17,
+              "username": "gCdQqjm35088619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067192063398174984",
+        "in_reply_to_user_id": "1520477092751998976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066900324670173429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3pQ8Y4t2VlI0urq @gCdQqjm35088619 我在发现自己成瘾的时候就停了，然后熬了一周戒断反应，之后变成每一两周一次了，长时间天天用的话感觉只能逐渐减量了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520477092751998976",
+        "conversation_id": "2059183369615974650",
+        "created_at": "2026-06-16T15:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066900324670173429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 29,
+              "id": "1708493840477458432",
+              "start": 13,
+              "username": "gCdQqjm35088619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066900324670173429",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066783458459058197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @gCdQqjm35088619 怎么办戒不掉很焦虑，你频率是怎样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 87,
+          "like_count": 5816,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 773
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T18:57:25.000Z",
+        "description": "精神疾病/重抑重焦/od/生命科学专业",
+        "id": "1520477092751998976",
+        "name": "时空鲨鱼皮",
+        "pinned_tweet_id": "1742578852528902463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701116063419887616/w5Q6c-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 255,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 107
+        },
+        "url": "",
+        "username": "3pQ8Y4t2VlI0urq",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:47:38.000Z",
+        "description": "",
+        "id": "1708493840477458432",
+        "name": "電気サーカス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004188978749345792/74sAh7CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 120,
+          "like_count": 688,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "gCdQqjm35088619",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2004914977426284983",
+    "created_at": "2025-12-27T14:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T15:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004918144595578913"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2004918144595578913",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004914977426284983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "黑x也欺负我，咱没钱的发帖只能分段发，跟个傻逼一样自己回复自己，特么的我发帖又没人看，只是手机坏了当场失联了搞得我焦虑大犯特犯总觉得有事，有人会找我，虽然实际上我失联一天大概率根本就无事发生一个找我的人都不会有，现在除了推什么软件都登不上只能在这发疯吐槽，不然我这辈子未必发一次帖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2004914977426284983",
+        "created_at": "2025-12-27T14:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T15:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004918144595578913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004918144595578913",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004914977426284983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "黑x也欺负我，咱没钱的发帖只能分段发，跟个傻逼一样自己回复自己，特么的我发帖又没人看，只是手机坏了当场失联了搞得我焦虑大犯特犯总觉得有事，有人会找我，虽然实际上我失联一天大概率根本就无事发生一个找我的人都不会有，现在除了推什么软件都登不上只能在这发疯吐槽，不然我这辈子未必发一次帖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2004914977426284983",
+        "created_at": "2025-12-27T13:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T14:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004914977426284983"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004914977426284983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥这么倒霉？先是厕所堵了没工具通，然后是手机坏了，国内任何软件都登不了。电脑版微信连个其他登陆方式都没只能手机扫码，QQ输完了密码还得用手机验证，用模拟器版辅助验证登陆结果跟我说还要验证码，我都用辅助登陆了你觉得我像是还能收验证码的样子吗请问？现在唯一能登的社交软件竟然他妈的是推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "平平无奇的普通少年罢了",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 18,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

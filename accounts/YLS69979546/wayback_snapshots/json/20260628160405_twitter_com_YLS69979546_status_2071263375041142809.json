@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071263372189048832"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2071262022881489234",
+    "created_at": "2026-06-28T16:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071263375041142809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HTt30GBvYm",
+          "end": 38,
+          "expanded_url": "https://x.com/YLS69979546/status/2071263375041142809/photo/1",
+          "media_key": "3_2071263372189048832",
+          "start": 15,
+          "url": "https://t.co/HTt30GBvYm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071263375041142809",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071262022881489234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 有多雷霆 https://t.co/HTt30GBvYm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2071263372189048832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6bEB-bIAA2HHn.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1058,
+        "media_key": "3_2071262014673186816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL6Z1A1a8AAKZ4F.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071263372189048832"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2071262022881489234",
+        "created_at": "2026-06-28T16:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071263375041142809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HTt30GBvYm",
+              "end": 38,
+              "expanded_url": "https://x.com/YLS69979546/status/2071263375041142809/photo/1",
+              "media_key": "3_2071263372189048832",
+              "start": 15,
+              "url": "https://t.co/HTt30GBvYm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071263375041142809",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071262022881489234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 有多雷霆 https://t.co/HTt30GBvYm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071262014673186816"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "conversation_id": "2071262022881489234",
+        "created_at": "2026-06-28T15:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T16:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071262022881489234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mRD0O0DXuT",
+              "end": 47,
+              "expanded_url": "https://x.com/Jy666992/status/2071262022881489234/photo/1",
+              "media_key": "3_2071262014673186816",
+              "start": 24,
+              "url": "https://t.co/mRD0O0DXuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071262022881489234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有这张原图 发我行吗\n我想画一下我的雷霆药物 https://t.co/mRD0O0DXuT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 112,
+          "like_count": 6505,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2069854465931497694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 243,
+          "like_count": 830,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

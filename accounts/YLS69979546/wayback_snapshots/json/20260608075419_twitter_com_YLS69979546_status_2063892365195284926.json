@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2063860654520635446",
+    "created_at": "2026-06-08T07:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T08:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063892365195284926"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063892365195284926",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063860654520635446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我忙差不多了我想补药，但是我对dxm耐受清除的同时对愈创甘油醚致吐的耐受也清楚了，手头没有止吐药了，怕一会吐了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063860651953647616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKROVAGacAAQCZ1.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2063860654520635446",
+        "created_at": "2026-06-08T07:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063892365195284926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063892365195284926",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063860654520635446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我忙差不多了我想补药，但是我对dxm耐受清除的同时对愈创甘油醚致吐的耐受也清楚了，手头没有止吐药了，怕一会吐了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063860651953647616"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2063860654520635446",
+        "created_at": "2026-06-08T05:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063860654520635446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJ6CpbFyhd",
+              "end": 78,
+              "expanded_url": "https://x.com/YLS69979546/status/2063860654520635446/photo/1",
+              "media_key": "3_2063860651953647616",
+              "start": 55,
+              "url": "https://t.co/EJ6CpbFyhd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063860654520635446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在吃这玩意竟然要用一把丢嘴里趁味觉没注意赶紧灌水咽下去的方法了，越吃越恶心，很久没吃还是恶心，想到它就恶心 https://t.co/EJ6CpbFyhd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 75,
+          "like_count": 5184,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 652
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

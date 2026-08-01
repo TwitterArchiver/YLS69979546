@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2021157125150372221",
+    "created_at": "2026-02-10T11:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T12:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021190149132992868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1891528731614904322",
+          "start": 0,
+          "username": "yale___shane"
+        },
+        {
+          "end": 24,
+          "id": "1479696561302999042",
+          "start": 14,
+          "username": "quite8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021190149132992868",
+    "in_reply_to_user_id": "1891528731614904322",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021174736475095193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yale___shane @quite8964 还真，是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2021157125150372221",
+        "created_at": "2026-02-10T11:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T12:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021190149132992868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1891528731614904322",
+              "start": 0,
+              "username": "yale___shane"
+            },
+            {
+              "end": 24,
+              "id": "1479696561302999042",
+              "start": 14,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021190149132992868",
+        "in_reply_to_user_id": "1891528731614904322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021174736475095193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yale___shane @quite8964 还真，是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891528731614904322",
+        "conversation_id": "2021157125150372221",
+        "created_at": "2026-02-10T10:49:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T11:49:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021174736475095193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quite8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021174736475095193",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 305,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021157125150372221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quite8964 为什么，这个整形科专门装鸡巴拆鸡巴吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 36,
+          "like_count": 1251,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 66
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T16:42:58.000Z",
+        "description": "A proud citizen of the Republic of Shanghai 日本語/English/上海話",
+        "id": "1891528731614904322",
+        "name": "Yale",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991345934140379136/FaYHbx2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 61
+        },
+        "username": "yale___shane",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina 靠谱的药商小圆环@yuukihanashiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "yuukihanashiya"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "1980927141828268120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10729,
+          "following_count": 3061,
+          "like_count": 33338,
+          "listed_count": 25,
+          "media_count": 624,
+          "tweet_count": 14594
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

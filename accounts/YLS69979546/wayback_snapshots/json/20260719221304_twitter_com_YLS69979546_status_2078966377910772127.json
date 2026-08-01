@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2078683238328090833",
+    "created_at": "2026-07-19T22:13:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T23:13:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078966377910772127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990094131906195457",
+          "start": 0,
+          "username": "panhao0604"
+        },
+        {
+          "end": 21,
+          "id": "1911628907842818049",
+          "start": 12,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078966377910772127",
+    "in_reply_to_user_id": "1990094131906195457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078694799201407401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@panhao0604 @codyhunk 五分钟后才说发错群，来不及了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2078683238328090833",
+        "created_at": "2026-07-19T22:13:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T23:13:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078966377910772127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990094131906195457",
+              "start": 0,
+              "username": "panhao0604"
+            },
+            {
+              "end": 21,
+              "id": "1911628907842818049",
+              "start": 12,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078966377910772127",
+        "in_reply_to_user_id": "1990094131906195457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078694799201407401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@panhao0604 @codyhunk 五分钟后才说发错群，来不及了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990094131906195457",
+        "conversation_id": "2078683238328090833",
+        "created_at": "2026-07-19T04:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078694799201407401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078694799201407401",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078683238328090833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 再给我两分钟~ 让我把记忆结成冰\n（2-3分钟可以撤回）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 142,
+          "like_count": 7749,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T16:26:55.000Z",
+        "description": "我们要飞向何方\n-我打算待会去码头整点薯条",
+        "id": "1990094131906195457",
+        "location": "亚洲",
+        "name": "mortal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073279702241071104/WEaWn9Jv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 589,
+          "like_count": 3177,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "panhao0604",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14836,
+          "following_count": 1118,
+          "like_count": 24996,
+          "listed_count": 43,
+          "media_count": 6978,
+          "tweet_count": 10402
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

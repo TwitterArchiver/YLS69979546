@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2050324241375965185",
+    "created_at": "2026-05-02T05:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T06:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050445450357117436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3629003056",
+          "start": 0,
+          "username": "zfy544"
+        },
+        {
+          "end": 17,
+          "id": "2012631283898187776",
+          "start": 8,
+          "username": "youy1qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050445450357117436",
+    "in_reply_to_user_id": "3629003056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050360449754079686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zfy544 @youy1qwq 赌毒俩字不是黄的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2050324241375965185",
+        "created_at": "2026-05-02T05:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T06:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050445450357117436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3629003056",
+              "start": 0,
+              "username": "zfy544"
+            },
+            {
+              "end": 17,
+              "id": "2012631283898187776",
+              "start": 8,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050445450357117436",
+        "in_reply_to_user_id": "3629003056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050360449754079686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zfy544 @youy1qwq 赌毒俩字不是黄的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3629003056",
+        "conversation_id": "2050324241375965185",
+        "created_at": "2026-05-01T23:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050360449754079686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2012631283898187776",
+              "start": 0,
+              "username": "youy1qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050360449754079686",
+        "in_reply_to_user_id": "2012631283898187776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2840,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050324241375965185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youy1qwq 黄你是只字不提呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 56,
+          "like_count": 3383,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 350
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-12T07:37:18.000Z",
+        "description": "我也没啥才艺，给大家表演个街舞吧：ጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿኈቼዽጿ",
+        "id": "3629003056",
+        "location": "中国",
+        "name": "山炮横行的年代",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941325035299536896/6XBC14br_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 54,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 242
+        },
+        "username": "zfy544",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11843,
+          "following_count": 1714,
+          "like_count": 3976,
+          "listed_count": 19,
+          "media_count": 1596,
+          "tweet_count": 2100
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

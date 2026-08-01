@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2078591752785793160",
+    "created_at": "2026-07-18T21:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T22:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078591752785793160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2078584547864953328",
+          "start": 92,
+          "url": "https://t.co/zztx1We9RE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078591752785793160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078584547864953328",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "非常抽象的是，彻底决定最近戒毒了之后我就不反复惦记那个药了，就是反正我得遵守自己制定的规则那最近就啥都磕不了了，所以惦记它也没意义，我让自己失去了给自己找补的机会，就自动抑制住了渴求 https://t.co/zztx1We9RE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2078591752785793160",
+        "created_at": "2026-07-18T21:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078591752785793160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2078584547864953328",
+              "start": 92,
+              "url": "https://t.co/zztx1We9RE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078591752785793160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078584547864953328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "非常抽象的是，彻底决定最近戒毒了之后我就不反复惦记那个药了，就是反正我得遵守自己制定的规则那最近就啥都磕不了了，所以惦记它也没意义，我让自己失去了给自己找补的机会，就自动抑制住了渴求 https://t.co/zztx1We9RE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2078584547864953328",
+        "created_at": "2026-07-18T20:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T21:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078584547864953328"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078584547864953328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我又该戒毒了，但是我最近好像又没磕多少药，主要是现在对某些物质的渴求有点强，一直对抗这个渴求好累，多戒几天毒这个就会自动好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 142,
+          "like_count": 7641,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1439
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

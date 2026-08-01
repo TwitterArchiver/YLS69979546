@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2078543419392328149",
+    "created_at": "2026-07-19T16:24:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T17:24:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078878585734230454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1811616942069022720",
+          "start": 0,
+          "username": "Im_CanDo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078878585734230454",
+    "in_reply_to_user_id": "1811616942069022720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078543419392328149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_CanDo 半个小时那很短了，我很容易一下就是一两个小时，一回神才发现自己专心致志的走神了这么久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2078543419392328149",
+        "created_at": "2026-07-19T16:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078878585734230454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1811616942069022720",
+              "start": 0,
+              "username": "Im_CanDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078878585734230454",
+        "in_reply_to_user_id": "1811616942069022720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078543419392328149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_CanDo 半个小时那很短了，我很容易一下就是一两个小时，一回神才发现自己专心致志的走神了这么久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811616942069022720",
+        "conversation_id": "2078543419392328149",
+        "created_at": "2026-07-18T18:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078543419392328149"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "4797714c95971ac1"
+        },
+        "id": "2078543419392328149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16114,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷小红书看一个ADHD第一次吃专注达后专注的走神了半个小时\n\n突然想到我第一次吃专注达后，去上厕所拉了个特别专注的拉屎，那种专注特别神奇...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 142,
+          "like_count": 7691,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T04:22:04.000Z",
+        "description": "希望成为艺术家，摄影专业学习中，喜欢社会科学相关研究，喜欢音乐剧，福瑞控，ENTP，阿斯伯格社会化中，当朋友圈发，经常很抽象，偶尔（经常）发点擦边，祝大家顺遂，想和大家交朋友，欢迎扩列",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/im_cando2",
+                "end": 23,
+                "expanded_url": "https://ngl.link/im_cando2",
+                "start": 0,
+                "url": "https://t.co/97wAs4NVPe"
+              }
+            ]
+          }
+        },
+        "id": "1811616942069022720",
+        "location": "-17km",
+        "name": "残冬 Cando",
+        "pinned_tweet_id": "2063913258529272040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059302587153920000/nl_W6aCR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10701,
+          "following_count": 1374,
+          "like_count": 30869,
+          "listed_count": 13,
+          "media_count": 565,
+          "tweet_count": 10510
+        },
+        "url": "https://t.co/97wAs4NVPe",
+        "username": "Im_CanDo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065989274076668133",
+    "created_at": "2026-06-14T14:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066163515795345770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1758324617838788608",
+          "start": 0,
+          "username": "axzamyzed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066163515795345770",
+    "in_reply_to_user_id": "1758324617838788608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065989274076668133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@axzamyzed 为啥总看到有人发这玩意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2065989266023571456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKveSpca4AAwmHw.jpg",
+        "width": 570
+      },
+      {
+        "height": 648,
+        "media_key": "3_2065989266019360768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKveSpbaoAA9KFf.jpg",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065989274076668133",
+        "created_at": "2026-06-14T14:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066163515795345770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1758324617838788608",
+              "start": 0,
+              "username": "axzamyzed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066163515795345770",
+        "in_reply_to_user_id": "1758324617838788608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065989274076668133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@axzamyzed 为啥总看到有人发这玩意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065989266023571456",
+            "3_2065989266019360768"
+          ]
+        },
+        "author_id": "1758324617838788608",
+        "conversation_id": "2065989274076668133",
+        "created_at": "2026-06-14T02:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T03:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065989274076668133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/80Zgu7b5U5",
+              "end": 54,
+              "expanded_url": "https://x.com/axzamyzed/status/2065989274076668133/photo/1",
+              "media_key": "3_2065989266023571456",
+              "start": 31,
+              "url": "https://t.co/80Zgu7b5U5"
+            },
+            {
+              "display_url": "pic.x.com/80Zgu7b5U5",
+              "end": 54,
+              "expanded_url": "https://x.com/axzamyzed/status/2065989274076668133/photo/1",
+              "media_key": "3_2065989266019360768",
+              "start": 31,
+              "url": "https://t.co/80Zgu7b5U5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065989274076668133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22766,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "洗澡的时候感觉脖子后面有东西\n好像是个芯片，有知道这是什么吗 https://t.co/80Zgu7b5U5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 80,
+          "like_count": 5664,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 735
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T02:57:29.000Z",
+        "description": "mtx｜叫我翅膀就好｜私信互关｜本体 @axzameyzed ｜内容真假自辨｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "axzameyzed"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 23,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 0,
+                "url": "https://t.co/8nPnyxNVu6"
+              }
+            ]
+          }
+        },
+        "id": "1758324617838788608",
+        "location": "猫猫的火星基地",
+        "name": "翅翅膀喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035544600602120192/wfz0e3mo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3700,
+          "following_count": 946,
+          "like_count": 12827,
+          "listed_count": 10,
+          "media_count": 2513,
+          "tweet_count": 7870
+        },
+        "url": "https://t.co/8nPnyxNVu6",
+        "username": "axzamyzed",
+        "verified": true
+      }
+    ]
+  }
+}

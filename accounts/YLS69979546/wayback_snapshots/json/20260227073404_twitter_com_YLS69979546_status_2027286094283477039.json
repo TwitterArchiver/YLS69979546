@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2026925668727140601",
+    "created_at": "2026-02-27T07:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T08:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027286094283477039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2240822994",
+          "start": 0,
+          "username": "DeanzTIA"
+        },
+        {
+          "end": 19,
+          "id": "3106645082",
+          "start": 10,
+          "username": "0xsmall_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027286094283477039",
+    "in_reply_to_user_id": "2240822994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027027078344843718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeanzTIA @0xsmall_ 查了一下，完全懂了图片的意思（用的人可能没注意那几个字，开始我也没注意）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2026925668727140601",
+        "created_at": "2026-02-27T07:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027286094283477039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2240822994",
+              "start": 0,
+              "username": "DeanzTIA"
+            },
+            {
+              "end": 19,
+              "id": "3106645082",
+              "start": 10,
+              "username": "0xsmall_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027286094283477039",
+        "in_reply_to_user_id": "2240822994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027027078344843718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeanzTIA @0xsmall_ 查了一下，完全懂了图片的意思（用的人可能没注意那几个字，开始我也没注意）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2240822994",
+        "conversation_id": "2026925668727140601",
+        "created_at": "2026-02-26T14:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T15:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027027078344843718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "3106645082",
+              "start": 0,
+              "username": "0xsmall_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027027078344843718",
+        "in_reply_to_user_id": "3106645082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5290,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026925668727140601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xsmall_ 评论区几乎没人看懂STD的意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 158
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-11T13:58:51.000Z",
+        "description": "Ordinary guy trying to make sense of the world\nLuke 15:7",
+        "id": "2240822994",
+        "name": "Dean Z.",
+        "pinned_tweet_id": "1965893908191465847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933599103314751488/1STZgJ7k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 85,
+          "like_count": 21124,
+          "listed_count": 3,
+          "media_count": 567,
+          "tweet_count": 7570
+        },
+        "username": "DeanzTIA",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-24T11:00:36.000Z",
+        "description": "主业工厂拧螺丝   \n副业扯淡段子吹水\n咸鱼时间就撸撸空投吃个猪脚饭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "link3.to/bT8qSWzp",
+                "end": 23,
+                "expanded_url": "https://link3.to/bT8qSWzp",
+                "start": 0,
+                "url": "https://t.co/bN0spJ5ENF"
+              }
+            ]
+          }
+        },
+        "id": "3106645082",
+        "location": "社区",
+        "name": "小白 (重生版)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920860792796176384/y0YsSS7M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17831,
+          "following_count": 4147,
+          "like_count": 44054,
+          "listed_count": 45,
+          "media_count": 863,
+          "tweet_count": 36041
+        },
+        "url": "https://t.co/bN0spJ5ENF",
+        "username": "0xsmall_",
+        "verified": true
+      }
+    ]
+  }
+}

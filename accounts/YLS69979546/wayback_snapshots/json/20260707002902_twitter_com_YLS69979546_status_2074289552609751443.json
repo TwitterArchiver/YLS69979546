@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074190246837977529",
+    "created_at": "2026-07-07T00:29:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T01:29:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074289552609751443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1561806114274287616",
+          "start": 0,
+          "username": "crossyangshe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074289552609751443",
+    "in_reply_to_user_id": "1561806114274287616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074190246837977529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crossyangshe 最近咋老有这样的，我也想被送🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2074190212398534656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkBAjabUAAui2W.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2074190212381679616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMkBAjWaIAALG7z.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074190246837977529",
+        "created_at": "2026-07-07T00:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074289552609751443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1561806114274287616",
+              "start": 0,
+              "username": "crossyangshe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074289552609751443",
+        "in_reply_to_user_id": "1561806114274287616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074190246837977529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crossyangshe 最近咋老有这样的，我也想被送🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074190212398534656",
+            "3_2074190212381679616"
+          ]
+        },
+        "author_id": "1561806114274287616",
+        "conversation_id": "2074190246837977529",
+        "created_at": "2026-07-06T17:54:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:54:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074190246837977529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aAihfPHPf2",
+              "end": 73,
+              "expanded_url": "https://x.com/crossyangshe/status/2074190246837977529/photo/1",
+              "media_key": "3_2074190212398534656",
+              "start": 50,
+              "url": "https://t.co/aAihfPHPf2"
+            },
+            {
+              "display_url": "pic.x.com/aAihfPHPf2",
+              "end": 73,
+              "expanded_url": "https://x.com/crossyangshe/status/2074190246837977529/photo/1",
+              "media_key": "3_2074190212381679616",
+              "start": 50,
+              "url": "https://t.co/aAihfPHPf2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074190246837977529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1459,
+          "like_count": 31,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是这什么鬼？一年份的蓝标，这个人是何方神圣？好运气降临到az身上了？az简直不敢相信自己的眼睛！ https://t.co/aAihfPHPf2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 123,
+          "like_count": 7003,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T20:03:01.000Z",
+        "description": "你们好呀，我是az！成分：重抑中焦/od/自傷/自殺念头/infp-t/音游/二游（不怎么玩了）/端游（Steam上面的单机和一些网游）/日式像素RPG/galgame/喜欢术力口（初音 可不 歌爱雪）/看番/看漫画。\n没有什么特别的的主推，因为是成分太复杂，喜欢的东西太多啦！\n目前失业中~欢迎互fo，我爱你们！❤️",
+        "id": "1561806114274287616",
+        "location": "地狱",
+        "name": "AZ.",
+        "pinned_tweet_id": "2061092260226502954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778090792390959104/-k1xKj1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 347,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 602
+        },
+        "url": "",
+        "username": "crossyangshe",
+        "verified": true
+      }
+    ]
+  }
+}

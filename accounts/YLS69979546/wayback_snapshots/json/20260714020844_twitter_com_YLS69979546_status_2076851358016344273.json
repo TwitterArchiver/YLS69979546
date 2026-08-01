@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2076851358016344273",
+    "created_at": "2026-07-14T02:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T03:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076851358016344273"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2076851358016344273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脑子真坏了，去医院忘拿医保卡，拿完又忘拿手机，我也不知道我又拖拖拉拉干了点啥，时间就莫名其妙没了，自从发现这个医院能线上支付挂号费之后连踩着预约时间到都做不到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2076851358016344273",
+        "created_at": "2026-07-14T02:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076851358016344273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076851358016344273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑子真坏了，去医院忘拿医保卡，拿完又忘拿手机，我也不知道我又拖拖拉拉干了点啥，时间就莫名其妙没了，自从发现这个医院能线上支付挂号费之后连踩着预约时间到都做不到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 130,
+          "like_count": 7441,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1309
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

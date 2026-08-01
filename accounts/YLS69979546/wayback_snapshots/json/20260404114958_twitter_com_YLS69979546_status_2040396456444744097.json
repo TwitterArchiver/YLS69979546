@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2040396125639970988",
+    "created_at": "2026-04-04T11:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T12:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040396456444744097"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040396456444744097",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040396125639970988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道真的要磕一辈子药了吗，感觉以后的生活压力也未必会小"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2040396125639970988",
+        "created_at": "2026-04-04T11:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040396456444744097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040396456444744097",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040396125639970988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道真的要磕一辈子药了吗，感觉以后的生活压力也未必会小"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2040396125639970988",
+        "created_at": "2026-04-04T11:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040396125639970988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040396125639970988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我有点完蛋，已经快不记得没有drug的时候是怎么缓解压力的了，而且最近一段时间的压力真的也好大，我抗压能力好差，有一点破事就会烦个不停难受的要死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 2550,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 225
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

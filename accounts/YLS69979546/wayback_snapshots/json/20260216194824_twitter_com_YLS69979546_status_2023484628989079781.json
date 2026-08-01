@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023484626409537536",
+        "3_2023484626388611073",
+        "3_2023484626409607168"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2023484628989079781",
+    "created_at": "2026-02-16T19:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T20:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023484628989079781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RH4rgfKC7e",
+          "end": 76,
+          "expanded_url": "https://x.com/YLS69979546/status/2023484628989079781/photo/1",
+          "media_key": "3_2023484626409537536",
+          "start": 53,
+          "url": "https://t.co/RH4rgfKC7e"
+        },
+        {
+          "display_url": "pic.x.com/RH4rgfKC7e",
+          "end": 76,
+          "expanded_url": "https://x.com/YLS69979546/status/2023484628989079781/photo/1",
+          "media_key": "3_2023484626388611073",
+          "start": 53,
+          "url": "https://t.co/RH4rgfKC7e"
+        },
+        {
+          "display_url": "pic.x.com/RH4rgfKC7e",
+          "end": 76,
+          "expanded_url": "https://x.com/YLS69979546/status/2023484628989079781/photo/1",
+          "media_key": "3_2023484626409607168",
+          "start": 53,
+          "url": "https://t.co/RH4rgfKC7e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023484628989079781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帕利哌酮让我白兔药效也变得好差，体感还在，但欣快感弱到几乎没有，我好像可以戒od了，感觉磕什么都没意思了 https://t.co/RH4rgfKC7e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023484626409537536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTci_2awAA0fJF.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023484626388611073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTci_xbcAErFjd.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023484626409607168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBTci_2b0AAEi70.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023484626409537536",
+            "3_2023484626388611073",
+            "3_2023484626409607168"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2023484628989079781",
+        "created_at": "2026-02-16T19:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T20:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023484628989079781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RH4rgfKC7e",
+              "end": 76,
+              "expanded_url": "https://x.com/YLS69979546/status/2023484628989079781/photo/1",
+              "media_key": "3_2023484626409537536",
+              "start": 53,
+              "url": "https://t.co/RH4rgfKC7e"
+            },
+            {
+              "display_url": "pic.x.com/RH4rgfKC7e",
+              "end": 76,
+              "expanded_url": "https://x.com/YLS69979546/status/2023484628989079781/photo/1",
+              "media_key": "3_2023484626388611073",
+              "start": 53,
+              "url": "https://t.co/RH4rgfKC7e"
+            },
+            {
+              "display_url": "pic.x.com/RH4rgfKC7e",
+              "end": 76,
+              "expanded_url": "https://x.com/YLS69979546/status/2023484628989079781/photo/1",
+              "media_key": "3_2023484626409607168",
+              "start": 53,
+              "url": "https://t.co/RH4rgfKC7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023484628989079781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帕利哌酮让我白兔药效也变得好差，体感还在，但欣快感弱到几乎没有，我好像可以戒od了，感觉磕什么都没意思了 https://t.co/RH4rgfKC7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 41,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 103
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

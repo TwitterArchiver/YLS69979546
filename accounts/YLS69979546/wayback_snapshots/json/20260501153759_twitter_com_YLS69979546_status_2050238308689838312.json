@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2050238308689838312",
+    "created_at": "2026-05-01T15:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050238308689838312"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2050238308689838312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "靠致幻剂和健身维持了几天健全生活，然后回家又被彻底毁掉了心态，我真的好讨厌呆在家，一个月回家一次才是正确的，在想怎么才能逃避明天我现在不想给自己喂一堆药，为什么我不能一天自然睡十多个小时，这样就能至少逃避半个白天了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2050238308689838312",
+        "created_at": "2026-05-01T15:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050238308689838312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050238308689838312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "靠致幻剂和健身维持了几天健全生活，然后回家又被彻底毁掉了心态，我真的好讨厌呆在家，一个月回家一次才是正确的，在想怎么才能逃避明天我现在不想给自己喂一堆药，为什么我不能一天自然睡十多个小时，这样就能至少逃避半个白天了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 56,
+          "like_count": 3377,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 349
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

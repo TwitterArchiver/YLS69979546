@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083111343432020173",
+    "created_at": "2026-07-31T13:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083178437033021835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1345670864335904768",
+          "start": 0,
+          "username": "chrisgoderom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083178437033021835",
+    "in_reply_to_user_id": "1345670864335904768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083139102602580062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chrisgoderom 都踏马是血图没有黄图你要看吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083111343432020173",
+        "created_at": "2026-07-31T13:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083178437033021835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1345670864335904768",
+              "start": 0,
+              "username": "chrisgoderom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083178437033021835",
+        "in_reply_to_user_id": "1345670864335904768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083139102602580062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chrisgoderom 都踏马是血图没有黄图你要看吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1345670864335904768",
+        "conversation_id": "2083111343432020173",
+        "created_at": "2026-07-31T10:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T11:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083139102602580062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083139102602580062",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083111343432020173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 那就别发，私我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 165,
+          "like_count": 8544,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T09:58:37.000Z",
+        "description": "那裡的水有那麼甜嗎？",
+        "id": "1345670864335904768",
+        "location": "新北市",
+        "name": "Chrisgoderom",
+        "pinned_tweet_id": "1913140013459775954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924398146764906496/nB7sIsin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 461,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "chrisgoderom",
+        "verified": false
+      }
+    ]
+  }
+}

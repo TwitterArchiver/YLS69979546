@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2077038789269377109",
+    "created_at": "2026-07-14T23:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077172285648302181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984379259310559232",
+          "start": 0,
+          "username": "deardaravoid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077172285648302181",
+    "in_reply_to_user_id": "1984379259310559232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077158163909083250",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deardaravoid 我不戒了，夜里刚磕完药，本来就没打算戒太久，反正磕不磕药我都不太正常，生活太操蛋了，不如偶尔磕点娱乐也好，消遣也好，缓解痛苦也好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2077038789269377109",
+        "created_at": "2026-07-14T23:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077172285648302181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984379259310559232",
+              "start": 0,
+              "username": "deardaravoid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077172285648302181",
+        "in_reply_to_user_id": "1984379259310559232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077158163909083250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deardaravoid 我不戒了，夜里刚磕完药，本来就没打算戒太久，反正磕不磕药我都不太正常，生活太操蛋了，不如偶尔磕点娱乐也好，消遣也好，缓解痛苦也好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984379259310559232",
+        "conversation_id": "2077038789269377109",
+        "created_at": "2026-07-14T22:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T23:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077158163909083250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077158163909083250",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077038789269377109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 我戒药戒毒了两个月多了 但是不知道为什么感觉精神状态变得很奇怪…感觉自己变傻逼了 但是还是会别人一提到药和drugs我就会奋不顾身的想要得到…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 130,
+          "like_count": 7474,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1353
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T21:57:46.000Z",
+        "description": "很抱歉，小女子又消失了一会，互联网没掀起波澜与纷争吧?",
+        "id": "1984379259310559232",
+        "location": "鹈鹕镇",
+        "name": "dara.fm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052553916534108160/b7ABZ4GQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 16,
+          "like_count": 593,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 371
+        },
+        "url": "",
+        "username": "deardaravoid",
+        "verified": false
+      }
+    ]
+  }
+}

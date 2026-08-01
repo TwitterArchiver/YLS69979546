@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2021222128293425328",
+    "created_at": "2026-02-10T19:09:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T20:09:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021300452776960387"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021300452776960387",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021299866316480655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉我能打出这段话说明我现在并没有完全清醒，毕竟这是我很久之前想到的东西，现在又想到一遍，如果没有药物我并不会发表这段话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2021222128293425328",
+        "created_at": "2026-02-10T19:09:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T20:09:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021300452776960387"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021300452776960387",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021299866316480655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉我能打出这段话说明我现在并没有完全清醒，毕竟这是我很久之前想到的东西，现在又想到一遍，如果没有药物我并不会发表这段话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2021222128293425328",
+        "created_at": "2026-02-10T19:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T20:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021299866316480655"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021299866316480655",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021222128293425328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "3：05大概清醒了？但身上还是麻的\n思考，正常情况下人把该表达的东西说出来，其他东西留在脑海里，而磕大了的人把该说的不该说的都说了，所以看上去是胡话的话其实才是人最真实的底层想法🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 36,
+          "like_count": 1266,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

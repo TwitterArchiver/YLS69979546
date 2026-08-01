@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2063831679912095924",
+    "created_at": "2026-06-08T03:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T04:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063831679912095924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hellspatisseri…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/hellspatisserie/status/2063626541720821832",
+          "start": 41,
+          "url": "https://t.co/xEs3nSmrih"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063831679912095924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063626541720821832",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还真是，我很多时候不买药不是因为不想磕是因为要社交，社恐一点程度上避免了我去吸毒 https://t.co/xEs3nSmrih"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2063831679912095924",
+        "created_at": "2026-06-08T03:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T04:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063831679912095924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hellspatisseri…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/hellspatisserie/status/2063626541720821832",
+              "start": 41,
+              "url": "https://t.co/xEs3nSmrih"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063831679912095924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063626541720821832",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还真是，我很多时候不买药不是因为不想磕是因为要社交，社恐一点程度上避免了我去吸毒 https://t.co/xEs3nSmrih"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020285701183401985",
+        "conversation_id": "2063626541720821832",
+        "created_at": "2026-06-07T14:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063626541720821832"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063626541720821832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 338959,
+          "like_count": 15831,
+          "quote_count": 45,
+          "reply_count": 76,
+          "retweet_count": 459
+        },
+        "reply_settings": "everyone",
+        "text": "Alcohol is more of an introvert’s drug than people give it credit for. Basically every other drug requires access to dense and relatively insular social networks. Booze? Just go to the store man"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 75,
+          "like_count": 5159,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 645
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-07T23:58:03.000Z",
+        "description": "⋆˙⟡ — 𝚒 𝚍𝚘𝚗'𝚝 𝚔𝚗𝚘𝚠 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐. 𝚢𝚘𝚞'𝚛𝚎 𝚝𝚑𝚎 𝚘𝚗𝚎 𝚠𝚑𝚘 𝚔𝚗𝚘𝚠𝚜. — ⋆˙⟡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dahirinsaat.com",
+                "end": 23,
+                "expanded_url": "http://dahirinsaat.com",
+                "start": 0,
+                "url": "https://t.co/2pVArcbBDs"
+              }
+            ]
+          }
+        },
+        "id": "2020285701183401985",
+        "location": "nyc",
+        "name": "𝚑𝚎𝚕𝚕𝚜𝚙𝚊𝚝𝚒𝚜𝚜𝚎𝚛𝚒𝚎",
+        "pinned_tweet_id": "2020289317269303457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046415323524644864/2WIgM29K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7011,
+          "following_count": 1016,
+          "like_count": 10206,
+          "listed_count": 9,
+          "media_count": 263,
+          "tweet_count": 3985
+        },
+        "url": "https://t.co/2pVArcbBDs",
+        "username": "hellspatisserie",
+        "verified": false
+      }
+    ]
+  }
+}

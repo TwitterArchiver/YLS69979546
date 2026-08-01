@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2071978881108910409",
+    "created_at": "2026-07-01T14:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T15:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072320531664388451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1031743711737040897",
+          "start": 0,
+          "username": "LittleQiKitty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072320531664388451",
+    "in_reply_to_user_id": "1031743711737040897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071978881108910409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LittleQiKitty 我也有adhd确实东西乱放，做事永远在搞砸的边缘，但这种程度真的很夸张"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2071978881108910409",
+        "created_at": "2026-07-01T14:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072320531664388451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1031743711737040897",
+              "start": 0,
+              "username": "LittleQiKitty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072320531664388451",
+        "in_reply_to_user_id": "1031743711737040897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071978881108910409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LittleQiKitty 我也有adhd确实东西乱放，做事永远在搞砸的边缘，但这种程度真的很夸张"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1031743711737040897",
+        "conversation_id": "2071978881108910409",
+        "created_at": "2026-06-30T15:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071978881108910409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kukmoon97/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/kukmoon97/status/2071804220479885783",
+              "start": 40,
+              "url": "https://t.co/1PSgxytooT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071978881108910409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1051,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071804220479885783",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认识有 ADHD 的，她们是真没法整理东西。她们自己做事情不乱不岔都谢天谢地。 https://t.co/1PSgxytooT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 117,
+          "like_count": 6656,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1103
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-21T03:24:04.000Z",
+        "description": "不会有mainland的蠢货用自己照片当推特头像吧",
+        "id": "1031743711737040897",
+        "location": "💕Just by your side💕",
+        "name": "祈酱",
+        "pinned_tweet_id": "2012839043222929547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068016955630788608/n2M2HH3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 607,
+          "like_count": 510,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "LittleQiKitty",
+        "verified": true
+      }
+    ]
+  }
+}

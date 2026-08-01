@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079273391119606190",
+    "created_at": "2026-07-20T18:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079275944586727725"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079275944586727725",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079273391119606190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想起小时候我其实特别胆小，主要原因是联想能力过于丰富，对于很多东西会往恐怖的地方想象，看完带有恐怖元素的东西之后会扩展性想象并且代入自身，还有想象内容闭眼会自动变成画面，睡觉会进入梦里并且以我清醒时想不到的方式添油加醋导致持续性的自己吓自己，而且我怕的东西还可能很抽象很难解释怕啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079273391119606190",
+        "created_at": "2026-07-20T18:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079275944586727725"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079275944586727725",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079273391119606190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想起小时候我其实特别胆小，主要原因是联想能力过于丰富，对于很多东西会往恐怖的地方想象，看完带有恐怖元素的东西之后会扩展性想象并且代入自身，还有想象内容闭眼会自动变成画面，睡觉会进入梦里并且以我清醒时想不到的方式添油加醋导致持续性的自己吓自己，而且我怕的东西还可能很抽象很难解释怕啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079273391119606190",
+        "created_at": "2026-07-20T18:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079273391119606190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079273391119606190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点多的时候好困睡着了，做了个让我特别难受的梦（不说是噩梦因为觉得它不能完全算噩梦）总之导致非常痛苦，恐惧，悲哀，现在去个厕所恨不得打开全家的灯，不安全感，并且天亮之前都不敢睡觉了，真丢人有时候胆小的要命"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 143,
+          "like_count": 7811,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1472
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

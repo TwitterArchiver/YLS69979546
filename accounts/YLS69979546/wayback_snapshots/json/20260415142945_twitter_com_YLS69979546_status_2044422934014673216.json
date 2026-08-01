@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2044256230802370982",
+    "created_at": "2026-04-15T14:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T15:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044422934014673216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1194010537824309253",
+          "start": 0,
+          "username": "kkkou33022427"
+        },
+        {
+          "end": 26,
+          "id": "1580876374645956608",
+          "start": 15,
+          "username": "iamsebrina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044422934014673216",
+    "in_reply_to_user_id": "1194010537824309253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044342706739306942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkkou33022427 @iamsebrina 没炸啊，我梯子还好好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2044256230802370982",
+        "created_at": "2026-04-15T14:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T15:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044422934014673216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1194010537824309253",
+              "start": 0,
+              "username": "kkkou33022427"
+            },
+            {
+              "end": 26,
+              "id": "1580876374645956608",
+              "start": 15,
+              "username": "iamsebrina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044422934014673216",
+        "in_reply_to_user_id": "1194010537824309253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044342706739306942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkkou33022427 @iamsebrina 没炸啊，我梯子还好好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1194010537824309253",
+        "conversation_id": "2044256230802370982",
+        "created_at": "2026-04-15T09:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044342706739306942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1580876374645956608",
+              "start": 0,
+              "username": "iamsebrina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044342706739306942",
+        "in_reply_to_user_id": "1580876374645956608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20103,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044256230802370982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamsebrina 中文区的话，是因为今天梯子炸了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 52,
+          "like_count": 2699,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 248
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-11T21:54:44.000Z",
+        "description": "物理化学博士，币圈/美股/A股资深老韭菜，混迹江湖有点心得",
+        "id": "1194010537824309253",
+        "location": "Helsinki, Finland",
+        "name": "区块链酷博士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666324982241062912/tpO3Zy0K_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1549,
+          "like_count": 38883,
+          "listed_count": 17,
+          "media_count": 172,
+          "tweet_count": 2813
+        },
+        "username": "kkkou33022427",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-14T11:01:28.000Z",
+        "description": "Workout🏋️/Stocks📈/Knitting🧶",
+        "id": "1580876374645956608",
+        "location": "附近10km",
+        "name": "Sebrina",
+        "pinned_tweet_id": "2004450615943107064",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857326620719382528/izMWSOBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2351,
+          "following_count": 455,
+          "like_count": 20155,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 2536
+        },
+        "username": "iamsebrina",
+        "verified": false
+      }
+    ]
+  }
+}

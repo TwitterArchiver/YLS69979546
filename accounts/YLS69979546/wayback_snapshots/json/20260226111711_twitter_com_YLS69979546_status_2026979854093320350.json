@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2026606361354629503",
+    "created_at": "2026-02-26T11:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026979854093320350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1227801336525156352",
+          "start": 0,
+          "username": "LonelySea0_0"
+        },
+        {
+          "end": 27,
+          "id": "1866458229527764992",
+          "start": 14,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026979854093320350",
+    "in_reply_to_user_id": "1227801336525156352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026653480962895937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LonelySea0_0 @Citrus_amara 1688的那个？真货啊，鼻吸和注射都试过，有效的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2026606361354629503",
+        "created_at": "2026-02-26T11:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026979854093320350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1227801336525156352",
+              "start": 0,
+              "username": "LonelySea0_0"
+            },
+            {
+              "end": 27,
+              "id": "1866458229527764992",
+              "start": 14,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026979854093320350",
+        "in_reply_to_user_id": "1227801336525156352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026653480962895937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LonelySea0_0 @Citrus_amara 1688的那个？真货啊，鼻吸和注射都试过，有效的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227801336525156352",
+        "conversation_id": "2026606361354629503",
+        "created_at": "2026-02-25T13:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T14:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026653480962895937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026653480962895937",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026606361354629503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara 实则都是盐酸盐，370那个掺假或纯假"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 141
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-13T03:47:21.000Z",
+        "description": "记者问问党死妈别打扰",
+        "id": "1227801336525156352",
+        "name": "天使查询查档人肉",
+        "pinned_tweet_id": "1839157001592648192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635591683751690240/hptjUr_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2186,
+          "following_count": 220,
+          "like_count": 5179,
+          "listed_count": 3,
+          "media_count": 679,
+          "tweet_count": 3056
+        },
+        "username": "LonelySea0_0",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "FOR RESEARCH USE ONLY.\noder，女的\n妹妹 @shsh548866｜主人@zqtlovekris99丨🐱@psych_angel_丨@alcoholism19953",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 34,
+                "username": "shsh548866"
+              },
+              {
+                "end": 62,
+                "start": 48,
+                "username": "zqtlovekris99"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "psych_angel_"
+              },
+              {
+                "end": 94,
+                "start": 78,
+                "username": "alcoholism19953"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwB5Rn"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2008507094388142397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021957931843948544/ZmLGYkSr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1286,
+          "following_count": 1034,
+          "like_count": 17260,
+          "listed_count": 6,
+          "media_count": 365,
+          "tweet_count": 9374
+        },
+        "url": "https://t.co/V6d8rwB5Rn",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2082729017585828066",
+    "created_at": "2026-07-30T14:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082841298348998887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1643934829514493952",
+          "start": 0,
+          "username": "nmudm1"
+        },
+        {
+          "end": 19,
+          "id": "1627860014114168833",
+          "start": 8,
+          "username": "Snow_Xue_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082841298348998887",
+    "in_reply_to_user_id": "1643934829514493952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082760950818689212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nmudm1 @Snow_Xue_1 就是啊，去医院开根本不贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2082760942539227136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOd0CtQbwAAws7i.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082729017585828066",
+        "created_at": "2026-07-30T14:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082841298348998887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1643934829514493952",
+              "start": 0,
+              "username": "nmudm1"
+            },
+            {
+              "end": 19,
+              "id": "1627860014114168833",
+              "start": 8,
+              "username": "Snow_Xue_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082841298348998887",
+        "in_reply_to_user_id": "1643934829514493952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082760950818689212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nmudm1 @Snow_Xue_1 就是啊，去医院开根本不贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082760942539227136"
+          ]
+        },
+        "author_id": "1643934829514493952",
+        "conversation_id": "2082729017585828066",
+        "created_at": "2026-07-30T09:31:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:31:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082760950818689212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ONHd4PX7II",
+              "end": 112,
+              "expanded_url": "https://x.com/nmudm1/status/2082760950818689212/photo/1",
+              "media_key": "3_2082760942539227136",
+              "start": 89,
+              "url": "https://t.co/ONHd4PX7II"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082760950818689212",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082729017585828066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 一盒绿喜思平就十块钱而已，我一次开了七盒，医保门诊统筹和商业保险一起报，到手四十块钱，有处方的话哪里贵了，这个药还不限购，我在同一个医院三天开了九盒绿普 https://t.co/ONHd4PX7II"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 162,
+          "like_count": 8498,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1803
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T11:13:08.000Z",
+        "description": "做个俗人，贪财好色",
+        "id": "1643934829514493952",
+        "name": "穷傻逼（努力搞钱版",
+        "pinned_tweet_id": "2042425623885594767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081829749014573056/s1nJLZDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 29,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "nmudm1",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n 普通的上海入 | 超级大s | 战绩：三刷抢救室 | hrt2025.11 🍥 |  生产日期 2010.3.16 | 家暴党（给钱，但是一回家就报警威胁我说要送我去精卫，虽然取消了，但因为这次经历我再也回不去家了，也不敢回去住了，最多拿个东西啥的）| 姐姐&对象 @vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 152,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2076673707746189382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 261,
+          "like_count": 6216,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 850
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": false
+      }
+    ]
+  }
+}

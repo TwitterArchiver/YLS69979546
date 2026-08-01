@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2019686726978158684",
+    "created_at": "2026-02-06T14:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T15:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019784628291121286"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019784628291121286",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019686726978158684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶我服了，又吃了一板愈美药效上来睡着了，本来还想着别被看到我磕大了，结果我妈回家说我在剧烈打鼾？我本来不打鼾的来着，也是被右美狠狠地呼吸抑制了😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019686722414817280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdeX48bsAAB6A1.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019686723417174019",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdeX8racAMOT-e.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019686723014520833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAdeX7LacAE79Dw.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2019686726978158684",
+        "created_at": "2026-02-06T14:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T15:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019784628291121286"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019784628291121286",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019686726978158684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶我服了，又吃了一板愈美药效上来睡着了，本来还想着别被看到我磕大了，结果我妈回家说我在剧烈打鼾？我本来不打鼾的来着，也是被右美狠狠地呼吸抑制了😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019686722414817280",
+            "3_2019686723417174019",
+            "3_2019686723014520833"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2019686726978158684",
+        "created_at": "2026-02-06T08:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T09:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019686726978158684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rqwpNGBbVS",
+              "end": 23,
+              "expanded_url": "https://x.com/YLS69979546/status/2019686726978158684/photo/1",
+              "media_key": "3_2019686722414817280",
+              "start": 0,
+              "url": "https://t.co/rqwpNGBbVS"
+            },
+            {
+              "display_url": "pic.x.com/rqwpNGBbVS",
+              "end": 23,
+              "expanded_url": "https://x.com/YLS69979546/status/2019686726978158684/photo/1",
+              "media_key": "3_2019686723417174019",
+              "start": 0,
+              "url": "https://t.co/rqwpNGBbVS"
+            },
+            {
+              "display_url": "pic.x.com/rqwpNGBbVS",
+              "end": 23,
+              "expanded_url": "https://x.com/YLS69979546/status/2019686726978158684/photo/1",
+              "media_key": "3_2019686723014520833",
+              "start": 0,
+              "url": "https://t.co/rqwpNGBbVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019686726978158684",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rqwpNGBbVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 32,
+          "like_count": 1051,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 42
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

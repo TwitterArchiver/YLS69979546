@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079577135199445329",
+    "created_at": "2026-07-21T23:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T00:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079706562315313455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "177101260",
+          "start": 0,
+          "username": "Rainmaker1973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079706562315313455",
+    "in_reply_to_user_id": "177101260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079577135199445329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainmaker1973 怎么外国人也这么认为，这个世界没救了（甚至学校的颜色也不鲜艳）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16370,
+        "height": 768,
+        "media_key": "13_2079538282887606272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079538282887606272/img/pUAJYLXnz6rqAo0E.jpg",
+        "public_metrics": {
+          "view_count": 240967
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079538282887606272/vid/avc1/320x398/9wQYtNmLiVrlnfuh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079538282887606272/vid/avc1/480x598/n086TIizJqd8VUV-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079538282887606272/vid/avc1/616x768/X_EMCJUcRWppA88b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079538282887606272/pl/foPV9lLR7WmdMQsb.m3u8"
+          }
+        ],
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079577135199445329",
+        "created_at": "2026-07-21T23:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079706562315313455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "177101260",
+              "start": 0,
+              "username": "Rainmaker1973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079706562315313455",
+        "in_reply_to_user_id": "177101260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079577135199445329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainmaker1973 怎么外国人也这么认为，这个世界没救了（甚至学校的颜色也不鲜艳）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079538282887606272"
+          ]
+        },
+        "author_id": "177101260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079577135199445329",
+        "created_at": "2026-07-21T14:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T15:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079577135199445329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5GmutmXeVo",
+              "end": 62,
+              "expanded_url": "https://x.com/Rainmaker1973/status/2079577135199445329/video/1",
+              "media_key": "13_2079538282887606272",
+              "start": 39,
+              "url": "https://t.co/5GmutmXeVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079577135199445329",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1597,
+          "impression_count": 602169,
+          "like_count": 7775,
+          "quote_count": 119,
+          "reply_count": 294,
+          "retweet_count": 1048
+        },
+        "reply_settings": "everyone",
+        "text": "School is prison with brighter colors? https://t.co/5GmutmXeVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 143,
+          "like_count": 7950,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1531
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "description": "Engineer. Selecting and curating pictures and videos trying to awaken your sense of wonder since 2014. Science, tech, art, weather, space, the unusual around us",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/Rainmaker1973",
+                "end": 23,
+                "expanded_url": "http://paypal.me/Rainmaker1973",
+                "start": 0,
+                "url": "https://t.co/8tcqQ1zAUZ"
+              }
+            ]
+          }
+        },
+        "id": "177101260",
+        "location": "Italy, North by Northwest",
+        "name": "Massimo",
+        "pinned_tweet_id": "1738536254818443453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4348888,
+          "following_count": 170,
+          "like_count": 11577,
+          "listed_count": 17325,
+          "media_count": 268525,
+          "tweet_count": 482745
+        },
+        "url": "https://t.co/8tcqQ1zAUZ",
+        "username": "Rainmaker1973",
+        "verified": true
+      }
+    ]
+  }
+}

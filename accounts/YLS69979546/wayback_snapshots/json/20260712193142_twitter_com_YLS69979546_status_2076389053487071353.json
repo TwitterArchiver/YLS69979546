@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2074636633325084782",
+    "created_at": "2026-07-12T19:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T20:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076389053487071353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1711437791828336641",
+          "start": 0,
+          "username": "bigLongma1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076389053487071353",
+    "in_reply_to_user_id": "1711437791828336641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076208494374789434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigLongma1 白色偏黄一点的粉末，闻到那个味就不想吸也不想口服它了，我注射50mg感觉算中等剂量吧，这玩意资料还挺少的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2074636633325084782",
+        "created_at": "2026-07-12T19:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T20:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076389053487071353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711437791828336641",
+              "start": 0,
+              "username": "bigLongma1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076389053487071353",
+        "in_reply_to_user_id": "1711437791828336641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076208494374789434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigLongma1 白色偏黄一点的粉末，闻到那个味就不想吸也不想口服它了，我注射50mg感觉算中等剂量吧，这玩意资料还挺少的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711437791828336641",
+        "conversation_id": "2074636633325084782",
+        "created_at": "2026-07-12T07:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076208494374789434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076208494374789434",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075242796840054910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 我想试试这个了，老师怎么私信关了aaa。据说鼻吸好用也有效果我不清楚，反正注射和口服都有点害怕。这是粉末状的吗，你注射用量多少。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 125,
+          "like_count": 7350,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1294
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T17:45:50.000Z",
+        "description": "",
+        "id": "1711437791828336641",
+        "location": "Việt Nam",
+        "name": "Pohana",
+        "pinned_tweet_id": "1987233007313584421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982163138096074752/TaZp26FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 38,
+          "like_count": 498,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "bigLongma1",
+        "verified": false
+      }
+    ]
+  }
+}

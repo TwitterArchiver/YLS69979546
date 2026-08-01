@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079119053814374574",
+    "created_at": "2026-07-20T19:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079284751517761724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1662439435726905344",
+          "start": 0,
+          "username": "ShiroSkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079284751517761724",
+    "in_reply_to_user_id": "1662439435726905344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079119053814374574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiroSkura 确实长效止咳药，止咳效果真的又好又持久，能持续超过12小时"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079119049192054784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqDwnTXIAATWEv.jpg",
+        "width": 646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079119053814374574",
+        "created_at": "2026-07-20T19:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079284751517761724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1662439435726905344",
+              "start": 0,
+              "username": "ShiroSkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079284751517761724",
+        "in_reply_to_user_id": "1662439435726905344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079119053814374574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiroSkura 确实长效止咳药，止咳效果真的又好又持久，能持续超过12小时"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079119049192054784"
+          ]
+        },
+        "author_id": "1662439435726905344",
+        "conversation_id": "2079119053814374574",
+        "created_at": "2026-07-20T08:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079119053814374574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SQc1d3fyq",
+              "end": 149,
+              "expanded_url": "https://x.com/ShiroSkura/status/2079119053814374574/photo/1",
+              "media_key": "3_2079119049192054784",
+              "start": 126,
+              "url": "https://t.co/6SQc1d3fyq"
+            },
+            {
+              "display_url": "x.com/shiroskura/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/shiroskura/status/2078830516996870497",
+              "start": 150,
+              "url": "https://t.co/hqaGGGcgJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079119053814374574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "标题\nd-3-Dimethylamino-1,1-diphenylbutyl ethyl sulfone as a Long-acting Antitussive\n《d-3-二甲氨基-1,1-二苯基丁基乙基砜作为一种长效止咳药》\n\n2.研究背景与目的\n研究者旨在通过结构-活性关系（SAR）筛选长效、强效止咳化合物，希望减少传统阿片类止咳药（如吗啡、可待因）的副作用（呼吸抑制、镇痛、成瘾等）。重点化合物为 Win-1161-3（一种美沙酮类似物，将酮基替换为磺酰基\n\n3. 主要研究方法\n•  动物实验：\n•  小鼠：急性毒性（LD₅₀）、镇痛活性（热板法、Haffner法）。\n•  狗：止咳作用（主要模型）、重复给药耐受性、治疗剂量下的副作用。\n•  兔子：对呼吸、血压、心脏运动的影响。\n•  人体临床：54名严重咳嗽患者（肺结核、支气管炎等），口服低剂量观察疗效和安全性。\n\n4. 主要结果\n•  止咳作用：在狗上 potency 约为可待因的 1.8 倍，作用时间长，治疗指数较好。\n•  毒性：小鼠毒性约为可待因的 1.87 倍（LD₅₀ 较低），但狗治疗剂量下副作用轻微（厌食、流涎、呼吸频率增加，无呕吐、催眠或明显呼吸抑制）。\n•  其他药理：小鼠有一定镇痛活性，但在止咳有效剂量下未明显表现；无明显心血管/呼吸抑制；重复给药无耐受/蓄积。\n•  人体：口服 3–6 mg/天 止咳效果好，耐受良好，无明显副作用和耐受现象。\n\n5. 结论与特点\n•  Win-1161-3 是一种潜在的长效止咳候选药，止咳效能高、副作用谱相对优于传统药物。\n•  局限：化合物在水溶液中不稳定（易分解），但口服仍有效（可能体内转化）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 602,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078830516996870497",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "标题\nd-3-Dimethylamino-1,1-diphenylbutyl ethyl sulfone as a Long-acting Antitussive\n《d-3-二甲氨基-1,1-二苯基丁基乙基砜作为一种长效止咳药》\n\n2.研究背景与目的 https://t.co/6SQc1d3fyq https://t.co/hqaGGGcgJI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 143,
+          "like_count": 7811,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1476
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T12:44:05.000Z",
+        "description": "",
+        "id": "1662439435726905344",
+        "location": "Kennewick, WA",
+        "name": "Morikawa Ayako",
+        "pinned_tweet_id": "2050732326112448575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067149046553116672/oFw5Xfeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 40,
+          "like_count": 11633,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "ShiroSkura",
+        "verified": true
+      }
+    ]
+  }
+}

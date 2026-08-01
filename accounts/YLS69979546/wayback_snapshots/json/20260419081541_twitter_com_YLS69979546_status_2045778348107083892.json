@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2045776934785921274",
+    "created_at": "2026-04-19T08:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T09:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045778348107083892"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045778348107083892",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045776934785921274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "胡扯八道中，算了健身去吧，其实之前每天健身的日子挺开心的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2045776934785921274",
+        "created_at": "2026-04-19T08:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045778348107083892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045778348107083892",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045776934785921274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "胡扯八道中，算了健身去吧，其实之前每天健身的日子挺开心的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2045776934785921274",
+        "created_at": "2026-04-19T08:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T09:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045776934785921274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045776934785921274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越感觉手头上有随时能让自己死掉的东西是件很奇妙的事了，虽然我舍不得自己死，但想象一下那样就可以死掉真的很奇妙啊，向死而生吧，啊我又在发癫了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 56,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 270
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

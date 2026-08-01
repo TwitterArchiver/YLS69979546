@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065640610296705109",
+    "created_at": "2026-06-13T03:41:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:41:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065640610296705109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2065639656566522255",
+          "start": 108,
+          "url": "https://t.co/ruX66rNKZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065640610296705109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065639656566522255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且我还踏马经常看不懂题，有时候看题每个字都认识但看完一遍它光滑的从我的大脑里溜走了，我的脑子根本没有去理解题目，只能再看一遍。如果是英语这种东西，有些单词不认识得考猜测和拼凑的话这种情况会变得非常严重，我真的很烦 https://t.co/ruX66rNKZY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065640610296705109",
+        "created_at": "2026-06-13T03:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065640610296705109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2065639656566522255",
+              "start": 108,
+              "url": "https://t.co/ruX66rNKZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065640610296705109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065639656566522255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且我还踏马经常看不懂题，有时候看题每个字都认识但看完一遍它光滑的从我的大脑里溜走了，我的脑子根本没有去理解题目，只能再看一遍。如果是英语这种东西，有些单词不认识得考猜测和拼凑的话这种情况会变得非常严重，我真的很烦 https://t.co/ruX66rNKZY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065639656566522255",
+        "created_at": "2026-06-13T03:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065639656566522255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2065636888975962296",
+              "start": 97,
+              "url": "https://t.co/NHC4HMv1nm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065639656566522255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065636888975962296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我考试总是考着考着脑子里就开始冒出无关的东西，然后胡想连篇半天才能回到考试上，考得出我这样考不出我也这样，越考不出脑子越没法放在考试上，脑子越不在考试上越考不出，然后因为脑子太乱自己炸了 https://t.co/NHC4HMv1nm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 82,
+          "like_count": 5519,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 698
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

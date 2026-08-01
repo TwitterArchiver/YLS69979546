@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2073073274263867457",
+    "created_at": "2026-07-03T15:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T16:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073073274263867457"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073073274263867457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熬一天夜的结果就是莫名其妙的睡着，睡醒了又想拉又想吐，头还贼痛，一看十一点多了想起自己今天有东西要写，只能爬起来打开电脑，这么看就觉得自己悲凉得很"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073073274263867457",
+        "created_at": "2026-07-03T15:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T16:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073073274263867457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073073274263867457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熬一天夜的结果就是莫名其妙的睡着，睡醒了又想拉又想吐，头还贼痛，一看十一点多了想起自己今天有东西要写，只能爬起来打开电脑，这么看就觉得自己悲凉得很"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 119,
+          "like_count": 6796,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

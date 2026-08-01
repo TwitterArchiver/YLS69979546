@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070560553861538272",
+    "created_at": "2026-06-26T17:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070560553861538272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/UWATCHLIFE/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/UWATCHLIFE/status/2070362252046205141",
+          "start": 43,
+          "url": "https://t.co/7TMbEGKpHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070560553861538272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070362252046205141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是真想要，倒也不是想抗戒断，戒断只是对我的惩罚罢了是我自作孽，逆转耐受才是真想要的 https://t.co/7TMbEGKpHa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070560553861538272",
+        "created_at": "2026-06-26T17:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070560553861538272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UWATCHLIFE/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/UWATCHLIFE/status/2070362252046205141",
+              "start": 43,
+              "url": "https://t.co/7TMbEGKpHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070560553861538272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070362252046205141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是真想要，倒也不是想抗戒断，戒断只是对我的惩罚罢了是我自作孽，逆转耐受才是真想要的 https://t.co/7TMbEGKpHa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2070362252046205141",
+        "created_at": "2026-06-26T04:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070362252046205141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070362252046205141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2151,
+          "like_count": 21,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "关于阿片耐受逆转剂的介绍：SR-17018，或脱离炼狱的赎罪券。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 105,
+          "like_count": 6341,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 962
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 111,
+          "like_count": 1377,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 963
+        },
+        "url": "",
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

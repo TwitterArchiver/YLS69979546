@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076904045068120064",
+        "3_2076904056828936192"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2076904066987503986",
+    "created_at": "2026-07-14T05:38:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076904066987503986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k1pFPmniB5",
+          "end": 54,
+          "expanded_url": "https://x.com/YLS69979546/status/2076904066987503986/photo/1",
+          "media_key": "3_2076904045068120064",
+          "start": 31,
+          "url": "https://t.co/k1pFPmniB5"
+        },
+        {
+          "display_url": "pic.x.com/k1pFPmniB5",
+          "end": 54,
+          "expanded_url": "https://x.com/YLS69979546/status/2076904066987503986/photo/1",
+          "media_key": "3_2076904056828936192",
+          "start": 31,
+          "url": "https://t.co/k1pFPmniB5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076904066987503986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出门半天热的我浑身难受，热的我想吸毒，体感41度是什么鬼玩意 https://t.co/k1pFPmniB5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1990,
+        "media_key": "3_2076904045068120064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKlOZ7bcAASCX4.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2004,
+        "media_key": "3_2076904056828936192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKlPFvbQAAO2_z.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076904045068120064",
+            "3_2076904056828936192"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2076904066987503986",
+        "created_at": "2026-07-14T05:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076904066987503986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k1pFPmniB5",
+              "end": 54,
+              "expanded_url": "https://x.com/YLS69979546/status/2076904066987503986/photo/1",
+              "media_key": "3_2076904045068120064",
+              "start": 31,
+              "url": "https://t.co/k1pFPmniB5"
+            },
+            {
+              "display_url": "pic.x.com/k1pFPmniB5",
+              "end": 54,
+              "expanded_url": "https://x.com/YLS69979546/status/2076904066987503986/photo/1",
+              "media_key": "3_2076904056828936192",
+              "start": 31,
+              "url": "https://t.co/k1pFPmniB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076904066987503986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出门半天热的我浑身难受，热的我想吸毒，体感41度是什么鬼玩意 https://t.co/k1pFPmniB5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 130,
+          "like_count": 7461,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1319
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

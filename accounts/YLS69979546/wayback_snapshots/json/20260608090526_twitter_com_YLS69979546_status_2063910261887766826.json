@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2063860654520635446",
+    "created_at": "2026-06-08T09:05:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:05:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063910261887766826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063910261887766826",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063909171322638520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "耐药是真清干净了，现在正在想我第一次就吃了一盒愈美片怎么吃下去的我靠，我现在没第一次吃的多（虽然还有克拉霉素的加成在）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2063860654520635446",
+        "created_at": "2026-06-08T09:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063910261887766826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063910261887766826",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063909171322638520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "耐药是真清干净了，现在正在想我第一次就吃了一盒愈美片怎么吃下去的我靠，我现在没第一次吃的多（虽然还有克拉霉素的加成在）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2063860654520635446",
+        "created_at": "2026-06-08T09:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063909171322638520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063909171322638520",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063860654520635446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "克拉霉素还是太狠了，就330mg右美我感觉我od的有点od了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 76,
+          "like_count": 5190,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 655
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

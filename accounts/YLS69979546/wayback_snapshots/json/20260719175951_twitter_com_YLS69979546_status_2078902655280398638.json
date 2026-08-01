@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2078722261415342183",
+    "created_at": "2026-07-19T17:59:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T18:59:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078902655280398638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809233055196073984",
+          "start": 0,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078902655280398638",
+    "in_reply_to_user_id": "1809233055196073984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078722261415342183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jy666992 刚想说怎么还有中文，仔细看了看不厚道的笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078722245174964224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNka3lJbMAAW-Mt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078722245204295680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNka3lQawAAgGMm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2078722245195857920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNka3lOaAAAz-wY.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2078722261415342183",
+        "created_at": "2026-07-19T17:59:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T18:59:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078902655280398638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078902655280398638",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078722261415342183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 刚想说怎么还有中文，仔细看了看不厚道的笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078722245174964224",
+            "3_2078722245204295680",
+            "3_2078722245195857920"
+          ]
+        },
+        "author_id": "1809233055196073984",
+        "conversation_id": "2078722261415342183",
+        "created_at": "2026-07-19T06:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T07:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078722261415342183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7buGKDSWm7",
+              "end": 50,
+              "expanded_url": "https://x.com/Jy666992/status/2078722261415342183/photo/1",
+              "media_key": "3_2078722245174964224",
+              "start": 27,
+              "url": "https://t.co/7buGKDSWm7"
+            },
+            {
+              "display_url": "pic.x.com/7buGKDSWm7",
+              "end": 50,
+              "expanded_url": "https://x.com/Jy666992/status/2078722261415342183/photo/1",
+              "media_key": "3_2078722245204295680",
+              "start": 27,
+              "url": "https://t.co/7buGKDSWm7"
+            },
+            {
+              "display_url": "pic.x.com/7buGKDSWm7",
+              "end": 50,
+              "expanded_url": "https://x.com/Jy666992/status/2078722261415342183/photo/1",
+              "media_key": "3_2078722245195857920",
+              "start": 27,
+              "url": "https://t.co/7buGKDSWm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078722261415342183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣子返工 我对象收拾好屋了明天回家 以及我的雷霆作业 https://t.co/7buGKDSWm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 142,
+          "like_count": 7722,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1453
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n时而像人时而像恶魔，暂时没找到解决方法\n解离美学爱好者/自毁倾向\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好总惹事感觉哪天就要被开除）",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 388,
+          "like_count": 2001,
+          "listed_count": 1,
+          "media_count": 335,
+          "tweet_count": 1409
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

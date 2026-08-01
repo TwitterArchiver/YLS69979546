@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2072694173195727104",
+    "created_at": "2026-07-03T03:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072884285724586421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1954952422708875266",
+          "start": 0,
+          "username": "senmini92333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072884285724586421",
+    "in_reply_to_user_id": "1954952422708875266",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072694173195727104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senmini92333 虽然但是，这疤有点好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072694159786528768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOwW1IaUAAHqUz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2072694173195727104",
+        "created_at": "2026-07-03T03:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072884285724586421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1954952422708875266",
+              "start": 0,
+              "username": "senmini92333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072884285724586421",
+        "in_reply_to_user_id": "1954952422708875266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072694173195727104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senmini92333 虽然但是，这疤有点好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072694159786528768"
+          ]
+        },
+        "author_id": "1954952422708875266",
+        "conversation_id": "2072694173195727104",
+        "created_at": "2026-07-02T14:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072694173195727104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oY0nfuNRsB",
+              "end": 34,
+              "expanded_url": "https://x.com/senmini92333/status/2072694173195727104/photo/1",
+              "media_key": "3_2072694159786528768",
+              "start": 11,
+              "url": "https://t.co/oY0nfuNRsB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072694173195727104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 46509,
+          "like_count": 258,
+          "quote_count": 1,
+          "reply_count": 92,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这b站是不是死全家了 https://t.co/oY0nfuNRsB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 118,
+          "like_count": 6795,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-11T17:06:00.000Z",
+        "description": "你知道我想说什么。",
+        "id": "1954952422708875266",
+        "name": "我活成这样都是因为你吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954952828310675456/mjhCTWhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 464,
+          "like_count": 2758,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 122
+        },
+        "url": "",
+        "username": "senmini92333",
+        "verified": false
+      }
+    ]
+  }
+}

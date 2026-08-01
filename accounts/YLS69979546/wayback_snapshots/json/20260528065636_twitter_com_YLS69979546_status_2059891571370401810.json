@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2059891018431148106",
+    "created_at": "2026-05-28T06:56:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T07:56:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059891571370401810"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059891571370401810",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059891018431148106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在有点事但又不多的状态让我很讨厌，吃药我觉得浪费，不吃药就是完全的动力缺失屁事不想干"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059891018431148106",
+        "created_at": "2026-05-28T06:56:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059891571370401810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059891571370401810",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059891018431148106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在有点事但又不多的状态让我很讨厌，吃药我觉得浪费，不吃药就是完全的动力缺失屁事不想干"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2059891018431148106",
+        "created_at": "2026-05-28T06:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T07:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059891018431148106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059891018431148106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有事但就是提不起劲来做，上课，上班是踩点甚至迟到的，交作业，交任务是卡在deadline甚至延迟的，我不吃点兴奋剂就是这个样子，adhd你就毁了我吧，吃了药才发现自己的前半生被毁成什么样了，但这破玩意一辈子都治不好药物的效果只是暂时的，既然adhd患者是远古社会中天生的猎手，那我能不能当原始人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 66,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 552
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

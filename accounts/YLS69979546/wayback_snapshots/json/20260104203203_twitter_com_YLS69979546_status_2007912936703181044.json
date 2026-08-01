@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2007247655211033077",
+    "created_at": "2026-01-04T20:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T21:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007912936703181044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1912573016380436483",
+          "start": 0,
+          "username": "ymeatuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007912936703181044",
+    "in_reply_to_user_id": "1912573016380436483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007247655211033077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ymeatuna 我吃了ssri类药就这样，附加对什么都提不起兴趣整个人呆呆的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2007247655211033077",
+        "created_at": "2026-01-04T20:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T21:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007912936703181044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1912573016380436483",
+              "start": 0,
+              "username": "ymeatuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007912936703181044",
+        "in_reply_to_user_id": "1912573016380436483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007247655211033077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ymeatuna 我吃了ssri类药就这样，附加对什么都提不起兴趣整个人呆呆的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912573016380436483",
+        "conversation_id": "2007247655211033077",
+        "created_at": "2026-01-03T00:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T01:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007247655211033077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007247655211033077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 176840,
+          "like_count": 1945,
+          "quote_count": 31,
+          "reply_count": 96,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂很需要冲一发缓解心情但完全没有性欲的那种感受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 20,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-16T18:25:25.000Z",
+        "description": "这里是sxw的剪贴板",
+        "id": "1912573016380436483",
+        "location": "6.8km",
+        "name": "水腥味",
+        "pinned_tweet_id": "1988450581145395353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005721234378477569/qISFnkQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 83,
+          "like_count": 651,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 1757
+        },
+        "username": "ymeatuna",
+        "verified": false
+      }
+    ]
+  }
+}

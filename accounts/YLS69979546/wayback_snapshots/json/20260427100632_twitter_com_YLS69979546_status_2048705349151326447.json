@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2048487330030436370",
+    "created_at": "2026-04-27T10:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T11:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048705349151326447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018773184838074368",
+          "start": 0,
+          "username": "WeiDan12932"
+        },
+        {
+          "end": 22,
+          "id": "1514974789785767936",
+          "start": 13,
+          "username": "KYJZ4772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048705349151326447",
+    "in_reply_to_user_id": "2018773184838074368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048689944537993560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeiDan12932 @KYJZ4772 应该是下垂/大，没法做腋下微创，做腋下的话腺体掏掉了多出来的皮肤也没办法去掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2048487330030436370",
+        "created_at": "2026-04-27T10:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T11:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048705349151326447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018773184838074368",
+              "start": 0,
+              "username": "WeiDan12932"
+            },
+            {
+              "end": 22,
+              "id": "1514974789785767936",
+              "start": 13,
+              "username": "KYJZ4772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048705349151326447",
+        "in_reply_to_user_id": "2018773184838074368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048689944537993560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeiDan12932 @KYJZ4772 应该是下垂/大，没法做腋下微创，做腋下的话腺体掏掉了多出来的皮肤也没办法去掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018773184838074368",
+        "conversation_id": "2048487330030436370",
+        "created_at": "2026-04-27T09:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048689944537993560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1514974789785767936",
+              "start": 0,
+              "username": "KYJZ4772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048689944537993560",
+        "in_reply_to_user_id": "1514974789785767936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048487330030436370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KYJZ4772 这样切的伤口太大了，可以选择腋下开口切除乳腺，（如果你不介意美观，这样切也可以。）有点担心你是不是被医生骗了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 57,
+          "like_count": 3227,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 324
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T19:47:10.000Z",
+        "description": "intp/来推随便玩玩",
+        "id": "2018773184838074368",
+        "location": "在床上躺着",
+        "name": "塑胶的那节课",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018798720335409153/GTPGz6CY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 25,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "WeiDan12932",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T14:31:59.000Z",
+        "description": "⚫️垢\n自娱自乐\n我不考虑任何人的感受。 \n我有精神疾病，此账号内容令人不适\n：自残，ed，双相焦虑\n分舌是自己🈹的别问价了求放过\n防诈@KYJZ72",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 68,
+                "username": "KYJZ72"
+              }
+            ]
+          }
+        },
+        "id": "1514974789785767936",
+        "name": "💬4747",
+        "pinned_tweet_id": "2032707388600647815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031774382318911488/vZEwPGpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 100,
+          "like_count": 1774,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 991
+        },
+        "username": "KYJZ4772",
+        "verified": false
+      }
+    ]
+  }
+}

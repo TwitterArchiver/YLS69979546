@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2028749642754826316",
+    "created_at": "2026-03-03T11:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T12:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028800824164647250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2022980944723095552",
+          "start": 0,
+          "username": "tanka_TWT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028800824164647250",
+    "in_reply_to_user_id": "2022980944723095552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028749642754826316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanka_TWT 这对的，因为我的也是这个味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028749624832598016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeRCPZaoAASZ-H.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2028749642754826316",
+        "created_at": "2026-03-03T11:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T12:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028800824164647250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2022980944723095552",
+              "start": 0,
+              "username": "tanka_TWT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028800824164647250",
+        "in_reply_to_user_id": "2022980944723095552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028749642754826316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanka_TWT 这对的，因为我的也是这个味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028749624832598016"
+          ]
+        },
+        "author_id": "2022980944723095552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028749642754826316",
+        "created_at": "2026-03-03T08:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028749642754826316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GaRjNqoQm2",
+              "end": 52,
+              "expanded_url": "https://x.com/tanka_TWT/status/2028749642754826316/photo/1",
+              "media_key": "3_2028749624832598016",
+              "start": 29,
+              "url": "https://t.co/GaRjNqoQm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028749642754826316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意我还没开封嗅了半天感觉一股八角味还有点茴香 这对吗 https://t.co/GaRjNqoQm2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 44,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 167
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T10:27:07.000Z",
+        "description": "我看著幸福的日子被我親手摧毀後開心地閉上了眼",
+        "id": "2022980944723095552",
+        "name": "滅死炭",
+        "pinned_tweet_id": "2028115243281592744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022981251293208576/DqcVGwT7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 65,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 93
+        },
+        "username": "tanka_TWT",
+        "verified": false
+      }
+    ]
+  }
+}

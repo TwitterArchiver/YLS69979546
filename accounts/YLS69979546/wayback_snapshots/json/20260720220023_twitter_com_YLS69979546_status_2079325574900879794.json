@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079230045290381491",
+    "created_at": "2026-07-20T22:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T23:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079325574900879794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860771426451828736",
+          "start": 0,
+          "username": "YMColinMessi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079325574900879794",
+    "in_reply_to_user_id": "1860771426451828736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079230045290381491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YMColinMessi 40w了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079230045290381491",
+        "created_at": "2026-07-20T22:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T23:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079325574900879794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860771426451828736",
+              "start": 0,
+              "username": "YMColinMessi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079325574900879794",
+        "in_reply_to_user_id": "1860771426451828736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079230045290381491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMColinMessi 40w了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860771426451828736",
+        "conversation_id": "2079230045290381491",
+        "created_at": "2026-07-20T15:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079230045290381491"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linlitsuing/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/linlitsuing/status/2078976729792884871",
+              "start": 32,
+              "url": "https://t.co/BmU1jkHG6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079230045290381491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8791,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078976729792884871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的意思是，我被至少30w人看过穿雷霆睡衣睡觉？？？🫨🫨🫨🫨🫨 https://t.co/BmU1jkHG6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 142,
+          "like_count": 7819,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1482
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T19:44:26.000Z",
+        "description": "被🐜🐉捂嘴不许回复ing｜因为太忙而没啥空上推｜一只小🐷｜愿我之笨嘴不再伤害任何人｜主人🥵：@linlitsuing｜无黄小号：@zhuanhuoweifu｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "linlitsuing"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "zhuanhuoweifu"
+              }
+            ]
+          }
+        },
+        "id": "1860771426451828736",
+        "location": "KMG T2",
+        "name": "繁锦FaJy",
+        "pinned_tweet_id": "1992822711765422560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978357973698387968/Udu3Aj4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 634,
+          "like_count": 10554,
+          "listed_count": 2,
+          "media_count": 670,
+          "tweet_count": 7228
+        },
+        "url": "",
+        "username": "YMColinMessi",
+        "verified": false
+      }
+    ]
+  }
+}

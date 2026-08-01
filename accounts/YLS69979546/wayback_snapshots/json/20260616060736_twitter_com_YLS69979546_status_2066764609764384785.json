@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2066657003808956658",
+    "created_at": "2026-06-16T06:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066764609764384785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "Meguminsama2009"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066764609764384785",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066657003808956658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meguminsama2009 我以前有个网友拼多多累计提现了几百块，他有段时间疯狂在群里拉人点链接"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_2066641701637427200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4vrZgbkAAI4oH.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2066657003808956658",
+        "created_at": "2026-06-16T06:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066764609764384785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "Meguminsama2009"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066764609764384785",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066657003808956658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meguminsama2009 我以前有个网友拼多多累计提现了几百块，他有段时间疯狂在群里拉人点链接"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066641701637427200"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2066657003808956658",
+        "created_at": "2026-06-15T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066657003808956658"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTcJ7oByr9",
+              "end": 55,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2066657003808956658/photo/1",
+              "media_key": "3_2066641701637427200",
+              "start": 32,
+              "url": "https://t.co/MTcJ7oByr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066657003808956658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1078,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你家里人给你转十万我都不羡慕。你pdd提现这么多我难受的睡不着 https://t.co/MTcJ7oByr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 80,
+          "like_count": 5765,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 752
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "我是MeguminSAMA\n大家可以叫我惠惠",
+        "id": "1557846379736666113",
+        "location": "永雏塔菲",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 1952,
+          "like_count": 3116,
+          "listed_count": 3,
+          "media_count": 379,
+          "tweet_count": 6550
+        },
+        "username": "Meguminsama2009",
+        "verified": true
+      }
+    ]
+  }
+}

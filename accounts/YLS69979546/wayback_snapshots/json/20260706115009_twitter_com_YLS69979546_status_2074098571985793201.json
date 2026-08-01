@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2073418713232187684",
+    "created_at": "2026-07-06T11:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074098571985793201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2006386948756406272",
+          "start": 0,
+          "username": "yi0843"
+        },
+        {
+          "end": 17,
+          "id": "1580183766906986498",
+          "start": 8,
+          "username": "PacSaury"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074098571985793201",
+    "in_reply_to_user_id": "2006386948756406272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073654581607723362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yi0843 @PacSaury 其实没那么夸张"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073418713232187684",
+        "created_at": "2026-07-06T11:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074098571985793201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2006386948756406272",
+              "start": 0,
+              "username": "yi0843"
+            },
+            {
+              "end": 17,
+              "id": "1580183766906986498",
+              "start": 8,
+              "username": "PacSaury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074098571985793201",
+        "in_reply_to_user_id": "2006386948756406272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073654581607723362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yi0843 @PacSaury 其实没那么夸张"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006386948756406272",
+        "conversation_id": "2073418713232187684",
+        "created_at": "2026-07-05T06:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073654581607723362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1580183766906986498",
+              "start": 0,
+              "username": "PacSaury"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073654581607723362",
+        "in_reply_to_user_id": "1580183766906986498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 850,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073418713232187684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PacSaury 吸毒上瘾后是什么感觉啊 真的像宣传片那样很致命吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 121,
+          "like_count": 6947,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1193
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-31T15:29:17.000Z",
+        "description": "喜欢会回",
+        "id": "2006386948756406272",
+        "name": "恶喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072814704108638208/OmcMLnz0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 58,
+          "like_count": 336,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 100
+        },
+        "url": "",
+        "username": "yi0843",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T13:09:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiadongwuyaoshi",
+                "end": 23,
+                "expanded_url": "https://t.me/xiadongwuyaoshi",
+                "start": 0,
+                "url": "https://t.co/PMwIXjmfVe"
+              }
+            ]
+          }
+        },
+        "id": "1580183766906986498",
+        "location": "-0.14m 塞莱斯特山顶",
+        "name": "BaPurple",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006775516326735872/IzRR395a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 174,
+          "like_count": 10852,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 3742
+        },
+        "url": "https://t.co/PMwIXjmfVe",
+        "username": "PacSaury",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2076900924346532020",
+    "created_at": "2026-07-14T13:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077023858633408649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028179052788662272",
+          "start": 0,
+          "username": "CutouttheIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077023858633408649",
+    "in_reply_to_user_id": "2028179052788662272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076992414053785962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CutouttheIV 普瑞？神经痛全看你描述的，找点症状掰扯就完事了，不想掰扯其实能直接说自己吃过叫医生开就好了，专就别问了，我有adhd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2076900924346532020",
+        "created_at": "2026-07-14T13:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077023858633408649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028179052788662272",
+              "start": 0,
+              "username": "CutouttheIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077023858633408649",
+        "in_reply_to_user_id": "2028179052788662272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076992414053785962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CutouttheIV 普瑞？神经痛全看你描述的，找点症状掰扯就完事了，不想掰扯其实能直接说自己吃过叫医生开就好了，专就别问了，我有adhd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028179052788662272",
+        "conversation_id": "2076900924346532020",
+        "created_at": "2026-07-14T11:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076992414053785962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076992414053785962",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076900924346532020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 130,
+          "like_count": 7468,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1327
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T18:42:33.000Z",
+        "description": "大号@y2k0070 🚪288/520/1314\n只回口令",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "y2k0070"
+              }
+            ]
+          }
+        },
+        "id": "2028179052788662272",
+        "name": "狗司令分令",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028179706429009921/1mI9d-GL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1160,
+          "following_count": 27,
+          "like_count": 235,
+          "listed_count": 3,
+          "media_count": 67,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "CutouttheIV",
+        "verified": false
+      }
+    ]
+  }
+}

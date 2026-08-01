@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2073847252989378734",
+    "created_at": "2026-07-05T19:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T20:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073847252989378734"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/otonashikotoba…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/otonashikotoba/status/2073746237774270498",
+          "start": 14,
+          "url": "https://t.co/Ji3X5JbgpI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073847252989378734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073746237774270498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以这怎么治？没得治是吧😢 https://t.co/Ji3X5JbgpI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2073847252989378734",
+        "created_at": "2026-07-05T19:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T20:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073847252989378734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/otonashikotoba…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/otonashikotoba/status/2073746237774270498",
+              "start": 14,
+              "url": "https://t.co/Ji3X5JbgpI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073847252989378734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073746237774270498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以这怎么治？没得治是吧😢 https://t.co/Ji3X5JbgpI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936628009999745024",
+        "conversation_id": "2073746237774270498",
+        "created_at": "2026-07-05T12:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073746237774270498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073746237774270498",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4981,
+          "impression_count": 1272132,
+          "like_count": 13145,
+          "quote_count": 278,
+          "reply_count": 166,
+          "retweet_count": 1241
+        },
+        "reply_settings": "everyone",
+        "text": "誰も言わんからいうけど、ADHDって「軽く注意された」くらいで心が数日死ぬ。\nこれ「RSD(拒絶敏感性)」って言って、ADHDの研究では超有名やねん。\n他人からの否定や拒絶を、普通の人の何倍も痛みとして感じてしまう脳の特性。なんでかっていうと"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 121,
+          "like_count": 6938,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T03:31:24.000Z",
+        "description": "WEBマーケ会社の社長/集中できない・すぐ気が散るADHD/HSPの生きづらさを解消するヒントを発信。 脳科学×心理学ベースで 特性を「武器」に変える行動術・収入アップ術を発信。PRやSNS運用代行はDMで/ ADHDが右脳を鍛えて自分らしい人生を歩む方法👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "utage-system.com/r/jVXxvFRkvWiQ…",
+                "end": 23,
+                "expanded_url": "https://utage-system.com/r/jVXxvFRkvWiQ/register?mtid=12GouSnLlnR5",
+                "start": 0,
+                "url": "https://t.co/qlXjOlYNt1"
+              }
+            ]
+          }
+        },
+        "id": "1936628009999745024",
+        "name": "セナ@ADHDを才能に変える思考法",
+        "pinned_tweet_id": "2025842384647630889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966498325559115776/0ts0P4uP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50638,
+          "following_count": 156,
+          "like_count": 3932,
+          "listed_count": 195,
+          "media_count": 202,
+          "tweet_count": 12019
+        },
+        "url": "https://t.co/qlXjOlYNt1",
+        "username": "otonashikotoba",
+        "verified": true
+      }
+    ]
+  }
+}

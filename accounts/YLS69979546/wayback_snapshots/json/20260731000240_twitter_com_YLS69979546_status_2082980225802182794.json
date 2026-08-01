@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082980214343442432"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2082980225802182794",
+    "created_at": "2026-07-31T00:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T01:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082980225802182794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G2Z7Pyz1Nw",
+          "end": 46,
+          "expanded_url": "https://x.com/YLS69979546/status/2082980225802182794/photo/1",
+          "media_key": "3_2082980214343442432",
+          "start": 23,
+          "url": "https://t.co/G2Z7Pyz1Nw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082980225802182794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就这样出门，其实一点也无所谓，没人会看的是吧 https://t.co/G2Z7Pyz1Nw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2082980214343442432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOg7eAYboAAWMq_.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082980214343442432"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082980225802182794",
+        "created_at": "2026-07-31T00:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T01:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082980225802182794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G2Z7Pyz1Nw",
+              "end": 46,
+              "expanded_url": "https://x.com/YLS69979546/status/2082980225802182794/photo/1",
+              "media_key": "3_2082980214343442432",
+              "start": 23,
+              "url": "https://t.co/G2Z7Pyz1Nw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082980225802182794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样出门，其实一点也无所谓，没人会看的是吧 https://t.co/G2Z7Pyz1Nw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 162,
+          "like_count": 8518,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

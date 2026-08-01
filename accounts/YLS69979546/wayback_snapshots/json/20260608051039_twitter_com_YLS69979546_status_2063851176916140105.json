@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2063594015040360761",
+    "created_at": "2026-06-08T05:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T06:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063851176916140105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1593799138893873152",
+          "start": 0,
+          "username": "Fuugetsu_808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063851176916140105",
+    "in_reply_to_user_id": "1593799138893873152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063594015040360761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fuugetsu_808 没事，我不是+86，管他真的假的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2063593902951817216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNbuKoa4AAUvGo.jpg",
+        "width": 717
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2063594015040360761",
+        "created_at": "2026-06-08T05:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T06:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063851176916140105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1593799138893873152",
+              "start": 0,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063851176916140105",
+        "in_reply_to_user_id": "1593799138893873152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063594015040360761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fuugetsu_808 没事，我不是+86，管他真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063593902951817216"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2063594015040360761",
+        "created_at": "2026-06-07T12:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T13:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063594015040360761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/okLJdS2cgh",
+              "end": 54,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2063594015040360761/photo/1",
+              "media_key": "3_2063593902951817216",
+              "start": 31,
+              "url": "https://t.co/okLJdS2cgh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063594015040360761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 172,
+          "impression_count": 597128,
+          "like_count": 575,
+          "quote_count": 5,
+          "reply_count": 197,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "数据隐私呢...... +86我理解 +886为什么还要上传 https://t.co/okLJdS2cgh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 75,
+          "like_count": 5178,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 647
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5532,
+          "following_count": 1895,
+          "like_count": 62419,
+          "listed_count": 11,
+          "media_count": 1490,
+          "tweet_count": 11702
+        },
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

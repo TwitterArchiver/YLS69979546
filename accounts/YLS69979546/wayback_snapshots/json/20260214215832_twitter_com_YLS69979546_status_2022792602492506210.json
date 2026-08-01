@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2022792602492506210",
+    "created_at": "2026-02-14T21:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T22:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022792602492506210"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022792602492506210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "四十多个小时没睡，睡了仨小时就醒，这河里吗？这像画吗？帕利哌酮估计一两天也压不住我的躁，还得继续喹硫平时间快进器，我服了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2022792602492506210",
+        "created_at": "2026-02-14T21:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T22:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022792602492506210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022792602492506210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "四十多个小时没睡，睡了仨小时就醒，这河里吗？这像画吗？帕利哌酮估计一两天也压不住我的躁，还得继续喹硫平时间快进器，我服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 40,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 96
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

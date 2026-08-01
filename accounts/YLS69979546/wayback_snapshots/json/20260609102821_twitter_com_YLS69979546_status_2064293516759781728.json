@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2064233999095263509",
+    "created_at": "2026-06-09T10:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T11:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064293516759781728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882812074189070336",
+          "start": 0,
+          "username": "shisuibb520"
+        },
+        {
+          "end": 22,
+          "id": "1809233055196073984",
+          "start": 13,
+          "username": "Jy666992"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064293516759781728",
+    "in_reply_to_user_id": "1882812074189070336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064246546837786763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shisuibb520 @Jy666992 利用度高，起效快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2064233999095263509",
+        "created_at": "2026-06-09T10:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064293516759781728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882812074189070336",
+              "start": 0,
+              "username": "shisuibb520"
+            },
+            {
+              "end": 22,
+              "id": "1809233055196073984",
+              "start": 13,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064293516759781728",
+        "in_reply_to_user_id": "1882812074189070336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064246546837786763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shisuibb520 @Jy666992 利用度高，起效快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882812074189070336",
+        "conversation_id": "2064233999095263509",
+        "created_at": "2026-06-09T07:21:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:21:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064246546837786763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809233055196073984",
+              "start": 0,
+              "username": "Jy666992"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064246546837786763",
+        "in_reply_to_user_id": "1809233055196073984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064233999095263509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jy666992 为什么要鼻吸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 75,
+          "like_count": 5252,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 662
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T15:26:06.000Z",
+        "description": "一个脆弱的小女生 可以一起打游戏 od 自残 🚪52/188/520",
+        "id": "1882812074189070336",
+        "name": "小时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882812210902392833/ftiaInh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 22,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 63
+        },
+        "username": "shisuibb520",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "光与水相遇 莲花自然生长\n双相病情严重/物质滥用/所以造成时而像人时而像恶魔的发言，暂时没找到解决方法\n我其实一直在寻找我到底怎么活着（真实的）\n在泰上学（脑子不好上不好学感觉哪天就被开除）\n我是第一次在网上冲浪，一些名词我不懂，希望不要嫌弃我问问题的麻烦好吗 致谢！",
+        "id": "1809233055196073984",
+        "name": "烨篮子（半智障版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063752480866050048/Tm74kbTZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 25,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 79
+        },
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

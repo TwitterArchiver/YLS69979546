@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2017855466412642573",
+    "created_at": "2026-02-03T06:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T07:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018567785392353515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1939979157594664960",
+          "start": 0,
+          "username": "xioy1520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018567785392353515",
+    "in_reply_to_user_id": "1939979157594664960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017855466412642573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioy1520 这个金刚烷胺还是太害人了点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2017855466412642573",
+        "created_at": "2026-02-03T06:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T07:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018567785392353515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939979157594664960",
+              "start": 0,
+              "username": "xioy1520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018567785392353515",
+        "in_reply_to_user_id": "1939979157594664960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017855466412642573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioy1520 这个金刚烷胺还是太害人了点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939979157594664960",
+        "conversation_id": "2017855466412642573",
+        "created_at": "2026-02-01T07:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017855466412642573"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017855466412642573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12704,
+          "like_count": 209,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "炒作秘籍\n1.关于精神病是不是自己作的\n2.关于mtf能不能上女厕所\n3.瑞平门槛妹/餐券妹/mtf\n4.假装自己是粉红最终变反贼\n5.不经意间谈论一些大尺度性事\n6.关于虚拟货币到底是不是骗局\n7.卖致幻剂，实际上只是金刚烷胺\n8.在小红书装日本人说要学中文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 26,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:27:37.000Z",
+        "description": "善良人格@cha317081419353",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "cha317081419353"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/muming95389",
+                "end": 23,
+                "expanded_url": "https://ngl.link/muming95389",
+                "start": 0,
+                "url": "https://t.co/9wriK9Pqat"
+              }
+            ]
+          }
+        },
+        "id": "1939979157594664960",
+        "location": "=￣ω￣=",
+        "name": "眠",
+        "pinned_tweet_id": "2016198165591150646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015434596712923136/dcvsAuAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 984,
+          "following_count": 46,
+          "like_count": 1766,
+          "listed_count": 4,
+          "media_count": 37,
+          "tweet_count": 457
+        },
+        "url": "https://t.co/9wriK9Pqat",
+        "username": "xioy1520",
+        "verified": false
+      }
+    ]
+  }
+}

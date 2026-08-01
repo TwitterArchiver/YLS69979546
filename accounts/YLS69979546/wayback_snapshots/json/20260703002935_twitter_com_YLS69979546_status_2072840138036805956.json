@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2072840138036805956",
+    "created_at": "2026-07-03T00:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T01:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072840138036805956"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wei_wang/statu…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/wei_wang/status/2072639674401669327",
+          "start": 54,
+          "url": "https://t.co/Jqt0GIQAlK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072840138036805956",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072639674401669327",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想要2了，在CN越来越觉得压抑了，感觉东南亚就很好，先去旅个游过几年想办法润得了，这CN真的越来越难呆了 https://t.co/Jqt0GIQAlK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2072840138036805956",
+        "created_at": "2026-07-03T00:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T01:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072840138036805956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wei_wang/statu…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/wei_wang/status/2072639674401669327",
+              "start": 54,
+              "url": "https://t.co/Jqt0GIQAlK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072840138036805956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072639674401669327",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想要2了，在CN越来越觉得压抑了，感觉东南亚就很好，先去旅个游过几年想办法润得了，这CN真的越来越难呆了 https://t.co/Jqt0GIQAlK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1518577705809326083",
+        "conversation_id": "2072639674401669327",
+        "created_at": "2026-07-02T11:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072639674401669327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072639674401669327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国人尽量获取一点自由的方法：\n\n1.落户大湾区\n最容易的应该是江门市\n大湾区居民可以开通跨境理财通，购买300万额度的美国国债、美股基金等\n等于你自己给自己弄一个401K养老金\n\n2.润去泰国\n最便宜的是语言学校签证\n比较贵的是精英签证\n精英签证作为一种长居签证，可以注销掉中国的户籍，保留中国公民身份\n这样的话，境外居住半年，就可以避免CRS征税\n中国的医社保可以继续保持\n\n3.容易移民的国家，哥斯达黎加\n存入6万美元，获得2年居住权\n存款连续3年，可以申请永居权\n存款后续可以取出\n无移民监"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1034,
+          "impression_count": 246538,
+          "like_count": 1100,
+          "quote_count": 5,
+          "reply_count": 117,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "中国人尽量获取一点自由的方法：\n\n1.落户大湾区\n最容易的应该是江门市\n大湾区居民可以开通跨境理财通，购买300万额度的美国国债、美股基金等\n等于你自己给自己弄一个401K养老金\n\n2.润去泰国\n最便宜的是语言学校签证\n比较贵的是精英签证"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 118,
+          "like_count": 6794,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1138
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-25T13:09:06.000Z",
+        "description": "13y mobile vet | $100M EM | Building ecom brands with China supplier network | AI tools & cross-border ecom 🇺🇸\n\n13年移动端老兵 | 美国电商创业 | 分享AI工具 & 出海实操",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "askkivo.com",
+                "end": 23,
+                "expanded_url": "http://askkivo.com",
+                "start": 0,
+                "url": "https://t.co/mfoaCk5k6a"
+              }
+            ]
+          }
+        },
+        "id": "1518577705809326083",
+        "location": "Atlanta, GA",
+        "name": "Wei",
+        "pinned_tweet_id": "2056208743805669381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047735687563124736/E31Pv60Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 292,
+          "like_count": 5488,
+          "listed_count": 21,
+          "media_count": 331,
+          "tweet_count": 6787
+        },
+        "url": "https://t.co/mfoaCk5k6a",
+        "username": "wei_wang",
+        "verified": true
+      }
+    ]
+  }
+}

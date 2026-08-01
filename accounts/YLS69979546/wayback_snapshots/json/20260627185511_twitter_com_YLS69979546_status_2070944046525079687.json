@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070940053380202621",
+    "created_at": "2026-06-27T18:55:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:55:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070944046525079687"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070944046525079687",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070943360924152200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好了，我以“我该去拥抱安眠药了”结束了这场聊天，实际上是我也不知道说啥了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2084,
+        "media_key": "3_2070943358101737472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL14Awmb0AAUSw0.jpg",
+        "width": 805
+      },
+      {
+        "height": 2003,
+        "media_key": "3_2070943358248472576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL14AxJa0AA5vNy.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070940053380202621",
+        "created_at": "2026-06-27T18:55:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:55:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070944046525079687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070944046525079687",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070943360924152200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了，我以“我该去拥抱安眠药了”结束了这场聊天，实际上是我也不知道说啥了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070943358101737472",
+            "3_2070943358248472576"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070940053380202621",
+        "created_at": "2026-06-27T18:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070943360924152200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyo3JudgIR",
+              "end": 58,
+              "expanded_url": "https://x.com/YLS69979546/status/2070943360924152200/photo/1",
+              "media_key": "3_2070943358101737472",
+              "start": 35,
+              "url": "https://t.co/tyo3JudgIR"
+            },
+            {
+              "display_url": "pic.x.com/tyo3JudgIR",
+              "end": 58,
+              "expanded_url": "https://x.com/YLS69979546/status/2070943360924152200/photo/1",
+              "media_key": "3_2070943358248472576",
+              "start": 35,
+              "url": "https://t.co/tyo3JudgIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070943360924152200",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070940053380202621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得我真该马上睡觉了，大家都熬夜熬出幻觉了吗，我还是去拥抱喹硫平吧 https://t.co/tyo3JudgIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 109,
+          "like_count": 6429,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1027
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

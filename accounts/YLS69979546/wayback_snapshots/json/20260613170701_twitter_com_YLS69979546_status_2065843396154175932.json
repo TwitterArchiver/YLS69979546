@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2065834469412704531",
+    "created_at": "2026-06-13T17:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065843396154175932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065843396154175932",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065834469412704531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 啊？我长期这样，我真有adhd，确实也怀疑自己有asd，我或许真的是audhd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_2065834466862661632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKtRgJobgAAU1OK.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2065834469412704531",
+        "created_at": "2026-06-13T17:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065843396154175932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065843396154175932",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065834469412704531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 啊？我长期这样，我真有adhd，确实也怀疑自己有asd，我或许真的是audhd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065834466862661632"
+          ]
+        },
+        "author_id": "1660586167807664129",
+        "conversation_id": "2065834469412704531",
+        "created_at": "2026-06-13T16:31:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065834469412704531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/63HRtPALdf",
+              "end": 168,
+              "expanded_url": "https://x.com/ttttk567/status/2065834469412704531/photo/1",
+              "media_key": "3_2065834466862661632",
+              "start": 145,
+              "url": "https://t.co/63HRtPALdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065834469412704531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近好几天，我没有主动联系别人。也没有其他人是专门来找我的\n（注：这里特指较长的对话至少10min以上）\n感觉自己经常这样...\n而且别人发的消息好几天也没有回复\n\n什么都一个人去干，完全没有意识到这些。直到刚刚写日记的发现了这个现象。似乎正常人不是这样的？\n这就是audhd嘛....? https://t.co/63HRtPALdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 82,
+          "like_count": 5611,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 728
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客https://t.co/e90qOe4ADO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ak12s.icu",
+                "end": 90,
+                "expanded_url": "http://www.ak12s.icu",
+                "start": 67,
+                "url": "https://t.co/e90qOe4ADO"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "location": "nowhere",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978063307694329856/viV6SIGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1100,
+          "like_count": 2366,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 824
+        },
+        "username": "ttttk567",
+        "verified": true
+      }
+    ]
+  }
+}

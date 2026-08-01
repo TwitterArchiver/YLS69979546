@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2071396159898153218",
+    "created_at": "2026-06-29T00:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T01:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071396159898153218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071396159898153218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "作息没救了，我这傻逼还没睡，白天谁找我都是找不着的，不上班不上课我就这副鬼样子（真得睡觉了吧沃擦）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2071396159898153218",
+        "created_at": "2026-06-29T00:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T01:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071396159898153218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071396159898153218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作息没救了，我这傻逼还没睡，白天谁找我都是找不着的，不上班不上课我就这副鬼样子（真得睡觉了吧沃擦）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 111,
+          "like_count": 6513,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1054
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

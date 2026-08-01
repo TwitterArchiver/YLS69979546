@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2040324064196366632",
+    "created_at": "2026-04-04T07:02:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:02:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040324064196366632"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040324064196366632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "戒普瑞小技巧，不停的吃东西，不让自己保持空腹，这样o了药效也不好就可以不磕了，我真是牛大了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2040324064196366632",
+        "created_at": "2026-04-04T07:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040324064196366632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040324064196366632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "戒普瑞小技巧，不停的吃东西，不让自己保持空腹，这样o了药效也不好就可以不磕了，我真是牛大了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 51,
+          "like_count": 2546,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 221
+        },
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

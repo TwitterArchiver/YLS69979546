@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2009495528346894454",
+    "created_at": "2026-01-09T19:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T20:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009707913867342211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755765450707709952",
+          "start": 0,
+          "username": "huajuanshiwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009707913867342211",
+    "in_reply_to_user_id": "1755765450707709952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009495528346894454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huajuanshiwo 小米的应用商店里就能下谷歌商店"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009495511888285696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MphXPX0AAONjh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009495511896637440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-MphXRXQAARzGF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2009495528346894454",
+        "created_at": "2026-01-09T19:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T20:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009707913867342211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755765450707709952",
+              "start": 0,
+              "username": "huajuanshiwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009707913867342211",
+        "in_reply_to_user_id": "1755765450707709952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009495528346894454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huajuanshiwo 小米的应用商店里就能下谷歌商店"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009495511888285696",
+            "3_2009495511896637440"
+          ]
+        },
+        "author_id": "1755765450707709952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2009495528346894454",
+        "created_at": "2026-01-09T05:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T06:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009495528346894454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLu0yVFB7E",
+              "end": 40,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2009495528346894454/photo/1",
+              "media_key": "3_2009495511888285696",
+              "start": 17,
+              "url": "https://t.co/yLu0yVFB7E"
+            },
+            {
+              "display_url": "pic.x.com/yLu0yVFB7E",
+              "end": 40,
+              "expanded_url": "https://x.com/huajuanshiwo/status/2009495528346894454/photo/1",
+              "media_key": "3_2009495511896637440",
+              "start": 17,
+              "url": "https://t.co/yLu0yVFB7E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009495528346894454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 210789,
+          "like_count": 298,
+          "quote_count": 2,
+          "reply_count": 73,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "杭州的小米上怎么还有Play商店 https://t.co/yLu0yVFB7E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 21,
+          "like_count": 320,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-09T01:28:44.000Z",
+        "description": "这里是死掉的树海 | 谢谢你了解我哦 | 回fo请私信 | feat.君 | 我希望我最后能感谢这一切，因为我和你在一起",
+        "id": "1755765450707709952",
+        "location": "蓝色空间号",
+        "name": "树海",
+        "pinned_tweet_id": "2007422861984641291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004504021785071616/3r_0Vu5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1984,
+          "following_count": 2228,
+          "like_count": 49228,
+          "listed_count": 6,
+          "media_count": 1650,
+          "tweet_count": 10570
+        },
+        "username": "huajuanshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

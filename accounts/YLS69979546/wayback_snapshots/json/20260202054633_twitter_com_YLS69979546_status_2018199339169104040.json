@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2017866689153822740",
+    "created_at": "2026-02-02T05:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T06:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018199339169104040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1995030289123610631",
+          "start": 0,
+          "username": "Ken731826128694"
+        },
+        {
+          "end": 25,
+          "id": "898945784573435905",
+          "start": 17,
+          "username": "chumacn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018199339169104040",
+    "in_reply_to_user_id": "1995030289123610631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017937228350292315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ken731826128694 @chumacn 什么都没干也会莫名其妙被封的，我之前新注册了一个，没多久就发现被封了，去申诉又解开了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2017866689153822740",
+        "created_at": "2026-02-02T05:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T06:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018199339169104040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1995030289123610631",
+              "start": 0,
+              "username": "Ken731826128694"
+            },
+            {
+              "end": 25,
+              "id": "898945784573435905",
+              "start": 17,
+              "username": "chumacn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018199339169104040",
+        "in_reply_to_user_id": "1995030289123610631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017937228350292315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ken731826128694 @chumacn 什么都没干也会莫名其妙被封的，我之前新注册了一个，没多久就发现被封了，去申诉又解开了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1995030289123610631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2017866689153822740",
+        "created_at": "2026-02-01T12:25:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T13:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017937228350292315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "898945784573435905",
+              "start": 0,
+              "username": "chumacn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017937228350292315",
+        "in_reply_to_user_id": "898945784573435905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10144,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017866689153822740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chumacn 能把google玩到封号，也不是一般的操作，我用了十几年的号了，做了什么事才会被封号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 26,
+          "like_count": 894,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-30T07:21:10.000Z",
+        "description": "",
+        "id": "1995030289123610631",
+        "name": "圆脸少伦少",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005947187658952704/s960RZqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 35,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 165
+        },
+        "username": "Ken731826128694",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-19T16:32:31.000Z",
+        "description": "🆔 24年程序员 & 10年架构师 & 奸商\n\n🖥️ 技术立场：强类型静态语言与重构爱好者，桌面生产力与高性能物理机爱好者\n🔞 政治立场：真正的爱国者，倡导开智，偏右不极端，🆗讲道理讲逻辑，❌立场先行，❌结党营私\n\n🤡 初码定律：如果你的认知与我的观点不一致，别急着骂，先耐心检查一下，很有可能是你错了！",
+        "id": "898945784573435905",
+        "location": "未来",
+        "name": "初码",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876076625353457664/VRmAMbKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57225,
+          "following_count": 1084,
+          "like_count": 223,
+          "listed_count": 362,
+          "media_count": 333,
+          "tweet_count": 9755
+        },
+        "username": "chumacn",
+        "verified": true
+      }
+    ]
+  }
+}

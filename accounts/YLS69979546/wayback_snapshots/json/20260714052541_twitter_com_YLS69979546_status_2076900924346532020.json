@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076900912648671232"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2076900924346532020",
+    "created_at": "2026-07-14T05:25:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:25:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076900924346532020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1N5w7BimAM",
+          "end": 112,
+          "expanded_url": "https://x.com/YLS69979546/status/2076900924346532020/photo/1",
+          "media_key": "3_2076900912648671232",
+          "start": 89,
+          "url": "https://t.co/1N5w7BimAM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076900924346532020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精品神药，其实想开某弱阿片，结果开了个普瑞出来，应该说点别的多掰扯掰扯的，看到不是精二我就猜出是普瑞了结果果然是，其实普瑞我能直接点菜的都不用掰扯（原来这个医院有150的普瑞） https://t.co/1N5w7BimAM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2076900912648671232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNKiYEwb0AAi-VG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076900912648671232"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2076900924346532020",
+        "created_at": "2026-07-14T05:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076900924346532020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N5w7BimAM",
+              "end": 112,
+              "expanded_url": "https://x.com/YLS69979546/status/2076900924346532020/photo/1",
+              "media_key": "3_2076900912648671232",
+              "start": 89,
+              "url": "https://t.co/1N5w7BimAM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076900924346532020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精品神药，其实想开某弱阿片，结果开了个普瑞出来，应该说点别的多掰扯掰扯的，看到不是精二我就猜出是普瑞了结果果然是，其实普瑞我能直接点菜的都不用掰扯（原来这个医院有150的普瑞） https://t.co/1N5w7BimAM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 130,
+          "like_count": 7456,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1318
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

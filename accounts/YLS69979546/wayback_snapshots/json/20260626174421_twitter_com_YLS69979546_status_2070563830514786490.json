@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2070377314303508990",
+    "created_at": "2026-06-26T17:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070563830514786490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1692041330774638592",
+          "start": 0,
+          "username": "huangshang1982"
+        },
+        {
+          "end": 25,
+          "id": "340107534",
+          "start": 16,
+          "username": "duanhjlt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070563830514786490",
+    "in_reply_to_user_id": "1692041330774638592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070461064354156822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huangshang1982 @duanhjlt 致幻是思诺思的一个副作用，概率只有1％左右，有的人怎么吃都吃不出幻觉的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2070377314303508990",
+        "created_at": "2026-06-26T17:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070563830514786490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1692041330774638592",
+              "start": 0,
+              "username": "huangshang1982"
+            },
+            {
+              "end": 25,
+              "id": "340107534",
+              "start": 16,
+              "username": "duanhjlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070563830514786490",
+        "in_reply_to_user_id": "1692041330774638592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070461064354156822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huangshang1982 @duanhjlt 致幻是思诺思的一个副作用，概率只有1％左右，有的人怎么吃都吃不出幻觉的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692041330774638592",
+        "conversation_id": "2070377314303508990",
+        "created_at": "2026-06-26T10:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070461064354156822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "340107534",
+              "start": 0,
+              "username": "duanhjlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070461064354156822",
+        "in_reply_to_user_id": "340107534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20264,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070377314303508990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duanhjlt ？？？吃多少可以有这个效果？？我想试试，怎么开出来？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 105,
+          "like_count": 6342,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 964
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T05:11:13.000Z",
+        "description": "",
+        "id": "1692041330774638592",
+        "name": "众人皆罪",
+        "pinned_tweet_id": "1696227266152546317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064901552616222720/3G019lFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 163,
+          "like_count": 454,
+          "listed_count": 1,
+          "media_count": 560,
+          "tweet_count": 5142
+        },
+        "url": "",
+        "username": "huangshang1982",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-22T04:31:23.000Z",
+        "description": "搞钱、打工、阶层下滑、中年焦虑。\n记录普通人怎么在这个时代硬撑着活。",
+        "id": "340107534",
+        "name": "赴野",
+        "pinned_tweet_id": "2068988168658137170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972814827749011456/IuCjwNAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24676,
+          "following_count": 858,
+          "like_count": 815,
+          "listed_count": 104,
+          "media_count": 7868,
+          "tweet_count": 13542
+        },
+        "url": "",
+        "username": "duanhjlt",
+        "verified": true
+      }
+    ]
+  }
+}
