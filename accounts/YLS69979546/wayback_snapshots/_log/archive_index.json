@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-01T17:34:32",
+  "last_updated": "2026-08-01T17:34:50",
   "html": {
     "https://web.archive.org/web/20251227151526if_/https://twitter.com/YLS69979546/status/2004934150508470373": {
       "status": "done",
@@ -12306,9 +12306,9 @@
       "referenced_by": [
         "20260727151627_twitter_com_YLS69979546_status_2081760635294191698.json"
       ],
-      "last_updated": "2026-08-01T17:21:45",
+      "last_updated": "2026-08-01T17:34:50",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260727151627/https://video.twimg.com/amplify_video/2081724098670149632/vid/avc1/720x1280/p6LzAusGZPTpk_W0.mp4",
-      "miss_count": 2
+      "miss_count": 3
     }
   },
   "avatars": {
