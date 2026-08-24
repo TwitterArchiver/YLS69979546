@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2085092376507462088",
+    "created_at": "2026-08-05T20:19:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T21:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085098396642316471"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2085098396642316471",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085092376507462088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又测了下第一次买的那个饱和溶液ph值，跟水差不多大概7到8，尝起来几乎不苦，酸涩咸的感觉，是真货的概率不大了吧，gpt说它也有可能是苦参碱的某种盐形式而不是游离碱，我不管了就当它是假货了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085092376507462088",
+        "created_at": "2026-08-05T20:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T21:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085098396642316471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085098396642316471",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085092376507462088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又测了下第一次买的那个饱和溶液ph值，跟水差不多大概7到8，尝起来几乎不苦，酸涩咸的感觉，是真货的概率不大了吧，gpt说它也有可能是苦参碱的某种盐形式而不是游离碱，我不管了就当它是假货了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085092376507462088",
+        "created_at": "2026-08-05T19:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T20:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085092376507462088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085092376507462088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜突然想到去研究之前买的那个苦参碱，第一次买的我感觉是假货，然后又买了一次，这次的应该是真货了，尝起来又刺激又苦，尝一点嘴里苦好久，然后还测了下饱和溶液的ph大概在10以上，好了现在有一杯10ml不到点溶解了大概500mg苦参碱，苦的要死的溶液我不知道该怎么办了，它苦死了我喝不下去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 190,
+          "like_count": 9062,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2351
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

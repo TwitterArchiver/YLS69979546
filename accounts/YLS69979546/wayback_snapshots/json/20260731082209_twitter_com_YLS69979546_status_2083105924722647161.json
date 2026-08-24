@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083059602128781766",
+    "created_at": "2026-07-31T08:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083105924722647161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423494052733874182",
+          "start": 0,
+          "username": "SaturnXVIII_Pan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083105924722647161",
+    "in_reply_to_user_id": "1423494052733874182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083096513153245398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaturnXVIII_Pan 我戒阿片戒的，要是吃点阿片马上就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083059602128781766",
+        "created_at": "2026-07-31T08:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083105924722647161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423494052733874182",
+              "start": 0,
+              "username": "SaturnXVIII_Pan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083105924722647161",
+        "in_reply_to_user_id": "1423494052733874182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083096513153245398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaturnXVIII_Pan 我戒阿片戒的，要是吃点阿片马上就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423494052733874182",
+        "conversation_id": "2083059602128781766",
+        "created_at": "2026-07-31T07:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083096513153245398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083096513153245398",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083059602128781766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 可能是纤维肌痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 165,
+          "like_count": 8535,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1848
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-06T04:00:17.000Z",
+        "description": "Nothing ever lasts forever\n@Kuroneko450430❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 27,
+                "username": "Kuroneko450430"
+              }
+            ]
+          }
+        },
+        "id": "1423494052733874182",
+        "location": "Encke Gap, Rings of Saturn",
+        "name": "Pan🍥",
+        "pinned_tweet_id": "1670140488639455232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721862599686733824/2W8dEMkd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 540,
+          "like_count": 26477,
+          "listed_count": 1,
+          "media_count": 229,
+          "tweet_count": 10445
+        },
+        "url": "",
+        "username": "SaturnXVIII_Pan",
+        "verified": false
+      }
+    ]
+  }
+}

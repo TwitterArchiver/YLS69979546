@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2086519863921836433",
+    "created_at": "2026-08-09T21:09:20.000Z",
+    "display_text_range": [
+      16,
+      163
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T22:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086560483956703581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086560483956703581",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086519863921836433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen 我大学曾极度节省，“别人一个648充游戏，我一个648活一个月”那时候为了某事攒钱食堂一荤一素最低不到十块我都嫌贵，天天即食鸡胸+蔬菜和饭，后来发现脱水蔬菜+麦片比食堂的蔬菜和饭便宜就穿插着吃，每日营养也没落下，还有临期牛奶和次果水果，后来不硬省了每个月拿1500也能存点钱，我生活要求真太低了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1755,
+        "media_key": "3_2086519839594795008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPTOvT_aUAATtr4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2086519863921836433",
+        "created_at": "2026-08-09T21:09:20.000Z",
+        "display_text_range": [
+          16,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T22:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086560483956703581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086560483956703581",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086519863921836433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen 我大学曾极度节省，“别人一个648充游戏，我一个648活一个月”那时候为了某事攒钱食堂一荤一素最低不到十块我都嫌贵，天天即食鸡胸+蔬菜和饭，后来发现脱水蔬菜+麦片比食堂的蔬菜和饭便宜就穿插着吃，每日营养也没落下，还有临期牛奶和次果水果，后来不硬省了每个月拿1500也能存点钱，我生活要求真太低了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086519839594795008"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2086519863921836433",
+        "created_at": "2026-08-09T18:27:55.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T19:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086519863921836433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oBdVjurln1",
+              "end": 50,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2086519863921836433/photo/1",
+              "media_key": "3_2086519839594795008",
+              "start": 27,
+              "url": "https://t.co/oBdVjurln1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086519863921836433",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086519839594795008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3214,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个月开销三千多块钱的環状線正在冷静地阅读这段文字： https://t.co/oBdVjurln1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086560483956703581",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 199,
+          "like_count": 9399,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2498
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2086530602912903451",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1766419926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14789,
+          "following_count": 881,
+          "like_count": 33007,
+          "listed_count": 25,
+          "media_count": 2538,
+          "tweet_count": 11875
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

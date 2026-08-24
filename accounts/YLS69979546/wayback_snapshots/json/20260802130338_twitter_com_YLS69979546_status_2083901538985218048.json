@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083222889000824913",
+    "created_at": "2026-08-02T13:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083901538985218048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796542085103013888",
+          "start": 0,
+          "username": "utlam229464"
+        },
+        {
+          "end": 22,
+          "id": "1559491440115232768",
+          "start": 13,
+          "username": "shui3333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083901538985218048",
+    "in_reply_to_user_id": "1796542085103013888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083476115361079800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utlam229464 @shui3333 我要笑了🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083222889000824913",
+        "created_at": "2026-08-02T13:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083901538985218048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796542085103013888",
+              "start": 0,
+              "username": "utlam229464"
+            },
+            {
+              "end": 22,
+              "id": "1559491440115232768",
+              "start": 13,
+              "username": "shui3333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083901538985218048",
+        "in_reply_to_user_id": "1796542085103013888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083476115361079800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utlam229464 @shui3333 我要笑了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796542085103013888",
+        "conversation_id": "2083222889000824913",
+        "created_at": "2026-08-01T08:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083476115361079800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559491440115232768",
+              "start": 0,
+              "username": "shui3333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083476115361079800",
+        "in_reply_to_user_id": "1559491440115232768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 177061,
+          "like_count": 437,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083222889000824913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shui3333 活到头了，我……我用的是流量呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 169,
+          "like_count": 8654,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2001
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-31T13:59:57.000Z",
+        "description": "",
+        "id": "1796542085103013888",
+        "name": "ut lam",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796542136789393408/AH0h9XF4_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 109,
+          "like_count": 700,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "utlam229464",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-16T10:45:24.000Z",
+        "description": "喜欢伪娘 熟女 📱Shui35353",
+        "id": "1559491440115232768",
+        "location": "山东",
+        "name": "纹所未纹 tattoo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559495290104623104/9VFmWIMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33989,
+          "following_count": 392,
+          "like_count": 61,
+          "listed_count": 161,
+          "media_count": 3722,
+          "tweet_count": 4009
+        },
+        "url": "",
+        "username": "shui3333",
+        "verified": false
+      }
+    ]
+  }
+}

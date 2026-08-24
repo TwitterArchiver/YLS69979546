@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2089667574766383219",
+    "created_at": "2026-08-18T15:40:19.000Z",
+    "display_text_range": [
+      13,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T16:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089739173909655998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1079483498686164992",
+          "start": 0,
+          "username": "KisaragiSue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089739173909655998",
+    "in_reply_to_user_id": "1079483498686164992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089667574766383219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KisaragiSue 倒也不至于完全不可逆，我戒了半个月现在感觉自己基本正常了，没有戒断症状也没天天想着那点药了，不过我bzd依赖，强行停bzd的话会触发阿片类渴求，不舒服→来点阿片这个反射需要很久才会消除"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2089667574766383219",
+        "created_at": "2026-08-18T15:40:19.000Z",
+        "display_text_range": [
+          13,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T16:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089739173909655998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089739173909655998",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089667574766383219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 倒也不至于完全不可逆，我戒了半个月现在感觉自己基本正常了，没有戒断症状也没天天想着那点药了，不过我bzd依赖，强行停bzd的话会触发阿片类渴求，不舒服→来点阿片这个反射需要很久才会消除"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2089667574766383219",
+        "created_at": "2026-08-18T10:55:48.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:55:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089667574766383219"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089667574766383219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "阿片类先是修改你的奖励中枢工作方式，然后通过长期的外源性μ受体激动，让你的自身的内啡肽神经内分泌细胞退化失能，于是你的身体就变成了连正常内啡肽递质水平都无法维持，同时μ受体激动的阈值极高的状态，你变得不使用阿片就会全身剧烈的疼痛和感受到极大精神痛苦（因为奖励神经中枢接收不到信号，你的大脑自动把状态解释为“在痛苦中“）于是“滥用阿片”的目的从寻求快乐，迅速变成了“停止痛苦”，这就是阿片类成瘾为何无解的恐怖的本质。因为阿片会让你的大脑结构被它永久性的、不可逆的损坏了。滥用的愚蠢在于阿片的前期它用短时间的欣快体验，换来的却是永远让你陷入“不使用就痛不欲生”的地狱后果。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "阿片类先是修改你的奖励中枢工作方式，然后通过长期的外源性μ受体激动，让你的自身的内啡肽神经内分泌细胞退化失能，于是你的身体就变成了连正常内啡肽递质水平都无法维持，同时μ受体激动的阈值极高的状态，你变得不使用阿片就会全身剧烈的疼痛和感受到极大精神痛苦（因为奖励神经中枢接收不到信号，你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089739173909655998",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 241,
+          "like_count": 9966,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 2709
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2089716755484881133",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 635,
+          "like_count": 44497,
+          "listed_count": 6,
+          "media_count": 1227,
+          "tweet_count": 23707
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

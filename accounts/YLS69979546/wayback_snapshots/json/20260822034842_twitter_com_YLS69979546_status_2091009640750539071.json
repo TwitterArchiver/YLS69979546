@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2091009640750539071",
+    "created_at": "2026-08-22T03:48:42.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T04:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091009640750539071"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lammyisback/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Lammyisback/status/2090760307215933873",
+          "start": 8,
+          "url": "https://t.co/U6MfxrIGgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091009640750539071",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090760307215933873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么要点我名 https://t.co/U6MfxrIGgG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2091009640750539071",
+        "created_at": "2026-08-22T03:48:42.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T04:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091009640750539071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lammyisback/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Lammyisback/status/2090760307215933873",
+              "start": 8,
+              "url": "https://t.co/U6MfxrIGgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091009640750539071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090760307215933873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么要点我名 https://t.co/U6MfxrIGgG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033044157304901632",
+        "conversation_id": "2090760307215933873",
+        "created_at": "2026-08-21T11:17:56.000Z",
+        "display_text_range": [
+          0,
+          268
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090760307215933873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090760307215933873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "ADHD\n→ Finds a place.\n→ Looks amazing.\n→ Books it in 11 minutes.\n→ Research begins after payment.\n\nAutism\n→ 17 tabs open.\n→ Weather checked.\n→ Hotel mapped.\n→ Reviews cross-referenced.\n→ Still comparing two rooms with a 0.3-point rating difference.\n\nAuDHD\n→ Researches for three weeks.\n→ Builds the perfect shortlist.\n→ Cannot choose.\n→ Suddenly books one at 11:48 PM because the decision has become unbearable.\n→ Immediately reopens the other 16 tabs."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 23901,
+          "like_count": 560,
+          "quote_count": 11,
+          "reply_count": 9,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "ADHD\n→ Finds a place.\n→ Looks amazing.\n→ Books it in 11 minutes.\n→ Research begins after payment.\n\nAutism\n→ 17 tabs open.\n→ Weather checked.\n→ Hotel mapped.\n→ Reviews cross-referenced.\n→ Still comparing two rooms with a 0.3-point rating difference.\n\nAuDHD\n→ Researches"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091009640750539071",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 258,
+          "like_count": 10205,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2796
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T04:55:42.000Z",
+        "description": "",
+        "id": "2033044157304901632",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090877744842154274",
+        "name": "Lammy",
+        "pinned_tweet_id": "2090859231054581907",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034270215802892288/9P12_Ai6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 287,
+          "like_count": 12989,
+          "listed_count": 8,
+          "media_count": 375,
+          "tweet_count": 2622
+        },
+        "url": "",
+        "username": "Lammyisback",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

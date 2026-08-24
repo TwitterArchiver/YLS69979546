@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2086328690028208303",
+    "created_at": "2026-08-10T22:56:25.000Z",
+    "display_text_range": [
+      23,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T23:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086949819243995647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1840248103984869376",
+          "start": 0,
+          "username": "Retune432"
+        },
+        {
+          "end": 22,
+          "id": "1692047356034953216",
+          "start": 11,
+          "username": "Acriley_zc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086949819243995647",
+    "in_reply_to_user_id": "1840248103984869376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086662092292333923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Retune432 @Acriley_zc 小学期嘛，正常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2086328690028208303",
+        "created_at": "2026-08-10T22:56:25.000Z",
+        "display_text_range": [
+          23,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T23:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086949819243995647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1840248103984869376",
+              "start": 0,
+              "username": "Retune432"
+            },
+            {
+              "end": 22,
+              "id": "1692047356034953216",
+              "start": 11,
+              "username": "Acriley_zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086949819243995647",
+        "in_reply_to_user_id": "1840248103984869376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086662092292333923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Retune432 @Acriley_zc 小学期嘛，正常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840248103984869376",
+        "conversation_id": "2086328690028208303",
+        "created_at": "2026-08-10T03:53:05.000Z",
+        "display_text_range": [
+          12,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086662092292333923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692047356034953216",
+              "start": 0,
+              "username": "Acriley_zc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086662092292333923",
+        "in_reply_to_user_id": "1692047356034953216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 69658,
+          "like_count": 139,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086328690028208303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acriley_zc 他可能更不知道，上海交大还有暑假学期，很多学生不走，比其他大学生多上一个月的课。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086949819243995647",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 204,
+          "like_count": 9496,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 2543
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-29T04:32:07.000Z",
+        "description": "Retiring architect in China | Creator of Retune432 Radio (432Hz harmony) | Sharing AI in architecture, golf, calligraphy, music, food & slow travel adventures",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "retune432.com",
+                "end": 23,
+                "expanded_url": "https://retune432.com/",
+                "start": 0,
+                "url": "https://t.co/srul79dd6w"
+              }
+            ]
+          }
+        },
+        "id": "1840248103984869376",
+        "is_identity_verified": false,
+        "location": "Digital Zen",
+        "most_recent_tweet_id": "2086861493723918621",
+        "name": "Retune432",
+        "pinned_tweet_id": "2045449251371749785",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1840248103984869376/1773064481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045554359384326144/ZTCa9Uye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 343,
+          "like_count": 865,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/srul79dd6w",
+        "username": "Retune432",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-17T05:35:11.000Z",
+        "description": "雨は気まぐれ。/性别♂，取向女，东方project，galgame萌新，单机游戏爱好者，喜欢摇滚乐，软工在读，轻度cosplay，目前修行中......（不接受涩涩谢谢）",
+        "id": "1692047356034953216",
+        "is_identity_verified": false,
+        "location": "飞八分钱",
+        "most_recent_tweet_id": "2086886235860247036",
+        "name": "無主物",
+        "pinned_tweet_id": "2084907482410099098",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692047356034953216/1779720820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070421514869166080/pSfnOVfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 261,
+          "like_count": 11046,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 2522
+        },
+        "url": "",
+        "username": "Acriley_zc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2090035231562874890",
+    "created_at": "2026-08-20T21:29:11.000Z",
+    "display_text_range": [
+      30,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T22:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090551745139384394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1511318184653209602",
+          "start": 0,
+          "username": "GyenonggiDrugs"
+        },
+        {
+          "end": 29,
+          "id": "1769077710637375488",
+          "start": 16,
+          "username": "Overdose_BBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090551745139384394",
+    "in_reply_to_user_id": "1511318184653209602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090098980067918139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GyenonggiDrugs @Overdose_BBC 神了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2090035231562874890",
+        "created_at": "2026-08-20T21:29:11.000Z",
+        "display_text_range": [
+          30,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T22:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090551745139384394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1511318184653209602",
+              "start": 0,
+              "username": "GyenonggiDrugs"
+            },
+            {
+              "end": 29,
+              "id": "1769077710637375488",
+              "start": 16,
+              "username": "Overdose_BBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090551745139384394",
+        "in_reply_to_user_id": "1511318184653209602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090098980067918139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GyenonggiDrugs @Overdose_BBC 神了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511318184653209602",
+        "conversation_id": "2090035231562874890",
+        "created_at": "2026-08-19T15:30:03.000Z",
+        "display_text_range": [
+          14,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090098980067918139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769077710637375488",
+              "start": 0,
+              "username": "Overdose_BBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090098980067918139",
+        "in_reply_to_user_id": "1769077710637375488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1626,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090035231562874890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_BBC 孩子，您需要专业的戒毒设施帮助，阳光终会向你伸出双手拥抱戒毒的你，京畿道毒检家会成为您戒毒路上的陪伴者💪💪💪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090551745139384394",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 254,
+          "like_count": 10144,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2783
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-05T12:22:11.000Z",
+        "description": "解读毒物检测相关资讯，奉献反毒专业见解价值，与禁毒者共成长，与一切毒物为敌。\n微信公众号：京畿道毒检家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mp.weixin.qq.com/s/pX4ZLCMefr2T…",
+                "end": 23,
+                "expanded_url": "https://mp.weixin.qq.com/s/pX4ZLCMefr2TBq3QXlzaAw",
+                "start": 0,
+                "url": "https://t.co/TWviCmLe2N"
+              }
+            ]
+          }
+        },
+        "id": "1511318184653209602",
+        "is_identity_verified": false,
+        "location": "Korea",
+        "most_recent_tweet_id": "2090391437582225830",
+        "name": "京畿道毒检家",
+        "pinned_tweet_id": "2090378844326986105",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090011144727764993/rnxRWgm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 31,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/TWviCmLe2N",
+        "username": "GyenonggiDrugs",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T19:06:21.000Z",
+        "description": "购物tg联系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kanaiilq",
+                "end": 23,
+                "expanded_url": "http://t.me/Kanaiilq",
+                "start": 0,
+                "url": "https://t.co/9XO2VH0mKW"
+              }
+            ]
+          }
+        },
+        "id": "1769077710637375488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090111574635897199",
+        "name": "Kanaiilq",
+        "pinned_tweet_id": "2052088814404051447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769077710637375488/1761925144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083976667530452992/2urTEqqi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 444,
+          "like_count": 2078,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1027
+        },
+        "url": "https://t.co/9XO2VH0mKW",
+        "username": "Overdose_BBC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

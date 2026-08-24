@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2085285639055196311",
+    "created_at": "2026-08-07T07:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085622149721796610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "982859212106563585",
+          "start": 0,
+          "username": "AJ4N3_A4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085622149721796610",
+    "in_reply_to_user_id": "982859212106563585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085285639055196311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AJ4N3_A4 看着更生动了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085285620705042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBsOUVaoAAArfw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085285620692484096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBsOUSbAAA1DEp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085285639055196311",
+        "created_at": "2026-08-07T07:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085622149721796610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "982859212106563585",
+              "start": 0,
+              "username": "AJ4N3_A4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085622149721796610",
+        "in_reply_to_user_id": "982859212106563585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085285639055196311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AJ4N3_A4 看着更生动了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085285620705042432",
+            "3_2085285620692484096"
+          ]
+        },
+        "author_id": "982859212106563585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085285639055196311",
+        "created_at": "2026-08-06T08:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085285639055196311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F5w7ny6YiS",
+              "end": 76,
+              "expanded_url": "https://x.com/AJ4N3_A4/status/2085285639055196311/photo/1",
+              "media_key": "3_2085285620705042432",
+              "start": 53,
+              "url": "https://t.co/F5w7ny6YiS"
+            },
+            {
+              "display_url": "pic.x.com/F5w7ny6YiS",
+              "end": 76,
+              "expanded_url": "https://x.com/AJ4N3_A4/status/2085285639055196311/photo/1",
+              "media_key": "3_2085285620692484096",
+              "start": 53,
+              "url": "https://t.co/F5w7ny6YiS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085285639055196311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 122337,
+          "like_count": 2452,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "壓克力不耐熱別真的放煙✋😭🤚\n壓克力不耐熱別真的放煙✋😭🤚\n壓克力不耐熱別真的放煙✋😭🤚\n\n壓克力廠商： https://t.co/F5w7ny6YiS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 193,
+          "like_count": 9253,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2424
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-08T05:54:31.000Z",
+        "description": "想畫什麼就畫什麼 目前暫時不接委託了 主要活動範圍在FB 聯絡信箱:doubleagen@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/doubleagen",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/doubleagen",
+                "start": 0,
+                "url": "https://t.co/KhJMnvKwWa"
+              }
+            ]
+          }
+        },
+        "id": "982859212106563585",
+        "location": "Taiwan",
+        "name": "AJ4N3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998305873333264384/ZthIZ57R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8473,
+          "following_count": 305,
+          "like_count": 2282,
+          "listed_count": 26,
+          "media_count": 403,
+          "tweet_count": 880
+        },
+        "url": "https://t.co/KhJMnvKwWa",
+        "username": "AJ4N3_A4",
+        "verified": false
+      }
+    ]
+  }
+}

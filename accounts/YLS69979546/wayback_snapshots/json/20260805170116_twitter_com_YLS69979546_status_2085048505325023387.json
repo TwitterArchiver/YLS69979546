@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085048499620675584"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2085048505325023387",
+    "created_at": "2026-08-05T17:01:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T18:01:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085048505325023387"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gEebszDts9",
+          "end": 27,
+          "expanded_url": "https://x.com/YLS69979546/status/2085048505325023387/photo/1",
+          "media_key": "3_2085048499620675584",
+          "start": 4,
+          "url": "https://t.co/gEebszDts9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085048505325023387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好烦躁 https://t.co/gEebszDts9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_2085048499620675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO-UkDdaAAAGnWR.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085048499620675584"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085048505325023387",
+        "created_at": "2026-08-05T17:01:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T18:01:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085048505325023387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEebszDts9",
+              "end": 27,
+              "expanded_url": "https://x.com/YLS69979546/status/2085048505325023387/photo/1",
+              "media_key": "3_2085048499620675584",
+              "start": 4,
+              "url": "https://t.co/gEebszDts9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085048505325023387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好烦躁 https://t.co/gEebszDts9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 174,
+          "like_count": 9030,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 2338
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

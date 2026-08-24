@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2087388003123798390",
+    "created_at": "2026-08-12T14:23:33.000Z",
+    "display_text_range": [
+      22,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T15:23:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087545527256928457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1913558398735663104",
+          "start": 0,
+          "username": "Herona0721"
+        },
+        {
+          "end": 21,
+          "id": "2075277404361347072",
+          "start": 12,
+          "username": "Aurvsnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087545527256928457",
+    "in_reply_to_user_id": "1913558398735663104",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087394037355741667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Herona0721 @Aurvsnow ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2087388003123798390",
+        "created_at": "2026-08-12T14:23:33.000Z",
+        "display_text_range": [
+          22,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:23:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087545527256928457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1913558398735663104",
+              "start": 0,
+              "username": "Herona0721"
+            },
+            {
+              "end": 21,
+              "id": "2075277404361347072",
+              "start": 12,
+              "username": "Aurvsnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087545527256928457",
+        "in_reply_to_user_id": "1913558398735663104",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087394037355741667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Herona0721 @Aurvsnow ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913558398735663104",
+        "conversation_id": "2087388003123798390",
+        "created_at": "2026-08-12T04:21:35.000Z",
+        "display_text_range": [
+          10,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T05:21:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087394037355741667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075277404361347072",
+              "start": 0,
+              "username": "Aurvsnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087394037355741667",
+        "in_reply_to_user_id": "2075277404361347072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26597,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087388003123798390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurvsnow 这怎么上去的😨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087545527256928457",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 219,
+          "like_count": 9612,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2589
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-19T11:41:35.000Z",
+        "description": "最喜欢的作品是超辉夜姬和魔法少女的魔女裁判🥰｜弱键盘弱体力只会一点星星的舞萌吃😢｜对理性的所有人友善🇨🇳🇰🇷🇯🇵🏳️‍🌈😘，讨厌所有军国主义法西斯🤮｜百合赛高！！！｜欢迎互fo😘",
+        "id": "1913558398735663104",
+        "is_identity_verified": false,
+        "location": "自己家",
+        "most_recent_tweet_id": "2087524314170147142",
+        "name": "赫罗娜Herona🥳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913558398735663104/1786120082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085764910672457728/Vj_7_k76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 245,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "Herona0721",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T17:55:26.000Z",
+        "description": "一個很了解自己但又愛沉溺在幻想的人\n輕微抑郁/互of\n可以倾听你的所有烦恼和伤心事\n问问题→ https://t.co/XcUpR0N7Z9\n小号@Luminbkrv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 73,
+                "username": "Luminbkrv"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurvsnow",
+                "end": 70,
+                "expanded_url": "https://ngl.link/aurvsnow",
+                "start": 47,
+                "url": "https://t.co/XcUpR0N7Z9"
+              }
+            ]
+          }
+        },
+        "id": "2075277404361347072",
+        "is_identity_verified": false,
+        "location": "广东伦敦",
+        "most_recent_tweet_id": "2087545321387929997",
+        "name": "雪还会落下",
+        "pinned_tweet_id": "2083958421850857887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075277404361347072/1786372304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084238571700154369/tRDd4k3l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 93,
+          "like_count": 1857,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 825
+        },
+        "url": "",
+        "username": "Aurvsnow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

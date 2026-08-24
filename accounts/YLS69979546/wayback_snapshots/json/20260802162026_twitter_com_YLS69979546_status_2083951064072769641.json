@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083221857109749896",
+    "created_at": "2026-08-02T16:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083951064072769641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1939632627755147264",
+          "start": 0,
+          "username": "xiaoxiongmaoTvT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083951064072769641",
+    "in_reply_to_user_id": "1939632627755147264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083221857109749896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoxiongmaoTvT 这篇帖子能缓解我的头痛，因为笑到忘记了，但是它强奸了我的眼睛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083221857109749896",
+        "created_at": "2026-08-02T16:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083951064072769641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1939632627755147264",
+              "start": 0,
+              "username": "xiaoxiongmaoTvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083951064072769641",
+        "in_reply_to_user_id": "1939632627755147264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083221857109749896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxiongmaoTvT 这篇帖子能缓解我的头痛，因为笑到忘记了，但是它强奸了我的眼睛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939632627755147264",
+        "conversation_id": "2083221857109749896",
+        "created_at": "2026-07-31T16:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083221857109749896"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083221857109749896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 390,
+          "impression_count": 1991205,
+          "like_count": 4634,
+          "quote_count": 14,
+          "reply_count": 907,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "我还蛮好奇的。肛交被唧唧操和被一根硬硬的雷霆巨屎操有什么体感上的区别吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 169,
+          "like_count": 8703,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2040
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T10:30:49.000Z",
+        "description": "咪只是咪\n\n只过互关@tiantianmaoovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "tiantianmaoovo"
+              }
+            ]
+          }
+        },
+        "id": "1939632627755147264",
+        "name": "天才咪",
+        "pinned_tweet_id": "2078535416467353637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064203778791018496/UvaKQuWh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6523,
+          "following_count": 903,
+          "like_count": 9519,
+          "listed_count": 5,
+          "media_count": 494,
+          "tweet_count": 6944
+        },
+        "url": "",
+        "username": "xiaoxiongmaoTvT",
+        "verified": false
+      }
+    ]
+  }
+}

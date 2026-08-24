@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2087616749617455585",
+    "created_at": "2026-08-12T19:06:33.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087616749617455585"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuki132831/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Yuki132831/status/2087607243390718022",
+          "start": 24,
+          "url": "https://t.co/0sXfqXmwey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087616749617455585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087607243390718022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赶紧把毒贩放出来发毒品，这么苦的生活要累死我吗 https://t.co/0sXfqXmwey"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2087616749617455585",
+        "created_at": "2026-08-12T19:06:33.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087616749617455585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki132831/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Yuki132831/status/2087607243390718022",
+              "start": 24,
+              "url": "https://t.co/0sXfqXmwey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087616749617455585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087607243390718022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赶紧把毒贩放出来发毒品，这么苦的生活要累死我吗 https://t.co/0sXfqXmwey"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084973651229626368",
+        "conversation_id": "2087607243390718022",
+        "created_at": "2026-08-12T18:28:47.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T19:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087607243390718022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_weiwudage/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/_weiwudage/status/2087603995154190585",
+              "start": 24,
+              "url": "https://t.co/8pU55mqDNs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087607243390718022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087603995154190585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赶紧把毒贩放出来发毒品，这么苦的生活要累死我吗 https://t.co/8pU55mqDNs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087616749617455585",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 221,
+          "like_count": 9651,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2598
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T12:04:41.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n前世@Yuki312813 @Yuki281331 \n备用@Yuki283113",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "Yuki312813"
+              },
+              {
+                "end": 41,
+                "start": 30,
+                "username": "Yuki281331"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Yuki283113"
+              }
+            ]
+          }
+        },
+        "id": "2084973651229626368",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2087611685783667105",
+        "name": "岐哥，梦想吐了。3.0。",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084973651229626368/1785932825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085301763590987776/Dysa2o87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 298,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "Yuki132831",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

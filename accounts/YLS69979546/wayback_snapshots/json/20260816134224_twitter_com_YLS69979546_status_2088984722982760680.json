@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088984715265273856"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2088984722982760680",
+    "created_at": "2026-08-16T13:42:24.000Z",
+    "display_text_range": [
+      0,
+      178
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088984722982760680"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "評估您的個性特徵和心理傾向，涵蓋 11 個關鍵維度，包括情緒穩定性、社交行為和身份模式。",
+          "display_url": "arealme.com/multiphasic-pe…",
+          "end": 178,
+          "expanded_url": "https://www.arealme.com/multiphasic-personality-test/zh/",
+          "start": 155,
+          "status": 200,
+          "title": "多相人格測驗",
+          "unwound_url": "https://www.arealme.com/multiphasic-personality-test/zh/",
+          "url": "https://t.co/MOJ4ageFKV"
+        },
+        {
+          "display_url": "pic.x.com/rUodheZYlH",
+          "end": 202,
+          "expanded_url": "https://x.com/YLS69979546/status/2088984722982760680/photo/1",
+          "media_key": "3_2088984715265273856",
+          "start": 179,
+          "url": "https://t.co/rUodheZYlH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088984722982760680",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088984715265273856"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的多相人格測驗結果是：可靠性: 100%, 強迫性焦慮: 75%, 社交內向: 72%, 抑鬱: 71%, 歇斯底里: 65%, 男性認同: 60%, 輕躁狂: 55%, 精神分裂: 53%, 精神病態偏差: 44%, 偏執: 37%, 女性認同: 36%, 疑病症: 33%。你的性格特徵如何？來測測看！ https://t.co/MOJ4ageFKV https://t.co/rUodheZYlH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2088984715265273856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2Qh9abcAApOwM.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088984715265273856"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2088984722982760680",
+        "created_at": "2026-08-16T13:42:24.000Z",
+        "display_text_range": [
+          0,
+          178
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088984722982760680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "評估您的個性特徵和心理傾向，涵蓋 11 個關鍵維度，包括情緒穩定性、社交行為和身份模式。",
+              "display_url": "arealme.com/multiphasic-pe…",
+              "end": 178,
+              "expanded_url": "https://www.arealme.com/multiphasic-personality-test/zh/",
+              "start": 155,
+              "status": 200,
+              "title": "多相人格測驗",
+              "unwound_url": "https://www.arealme.com/multiphasic-personality-test/zh/",
+              "url": "https://t.co/MOJ4ageFKV"
+            },
+            {
+              "display_url": "pic.x.com/rUodheZYlH",
+              "end": 202,
+              "expanded_url": "https://x.com/YLS69979546/status/2088984722982760680/photo/1",
+              "media_key": "3_2088984715265273856",
+              "start": 179,
+              "url": "https://t.co/rUodheZYlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088984722982760680",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088984715265273856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的多相人格測驗結果是：可靠性: 100%, 強迫性焦慮: 75%, 社交內向: 72%, 抑鬱: 71%, 歇斯底里: 65%, 男性認同: 60%, 輕躁狂: 55%, 精神分裂: 53%, 精神病態偏差: 44%, 偏執: 37%, 女性認同: 36%, 疑病症: 33%。你的性格特徵如何？來測測看！ https://t.co/MOJ4ageFKV https://t.co/rUodheZYlH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088984722982760680",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 240,
+          "like_count": 9860,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 2669
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

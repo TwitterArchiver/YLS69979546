@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084504365793153278",
+    "created_at": "2026-08-04T05:04:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T06:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084505745727582706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2072375562291875840",
+          "start": 0,
+          "username": "cpa1cap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084505745727582706",
+    "in_reply_to_user_id": "2072375562291875840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084504365793153278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cpa1cap 算盘珠子都崩医生脸上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2084504316791119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2loccaYAAKy3V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084504365793153278",
+        "created_at": "2026-08-04T05:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084505745727582706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2072375562291875840",
+              "start": 0,
+              "username": "cpa1cap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084505745727582706",
+        "in_reply_to_user_id": "2072375562291875840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084504365793153278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cpa1cap 算盘珠子都崩医生脸上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084504316791119872"
+          ]
+        },
+        "author_id": "2072375562291875840",
+        "conversation_id": "2084504365793153278",
+        "created_at": "2026-08-04T04:59:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084504365793153278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PmvMVGmGmH",
+              "end": 44,
+              "expanded_url": "https://x.com/cpa1cap/status/2084504365793153278/photo/1",
+              "media_key": "3_2084504316791119872",
+              "start": 21,
+              "url": "https://t.co/PmvMVGmGmH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084504365793153278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生我吃sns导致带状疱疹，你看能不能🤤 https://t.co/PmvMVGmGmH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 170,
+          "like_count": 8889,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2232
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-01T17:45:42.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo）",
+        "id": "2072375562291875840",
+        "name": "担麦人2.0",
+        "pinned_tweet_id": "2083452030560108689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083456857591672833/BqnaG2AV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 177,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "cpa1cap",
+        "verified": false
+      }
+    ]
+  }
+}

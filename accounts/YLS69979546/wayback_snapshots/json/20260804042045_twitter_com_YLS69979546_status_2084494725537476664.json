@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084494725537476664",
+    "created_at": "2026-08-04T04:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084494725537476664"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2083942298656850396",
+          "start": 31,
+          "url": "https://t.co/IQeIbDfygE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084494725537476664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083942298656850396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在直接不敢进行此事，我怕自己搞过头，或者冲动给自己内啥了 https://t.co/IQeIbDfygE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084494725537476664",
+        "created_at": "2026-08-04T04:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084494725537476664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2083942298656850396",
+              "start": 31,
+              "url": "https://t.co/IQeIbDfygE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084494725537476664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083942298656850396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在直接不敢进行此事，我怕自己搞过头，或者冲动给自己内啥了 https://t.co/IQeIbDfygE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083942298656850396",
+        "created_at": "2026-08-02T15:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083942298656850396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083942298656850396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2687,
+          "like_count": 24,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想强制命令身体分泌一点内啡肽了，懂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 170,
+          "like_count": 8886,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2231
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

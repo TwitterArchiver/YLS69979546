@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090211531313369088"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2090211537462161476",
+    "created_at": "2026-08-19T22:57:19.000Z",
+    "display_text_range": [
+      0,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T23:57:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090211537462161476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TXPpisL6PV",
+          "end": 50,
+          "expanded_url": "https://x.com/YLS69979546/status/2090211537462161476/photo/1",
+          "media_key": "3_2090211531313369088",
+          "start": 27,
+          "url": "https://t.co/TXPpisL6PV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090211537462161476",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090211531313369088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个普瑞和阿普是药引子来着的，嗯造彩虹跟我彻底磕大了 https://t.co/TXPpisL6PV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2090211531313369088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHsUDVb0AA8itl.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090211531313369088"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2090211537462161476",
+        "created_at": "2026-08-19T22:57:19.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T23:57:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090211537462161476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXPpisL6PV",
+              "end": 50,
+              "expanded_url": "https://x.com/YLS69979546/status/2090211537462161476/photo/1",
+              "media_key": "3_2090211531313369088",
+              "start": 27,
+              "url": "https://t.co/TXPpisL6PV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090211537462161476",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090211531313369088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个普瑞和阿普是药引子来着的，嗯造彩虹跟我彻底磕大了 https://t.co/TXPpisL6PV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090211537462161476",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 252,
+          "like_count": 10068,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 2765
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083058470144880986",
+    "created_at": "2026-07-31T05:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T06:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083058470144880986"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 59,
+          "tag": "shtw"
+        },
+        {
+          "end": 71,
+          "start": 65,
+          "tag": "shtwt"
+        },
+        {
+          "end": 117,
+          "start": 72,
+          "tag": "shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1989205606125957120",
+          "start": 3,
+          "username": "shyra_ao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/THfycGXP",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/THfycGXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083058470144880986",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 769
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082712267171270669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shyra_ao: had some fun with friends^^ \nFAKE BLOOD!!⚠️\n\n#shtw #shtwt #shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる https://t.co/THfycGXP…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1549,
+        "media_key": "3_2082712260523290624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdHxCnXcAA0tYa.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1557,
+        "media_key": "3_2082712260514881536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdHxClXIAAKYkC.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1539,
+        "media_key": "3_2082712260519100416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdHxCmXgAAr7A8.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083058470144880986",
+        "created_at": "2026-07-31T05:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083058470144880986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "shtw"
+            },
+            {
+              "end": 71,
+              "start": 65,
+              "tag": "shtwt"
+            },
+            {
+              "end": 117,
+              "start": 72,
+              "tag": "shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1989205606125957120",
+              "start": 3,
+              "username": "shyra_ao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/THfycGXP",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/THfycGXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083058470144880986",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 769
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082712267171270669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shyra_ao: had some fun with friends^^ \nFAKE BLOOD!!⚠️\n\n#shtw #shtwt #shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる https://t.co/THfycGXP…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082712260523290624",
+            "3_2082712260514881536",
+            "3_2082712260519100416"
+          ]
+        },
+        "author_id": "1989205606125957120",
+        "conversation_id": "2082712267171270669",
+        "created_at": "2026-07-30T06:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082712267171270669"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "shtw"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "shtwt"
+            },
+            {
+              "end": 103,
+              "start": 58,
+              "tag": "shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/THfycGXPaK",
+              "end": 127,
+              "expanded_url": "https://x.com/shyra_ao/status/2082712267171270669/photo/1",
+              "media_key": "3_2082712260523290624",
+              "start": 104,
+              "url": "https://t.co/THfycGXPaK"
+            },
+            {
+              "display_url": "pic.x.com/THfycGXPaK",
+              "end": 127,
+              "expanded_url": "https://x.com/shyra_ao/status/2082712267171270669/photo/1",
+              "media_key": "3_2082712260514881536",
+              "start": 104,
+              "url": "https://t.co/THfycGXPaK"
+            },
+            {
+              "display_url": "pic.x.com/THfycGXPaK",
+              "end": 127,
+              "expanded_url": "https://x.com/shyra_ao/status/2082712267171270669/photo/1",
+              "media_key": "3_2082712260519100416",
+              "start": 104,
+              "url": "https://t.co/THfycGXPaK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082712267171270669",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 782,
+          "impression_count": 53597,
+          "like_count": 7684,
+          "quote_count": 49,
+          "reply_count": 55,
+          "retweet_count": 769
+        },
+        "reply_settings": "everyone",
+        "text": "had some fun with friends^^ \nFAKE BLOOD!!⚠️\n\n#shtw #shtwt #shtなりきりさんがrtしてくれてそれを見たshtなりきりさんがきっとフォローしてくれる https://t.co/THfycGXPaK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 163,
+          "like_count": 8525,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1838
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T05:36:05.000Z",
+        "description": "≽^•⩊•^≼ ₊˚⊹♡",
+        "id": "1989205606125957120",
+        "name": "shyraaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989213157169025024/NVoYjB-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 12,
+          "like_count": 3380,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "shyra_ao",
+        "verified": false
+      }
+    ]
+  }
+}

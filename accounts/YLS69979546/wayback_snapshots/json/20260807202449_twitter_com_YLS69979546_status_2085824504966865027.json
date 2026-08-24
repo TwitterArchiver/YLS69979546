@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2085824504966865027",
+    "created_at": "2026-08-07T20:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T21:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085824504966865027"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2085810315825181130",
+          "start": 65,
+          "url": "https://t.co/R8DFvxANCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085824504966865027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085810315825181130",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我真的觉得我大半夜以一个安眠药的代谢为例，和ai进行无限展开的药理讨论这回事有点地狱，谁家好人大半夜不睡觉翻安眠药的说明书出来看 https://t.co/R8DFvxANCN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085824504966865027",
+        "created_at": "2026-08-07T20:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T21:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085824504966865027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2085810315825181130",
+              "start": 65,
+              "url": "https://t.co/R8DFvxANCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085824504966865027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085810315825181130",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的觉得我大半夜以一个安眠药的代谢为例，和ai进行无限展开的药理讨论这回事有点地狱，谁家好人大半夜不睡觉翻安眠药的说明书出来看 https://t.co/R8DFvxANCN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085810315825181130",
+        "created_at": "2026-08-07T19:28:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T20:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085810315825181130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085810315825181130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大半夜突然开始研究药理学，翻了好几个说明书出来看，并且剧烈想找人讨论，但是没人可以讨论，于是开始和我某些不磕药不系度的朋友大讲特讲，朋友：你学啥专业的咋懂这么多，我：某某管理，天坑啊！天坑！过会继续大讲特讲药理学问题，他们可能只是觉得我兴趣冷门吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 199,
+          "like_count": 9312,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 2459
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

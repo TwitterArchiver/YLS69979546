@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083958139058335917",
+    "created_at": "2026-08-02T16:48:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:48:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083958139058335917"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 100,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2083942298656850396",
+          "start": 77,
+          "url": "https://t.co/IQeIbDg66c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083958139058335917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083942298656850396",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我发现我能疼很久诶，疼痛能促进分泌内啡肽，但是因为阿片系统适应性改变所以分泌也没用，继续疼痛又可以分泌内啡肽，内啡肽循环ing，好玩\n身体：你在耍我吗😡 https://t.co/IQeIbDg66c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083958139058335917",
+        "created_at": "2026-08-02T16:48:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083958139058335917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2083942298656850396",
+              "start": 77,
+              "url": "https://t.co/IQeIbDg66c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083958139058335917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083942298656850396",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现我能疼很久诶，疼痛能促进分泌内啡肽，但是因为阿片系统适应性改变所以分泌也没用，继续疼痛又可以分泌内啡肽，内啡肽循环ing，好玩\n身体：你在耍我吗😡 https://t.co/IQeIbDg66c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083942298656850396",
+        "created_at": "2026-08-02T15:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083942298656850396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083942298656850396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想强制命令身体分泌一点内啡肽了，懂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 169,
+          "like_count": 8714,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2043
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

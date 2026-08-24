@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083938517600882752",
+    "created_at": "2026-08-02T15:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083939011765403717"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083939011765403717",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083938517600882752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "主要是不想吃那个丙戊酸钠，虽然没有证据但听说过它影响普瑞等药物的作用，我可以不od但我得有od的权力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083938517600882752",
+        "created_at": "2026-08-02T15:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083939011765403717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083939011765403717",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083938517600882752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "主要是不想吃那个丙戊酸钠，虽然没有证据但听说过它影响普瑞等药物的作用，我可以不od但我得有od的权力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083938517600882752",
+        "created_at": "2026-08-02T15:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083938517600882752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2083910516075085868",
+              "start": 141,
+              "url": "https://t.co/3HS1B689yb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083938517600882752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083910516075085868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现了一点，我现在的状态其实有点像躁狂，抑郁混合发作，我应该没有双相，但因为某些原因导致过混合状态（也可能有但有的概率不大）那是不是该吃那个时候医生开的药，情绪稳定剂+喹硫平，但是情绪稳定剂我觉得一定程度上是为了避免患者社会危害的，我都不咋出门我觉得我没啥社会危害，最多在家吵个架 https://t.co/3HS1B689yb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 169,
+          "like_count": 8694,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2029
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

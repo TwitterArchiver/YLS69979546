@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2090040718043844902",
+    "created_at": "2026-08-21T12:09:19.000Z",
+    "display_text_range": [
+      26,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090773236917420374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1567443908413489152",
+          "start": 0,
+          "username": "xiz04336134"
+        },
+        {
+          "end": 25,
+          "id": "1946132863457595392",
+          "start": 13,
+          "username": "AmieReineke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090773236917420374",
+    "in_reply_to_user_id": "1567443908413489152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090671280815219199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiz04336134 @AmieReineke 我是阿片配阿普，戒阿片的时候继续吃阿普，最后bzd依赖吃出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2090040718043844902",
+        "created_at": "2026-08-21T12:09:19.000Z",
+        "display_text_range": [
+          26,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090773236917420374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1567443908413489152",
+              "start": 0,
+              "username": "xiz04336134"
+            },
+            {
+              "end": 25,
+              "id": "1946132863457595392",
+              "start": 13,
+              "username": "AmieReineke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090773236917420374",
+        "in_reply_to_user_id": "1567443908413489152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090671280815219199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiz04336134 @AmieReineke 我是阿片配阿普，戒阿片的时候继续吃阿普，最后bzd依赖吃出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567443908413489152",
+        "conversation_id": "2090040718043844902",
+        "created_at": "2026-08-21T05:24:10.000Z",
+        "display_text_range": [
+          26,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090671280815219199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 25,
+              "id": "1946132863457595392",
+              "start": 13,
+              "username": "AmieReineke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090671280815219199",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090400042008137912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @AmieReineke 我之前是用普瑞戒苯二氮卓 用阿片戒普瑞 现在还在硬抗阿片戒断"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090773236917420374",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 254,
+          "like_count": 10150,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 2787
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-07T09:25:49.000Z",
+        "description": "06 163cm 42公斤 结城理单推",
+        "id": "1567443908413489152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090671699964633284",
+        "name": "雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567443908413489152/1763375031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058148120815693824/eyzBunCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 8,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 40
+        },
+        "url": "",
+        "username": "xiz04336134",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T09:00:21.000Z",
+        "description": "我只是呆着……\n前世：@classictramp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "classictramp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/2RVYUQ69UEC4A?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/xhKiFIVG4p"
+              }
+            ]
+          }
+        },
+        "id": "1946132863457595392",
+        "is_identity_verified": false,
+        "location": "Stuart, FL",
+        "most_recent_tweet_id": "2090772078073106653",
+        "name": "ww",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946132863457595392/1784302533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 78,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 146
+        },
+        "url": "https://t.co/xhKiFIVG4p",
+        "username": "AmieReineke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

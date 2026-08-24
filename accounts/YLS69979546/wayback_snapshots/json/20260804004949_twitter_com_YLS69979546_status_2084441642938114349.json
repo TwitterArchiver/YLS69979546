@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084416360424362086",
+    "created_at": "2026-08-04T00:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084441642938114349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084441642938114349",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084416360424362086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二次就是现在戒阿片戒出来的，给我干懵逼了，我是什么躁狂，抑郁易触发体质吗，之前还在想对比混合状态其实戒断反应抑郁可能没那么难受，结果马上混合发作给我看\n不过既然是有诱因的，那诱因消失之后应该会自动好，跟停ssri之后一样，所以忍几天应该就好了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084416360424362086",
+        "created_at": "2026-08-04T00:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084441642938114349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084441642938114349",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084416360424362086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二次就是现在戒阿片戒出来的，给我干懵逼了，我是什么躁狂，抑郁易触发体质吗，之前还在想对比混合状态其实戒断反应抑郁可能没那么难受，结果马上混合发作给我看\n不过既然是有诱因的，那诱因消失之后应该会自动好，跟停ssri之后一样，所以忍几天应该就好了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084416360424362086",
+        "created_at": "2026-08-03T23:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084416360424362086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084416360424362086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我变双相了，大多数时候是躁狂，但在短时间内会突然进入极度的抑郁，想瞬间死掉的那种，然后过不了多久恢复躁狂，混合发作状态并且伴随焦虑，当然躁狂或者混合状态都不代表双相尤其是有诱因的，我两次这种状态都是有诱因的，所以我并不等于有双相只是状态相似"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 170,
+          "like_count": 8870,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2211
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

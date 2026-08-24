@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2091068236335091821",
+    "created_at": "2026-08-22T13:41:14.000Z",
+    "display_text_range": [
+      8,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T14:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091158757434913153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091158757434913153",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091068236335091821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 96110好像只是反诈，但换我也得吓死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091068228919566336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQT3eanbIAA8UtX.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2091068236335091821",
+        "created_at": "2026-08-22T13:41:14.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T14:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091158757434913153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091158757434913153",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091068236335091821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 96110好像只是反诈，但换我也得吓死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091068228919566336"
+          ]
+        },
+        "author_id": "1560129932524544000",
+        "conversation_id": "2091068236335091821",
+        "created_at": "2026-08-22T07:41:32.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091068236335091821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3WAUhnANoe",
+              "end": 52,
+              "expanded_url": "https://x.com/xijiu_/status/2091068236335091821/photo/1",
+              "media_key": "3_2091068228919566336",
+              "start": 29,
+              "url": "https://t.co/3WAUhnANoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091068236335091821",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091068228919566336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1207,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那一瞬间我从认罪认罚到怎么回家来瓶可溶钡餐全想了一遍🥵🫣 https://t.co/3WAUhnANoe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091158757434913153",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 258,
+          "like_count": 10223,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2802
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "is_identity_verified": false,
+        "location": "被有机实验室炸飞的电化学实验室",
+        "most_recent_tweet_id": "2091110761297055876",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560129932524544000/1742003483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3688,
+          "following_count": 860,
+          "like_count": 209840,
+          "listed_count": 3,
+          "media_count": 745,
+          "tweet_count": 10036
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

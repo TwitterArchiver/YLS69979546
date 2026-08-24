@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084715196011225310",
+    "created_at": "2026-08-04T19:05:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:05:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084717492581421547"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084717492581421547",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084716293962535317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好像就是这个原因导致我疼痛阈值特别高，尤其是对腹痛，而且还能一边疼的全身无力两腿发软一边佯装镇定，看上去啥事没有坐着上好几节课，我几乎不用非甾体类药物止痛这些对我来说只是退烧药，需要止痛的时候我会觉得这些东西一点用都没有，我觉得大抵是疼痛已经超过这些药能止痛的范围了，小痛我不吃药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084715196011225310",
+        "created_at": "2026-08-04T19:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084717492581421547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084717492581421547",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084716293962535317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像就是这个原因导致我疼痛阈值特别高，尤其是对腹痛，而且还能一边疼的全身无力两腿发软一边佯装镇定，看上去啥事没有坐着上好几节课，我几乎不用非甾体类药物止痛这些对我来说只是退烧药，需要止痛的时候我会觉得这些东西一点用都没有，我觉得大抵是疼痛已经超过这些药能止痛的范围了，小痛我不吃药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084715196011225310",
+        "created_at": "2026-08-04T19:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084716293962535317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084716293962535317",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084715196011225310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候能疼到恶心，疼到躺地上，恶心的时候我就吐口水，让口水一直往下滴，然后过会好了就起来继续之前的事，还有一次疼到半夜跑急诊结果还是啥都查不出来跟我说消化不良开了点助消化的药打发我回家了，戏剧性的是到医院不疼了好了，我也不记得这个持续到几岁了，大概初中之后好像就很少了，它自己好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 167,
+          "like_count": 8960,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2285
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

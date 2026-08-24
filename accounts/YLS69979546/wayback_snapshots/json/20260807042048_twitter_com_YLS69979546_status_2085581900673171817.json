@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2085350290350653492",
+    "created_at": "2026-08-07T04:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085581900673171817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1907713952404193280",
+          "start": 0,
+          "username": "sleeptimes233"
+        },
+        {
+          "end": 27,
+          "id": "1870108535268487169",
+          "start": 15,
+          "username": "MomoseReina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085581900673171817",
+    "in_reply_to_user_id": "1907713952404193280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085519220276887886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sleeptimes233 @MomoseReina 长发及腰得留好几年，高一就开始留大二都未必能留这么长，说明他高中就完全不管发型，真的极其罕见了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085350290350653492",
+        "created_at": "2026-08-07T04:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085581900673171817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1907713952404193280",
+              "start": 0,
+              "username": "sleeptimes233"
+            },
+            {
+              "end": 27,
+              "id": "1870108535268487169",
+              "start": 15,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085581900673171817",
+        "in_reply_to_user_id": "1907713952404193280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085519220276887886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sleeptimes233 @MomoseReina 长发及腰得留好几年，高一就开始留大二都未必能留这么长，说明他高中就完全不管发型，真的极其罕见了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907713952404193280",
+        "conversation_id": "2085350290350653492",
+        "created_at": "2026-08-07T00:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T01:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085519220276887886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870108535268487169",
+              "start": 0,
+              "username": "MomoseReina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085519220276887886",
+        "in_reply_to_user_id": "1870108535268487169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085350290350653492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoseReina 大学不管头发不是吗？除了某些“军事化管理”学校和真的军校\n\n除了军校以外，其他的学校分数越高管的越松\n\n我们学校有一个大二退学重新高考的男生，看见照片之前，我们几乎没人想象到他在大学的时候是长发及腰的\n\n只有那种三流大学，为了装出一副自己非常重视学生的样子给家长才会严管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 192,
+          "like_count": 9214,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2406
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T08:37:22.000Z",
+        "description": "",
+        "id": "1907713952404193280",
+        "location": "Shandong",
+        "name": "Sleeptimes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084106525744762880/qyt68aGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 31,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "sleeptimes233",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T14:06:54.000Z",
+        "description": "大家好！咱是玲奈~ 想跟大家交朋友\n音游吃 | 术术人 | 技术宅 | 社恐 | 逃生舱: @NanaseReina | 🐱: @45_206MHz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "NanaseReina"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "45_206MHz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MomoseReina",
+                "end": 23,
+                "expanded_url": "https://t.me/MomoseReina",
+                "start": 0,
+                "url": "https://t.co/OdaAdEyfwc"
+              }
+            ]
+          }
+        },
+        "id": "1870108535268487169",
+        "location": "舞萌DX 2026",
+        "name": "桃濑玲奈",
+        "pinned_tweet_id": "1979966539353989565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039367447946665985/gYaQo32t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 344,
+          "like_count": 9746,
+          "listed_count": 5,
+          "media_count": 453,
+          "tweet_count": 6935
+        },
+        "url": "https://t.co/OdaAdEyfwc",
+        "username": "MomoseReina",
+        "verified": true
+      }
+    ]
+  }
+}

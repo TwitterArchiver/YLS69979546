@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079525116011315536",
+    "created_at": "2026-07-21T12:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079543635113349490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810616157059301376",
+          "start": 0,
+          "username": "Bocchi_Kk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079543635113349490",
+    "in_reply_to_user_id": "1810616157059301376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079525116011315536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bocchi_Kk1 才4mg吗原来，奇怪我喝100ml真的有药效"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2079523878414786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNvz8xrbIAAPAL0.png",
+        "width": 1380
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079525116011315536",
+        "created_at": "2026-07-21T12:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079543635113349490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810616157059301376",
+              "start": 0,
+              "username": "Bocchi_Kk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079543635113349490",
+        "in_reply_to_user_id": "1810616157059301376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079525116011315536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bocchi_Kk1 才4mg吗原来，奇怪我喝100ml真的有药效"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079523878414786560"
+          ]
+        },
+        "author_id": "1810616157059301376",
+        "conversation_id": "2079525116011315536",
+        "created_at": "2026-07-21T11:13:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:13:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079525116011315536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ROYph9d9aZ",
+              "end": 159,
+              "expanded_url": "https://x.com/Bocchi_Kk1/status/2079525116011315536/photo/1",
+              "media_key": "3_2079523878414786560",
+              "start": 136,
+              "url": "https://t.co/ROYph9d9aZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079525116011315536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强力枇杷露或许是一个很好的阿片类药物(前提是能忍着恶心喝下去)，一项研究可以说明每100mL强力枇杷露有着4mg的吗啡，pdd上售价也很便宜，该研究检测了12批无糖型强力枇杷露样品，测得其吗啡的平均含量为0.0402 mg/mL\n期刊：《中药材》2024年第47卷第7期 https://t.co/ROYph9d9aZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 142,
+          "like_count": 7856,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T10:05:14.000Z",
+        "description": "09/od/互fo/中抑中焦",
+        "id": "1810616157059301376",
+        "location": "你家",
+        "name": "可爱波奇大王💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 125,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "Bocchi_Kk1",
+        "verified": false
+      }
+    ]
+  }
+}

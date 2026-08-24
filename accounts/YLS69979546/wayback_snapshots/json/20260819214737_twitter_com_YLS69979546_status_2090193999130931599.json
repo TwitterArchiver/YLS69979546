@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090193992235593728"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2090188262841393659",
+    "created_at": "2026-08-19T21:47:37.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090193999130931599"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gq5XpyUwrE",
+          "end": 32,
+          "expanded_url": "https://x.com/YLS69979546/status/2090193999130931599/photo/1",
+          "media_key": "3_2090193992235593728",
+          "start": 9,
+          "url": "https://t.co/Gq5XpyUwrE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090193999130931599",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090193992235593728"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090188262841393659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纯纯的抑制剂套餐 https://t.co/Gq5XpyUwrE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2090193992235593728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHcXJLbsAA_Azj.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2510,
+        "media_key": "3_2090188256340328448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQHXJRTbwAA4wnc.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090193992235593728"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2090188262841393659",
+        "created_at": "2026-08-19T21:47:37.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090193999130931599"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gq5XpyUwrE",
+              "end": 32,
+              "expanded_url": "https://x.com/YLS69979546/status/2090193999130931599/photo/1",
+              "media_key": "3_2090193992235593728",
+              "start": 9,
+              "url": "https://t.co/Gq5XpyUwrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090193999130931599",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090193992235593728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090188262841393659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯纯的抑制剂套餐 https://t.co/Gq5XpyUwrE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090188256340328448"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2090188262841393659",
+        "created_at": "2026-08-19T21:24:50.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090188262841393659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iTcwkrXA5r",
+              "end": 32,
+              "expanded_url": "https://x.com/YLS69979546/status/2090188262841393659/photo/1",
+              "media_key": "3_2090188256340328448",
+              "start": 9,
+              "url": "https://t.co/iTcwkrXA5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090188262841393659",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090188256340328448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又开始了，有点爽 https://t.co/iTcwkrXA5r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090193999130931599",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 252,
+          "like_count": 10068,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2764
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

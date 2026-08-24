@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084044623652253705",
+    "created_at": "2026-08-02T22:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084044623652253705"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2084015618978922873",
+          "start": 138,
+          "url": "https://t.co/iT6t6IG7Bv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084044623652253705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084015618978922873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我一直在回味这个感觉，真的就是那种毒虫断药折磨的死去活来然后拿到药瑟瑟发抖的给自己注射，然后爽得不行，翻白眼吐舌头啥的，我真理解那种描绘了，因为真的爽，千万无语总结为一个字，爽，太踏马的爽了，最爽的只有两次，一个是第一次体验，一个是强烈戒断的时候来一点，这种感觉是无法形容的 https://t.co/iT6t6IG7Bv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084044623652253705",
+        "created_at": "2026-08-02T22:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084044623652253705"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2084015618978922873",
+              "start": 138,
+              "url": "https://t.co/iT6t6IG7Bv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084044623652253705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084015618978922873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直在回味这个感觉，真的就是那种毒虫断药折磨的死去活来然后拿到药瑟瑟发抖的给自己注射，然后爽得不行，翻白眼吐舌头啥的，我真理解那种描绘了，因为真的爽，千万无语总结为一个字，爽，太踏马的爽了，最爽的只有两次，一个是第一次体验，一个是强烈戒断的时候来一点，这种感觉是无法形容的 https://t.co/iT6t6IG7Bv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084015618978922873",
+        "created_at": "2026-08-02T20:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084015618978922873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2084007102440481007",
+              "start": 98,
+              "url": "https://t.co/KWCfj1zQfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084015618978922873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084007102440481007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20mg多点的1161计划静脉注射一半肌注一半，静脉注射完之后直接要爽死了，比无耐受的时候注射20mg还要爽，爽得要哭出来了，太爽了，感觉1161这个物质第一次让我这么爽，戒断你好牛逼，真的好爽 https://t.co/KWCfj1zQfT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 169,
+          "like_count": 8748,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 2074
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

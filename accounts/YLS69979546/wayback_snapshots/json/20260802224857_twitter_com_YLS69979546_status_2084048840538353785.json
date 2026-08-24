@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084044623652253705",
+    "created_at": "2026-08-02T22:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084048840538353785"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084048840538353785",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084046935753896346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做回忆点就是不可追求的了，第一次阿片体验我试过了确实是目前来说不可追求的，快感可以被超越但是一样的感觉是追求不到的，觉得今天这次也是，可能再戒一次会有同样强度但是之后就是有预期的体验，今天真没想到会这么爽，有预期是比不上无预期的，所以是不可追求的，而且就像不想再躺医院我也不想再戒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084044623652253705",
+        "created_at": "2026-08-02T22:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084048840538353785"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084048840538353785",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084046935753896346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做回忆点就是不可追求的了，第一次阿片体验我试过了确实是目前来说不可追求的，快感可以被超越但是一样的感觉是追求不到的，觉得今天这次也是，可能再戒一次会有同样强度但是之后就是有预期的体验，今天真没想到会这么爽，有预期是比不上无预期的，所以是不可追求的，而且就像不想再躺医院我也不想再戒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084044623652253705",
+        "created_at": "2026-08-02T22:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084046935753896346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084046935753896346",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084044623652253705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过这个我觉得确实会加强成瘾循环，适合先标记一个感受，然后作为回忆点而不是追求点，第一次阿片类体验基本就是个回忆点，有很多相关因素的回忆点，主要那次是完全医疗用途真只是躺医院打了一针，而且躺医院很折磨，那么现在的标记就是前后的一段历程然后作为回忆点，这样挺合适的也不容易变成瘾循环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 169,
+          "like_count": 8748,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2077
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

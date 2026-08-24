@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084416360424362086",
+    "created_at": "2026-08-04T00:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084440558203031924"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084440558203031924",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084416360424362086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次是吃ssri吃的（正常服用）开始是纯躁没法睡觉给我搞急了精卫随便挂了个能挂上的号就跑去了，然后给我开了个帕利哌酮让我ssri减量，这么吃几天变混合状态，一急又是同上操作跑精卫，又给我加喹硫平和丙戊酸钠，我踏马吃了两天烦了，直接劳资吃个屁全部停药，躁狂睡不着就喹硫平，然后反而正常多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084416360424362086",
+        "created_at": "2026-08-04T00:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084440558203031924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084440558203031924",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084416360424362086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次是吃ssri吃的（正常服用）开始是纯躁没法睡觉给我搞急了精卫随便挂了个能挂上的号就跑去了，然后给我开了个帕利哌酮让我ssri减量，这么吃几天变混合状态，一急又是同上操作跑精卫，又给我加喹硫平和丙戊酸钠，我踏马吃了两天烦了，直接劳资吃个屁全部停药，躁狂睡不着就喹硫平，然后反而正常多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084416360424362086",
+        "created_at": "2026-08-03T23:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084416360424362086"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084416360424362086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我变双相了，大多数时候是躁狂，但在短时间内会突然进入极度的抑郁，想瞬间死掉的那种，然后过不了多久恢复躁狂，混合发作状态并且伴随焦虑，当然躁狂或者混合状态都不代表双相尤其是有诱因的，我两次这种状态都是有诱因的，所以我并不等于有双相只是状态相似"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 170,
+          "like_count": 8870,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2210
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

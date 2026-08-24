@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084287727701483690",
+    "created_at": "2026-08-03T14:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084287727701483690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084287727701483690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发表一个暴论，我觉得有的禁毒支持者尤其是国外毒品管控不严格地区的禁毒支持者可能是前吸毒人员，因为我现在戒毒戒的都感觉该支持禁毒了，限制人员对高成瘾性物质的接触是对的，尤其是对于接触过的人（吸毒人员）进行管控，因为抛开毒品我可以说自己的意志力还不错，但把毒品加进来我现在就难以相信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084287727701483690",
+        "created_at": "2026-08-03T14:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084287727701483690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084287727701483690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发表一个暴论，我觉得有的禁毒支持者尤其是国外毒品管控不严格地区的禁毒支持者可能是前吸毒人员，因为我现在戒毒戒的都感觉该支持禁毒了，限制人员对高成瘾性物质的接触是对的，尤其是对于接触过的人（吸毒人员）进行管控，因为抛开毒品我可以说自己的意志力还不错，但把毒品加进来我现在就难以相信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 169,
+          "like_count": 8793,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2131
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

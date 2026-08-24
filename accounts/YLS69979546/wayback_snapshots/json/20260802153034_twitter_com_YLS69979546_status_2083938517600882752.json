@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083938517600882752",
+    "created_at": "2026-08-02T15:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083938517600882752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2083910516075085868",
+          "start": 141,
+          "url": "https://t.co/3HS1B689yb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083938517600882752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083910516075085868",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "发现了一点，我现在的状态其实有点像躁狂，抑郁混合发作，我应该没有双相，但因为某些原因导致过混合状态（也可能有但有的概率不大）那是不是该吃那个时候医生开的药，情绪稳定剂+喹硫平，但是情绪稳定剂我觉得一定程度上是为了避免患者社会危害的，我都不咋出门我觉得我没啥社会危害，最多在家吵个架 https://t.co/3HS1B689yb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083938517600882752",
+        "created_at": "2026-08-02T15:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083938517600882752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2083910516075085868",
+              "start": 141,
+              "url": "https://t.co/3HS1B689yb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083938517600882752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083910516075085868",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发现了一点，我现在的状态其实有点像躁狂，抑郁混合发作，我应该没有双相，但因为某些原因导致过混合状态（也可能有但有的概率不大）那是不是该吃那个时候医生开的药，情绪稳定剂+喹硫平，但是情绪稳定剂我觉得一定程度上是为了避免患者社会危害的，我都不咋出门我觉得我没啥社会危害，最多在家吵个架 https://t.co/3HS1B689yb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083910516075085868",
+        "created_at": "2026-08-02T13:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083910516075085868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083910516075085868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一会剧烈难受，一会剧烈躁动，一会剧烈焦虑，一会剧烈兴奋，一会剧烈抑郁，一会剧烈疼痛，一会剧烈恶心，一会剧烈焦灼？！剧烈，剧烈！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 169,
+          "like_count": 8694,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2028
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2087086807980851322",
+    "created_at": "2026-08-11T21:03:26.000Z",
+    "display_text_range": [
+      12,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T22:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087283776355553641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753394468039131136",
+          "start": 0,
+          "username": "404Akasaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087283776355553641",
+    "in_reply_to_user_id": "1753394468039131136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087192780959547894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@404Akasaki 1t可待因12.5mg，布洛芬2000mg\n要100mg可待因的话就是8t，感觉无耐受8到10t差不多了，就是布洛芬太多了要么硬吃伤身体要么冷水萃取法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2087086807980851322",
+        "created_at": "2026-08-11T21:03:26.000Z",
+        "display_text_range": [
+          12,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T22:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087283776355553641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753394468039131136",
+              "start": 0,
+              "username": "404Akasaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087283776355553641",
+        "in_reply_to_user_id": "1753394468039131136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087192780959547894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@404Akasaki 1t可待因12.5mg，布洛芬2000mg\n要100mg可待因的话就是8t，感觉无耐受8到10t差不多了，就是布洛芬太多了要么硬吃伤身体要么冷水萃取法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753394468039131136",
+        "conversation_id": "2087086807980851322",
+        "created_at": "2026-08-11T15:01:51.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087192780959547894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087192780959547894",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087086807980851322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 洛芬待因一般几t啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087283776355553641",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 211,
+          "like_count": 9559,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 2574
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T12:26:48.000Z",
+        "description": "",
+        "id": "1753394468039131136",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087195388529050055",
+        "name": "xxxxx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753394468039131136/1765704626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002714422851309568/5uoux-f4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 187,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "404Akasaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

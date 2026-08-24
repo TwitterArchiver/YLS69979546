@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084310651258994688"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084310658083074338",
+    "created_at": "2026-08-03T16:09:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T17:09:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084310658083074338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LTnCkgb0iZ",
+          "end": 95,
+          "expanded_url": "https://x.com/YLS69979546/status/2084310658083074338/photo/1",
+          "media_key": "3_2084310651258994688",
+          "start": 72,
+          "url": "https://t.co/LTnCkgb0iZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084310658083074338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不管了，我就要截图发推\n我现在做不了任何需要静下来的事，一点也不能，只有不断表述，我真的躁狂了，感觉不是轻躁了，再躁真的来点躁狂时期吃的药了 https://t.co/LTnCkgb0iZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1164,
+        "media_key": "3_2084310651258994688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOz1foHbAAA-q0c.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084310651258994688"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084310658083074338",
+        "created_at": "2026-08-03T16:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T17:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084310658083074338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LTnCkgb0iZ",
+              "end": 95,
+              "expanded_url": "https://x.com/YLS69979546/status/2084310658083074338/photo/1",
+              "media_key": "3_2084310651258994688",
+              "start": 72,
+              "url": "https://t.co/LTnCkgb0iZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084310658083074338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不管了，我就要截图发推\n我现在做不了任何需要静下来的事，一点也不能，只有不断表述，我真的躁狂了，感觉不是轻躁了，再躁真的来点躁狂时期吃的药了 https://t.co/LTnCkgb0iZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 170,
+          "like_count": 8805,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 2159
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

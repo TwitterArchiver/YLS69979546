@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083679488630812789",
+    "created_at": "2026-08-02T01:19:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T02:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083724268979019815"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083724268979019815",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083679488630812789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然而，我还没有睡，拖太晚睡，睡不着了，我感觉到了轻微的戒断症状，我要睡觉，我只睡了两小时😫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083679488630812789",
+        "created_at": "2026-08-02T01:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T02:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083724268979019815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083724268979019815",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083679488630812789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而，我还没有睡，拖太晚睡，睡不着了，我感觉到了轻微的戒断症状，我要睡觉，我只睡了两小时😫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083679488630812789",
+        "created_at": "2026-08-01T22:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083679488630812789"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083679488630812789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "opium+0.2mgXanax+烟还是非常舒服，小爽一下，马上洗漱好好睡了，之后就是戒断反应叫我起床了，每天一次opium，明天应该最后一次了，之后就断opium了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 166,
+          "like_count": 8600,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1972
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

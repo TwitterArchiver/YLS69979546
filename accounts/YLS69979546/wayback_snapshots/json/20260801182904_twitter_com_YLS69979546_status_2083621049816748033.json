@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2082501185458868247",
+    "created_at": "2026-08-01T18:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T19:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083621049816748033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520477092751998976",
+          "start": 0,
+          "username": "3pQ8Y4t2VlI0urq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083621049816748033",
+    "in_reply_to_user_id": "1520477092751998976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083579694423982552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3pQ8Y4t2VlI0urq 苦参碱，但这玩意我怀疑买到假货了，所以我换了家重新买，对比下，看是不是假货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2082501185458868247",
+        "created_at": "2026-08-01T18:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T19:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083621049816748033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520477092751998976",
+              "start": 0,
+              "username": "3pQ8Y4t2VlI0urq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083621049816748033",
+        "in_reply_to_user_id": "1520477092751998976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083579694423982552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3pQ8Y4t2VlI0urq 苦参碱，但这玩意我怀疑买到假货了，所以我换了家重新买，对比下，看是不是假货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520477092751998976",
+        "conversation_id": "2082501185458868247",
+        "created_at": "2026-08-01T15:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083579694423982552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083579694423982552",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082502827017150769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 何物质"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 165,
+          "like_count": 8579,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1944
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-30T18:57:25.000Z",
+        "description": "精神疾病/重抑重焦/od/生命科学专业",
+        "id": "1520477092751998976",
+        "name": "时空鲨鱼皮",
+        "pinned_tweet_id": "2069463647802536373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701116063419887616/w5Q6c-uw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 301,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 259
+        },
+        "url": "",
+        "username": "3pQ8Y4t2VlI0urq",
+        "verified": false
+      }
+    ]
+  }
+}

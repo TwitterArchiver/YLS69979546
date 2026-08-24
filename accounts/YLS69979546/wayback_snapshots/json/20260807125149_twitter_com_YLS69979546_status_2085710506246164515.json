@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2085710506246164515",
+    "created_at": "2026-08-07T12:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T13:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085710506246164515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2085705973742919970",
+          "start": 58,
+          "url": "https://t.co/XYQbVVMH0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085710506246164515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085705973742919970",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是怎么感觉今天比昨天严重，睡太少了导致的吗，看来这个喹硫平是真不能停，没有喹硫平睡不了正常觉，但这药吃的我好懵逼 https://t.co/XYQbVVMH0I"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085710506246164515",
+        "created_at": "2026-08-07T12:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085710506246164515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2085705973742919970",
+              "start": 58,
+              "url": "https://t.co/XYQbVVMH0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085710506246164515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085705973742919970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是怎么感觉今天比昨天严重，睡太少了导致的吗，看来这个喹硫平是真不能停，没有喹硫平睡不了正常觉，但这药吃的我好懵逼 https://t.co/XYQbVVMH0I"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2085705973742919970",
+        "created_at": "2026-08-07T12:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T13:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085705973742919970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085705973742919970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个毒瘾，搞得我呵欠连天，打哈欠打得泪流满面，然后鼻涕直流，餐巾纸使用量大幅增加，好不容易洗了个澡没有一股毒虫味了但还是一副毒虫样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 197,
+          "like_count": 9309,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2442
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

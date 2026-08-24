@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083333985355309434",
+    "created_at": "2026-07-31T23:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T00:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083333985355309434"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2083309746703286392",
+          "start": 33,
+          "url": "https://t.co/gRWRbYbUVP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083333985355309434",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083309746703286392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不能拖延睡眠了，已经注射完有段时间了，再晚睡又要被戒断反应搞醒了 https://t.co/gRWRbYbUVP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083333985355309434",
+        "created_at": "2026-07-31T23:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T00:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083333985355309434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2083309746703286392",
+              "start": 33,
+              "url": "https://t.co/gRWRbYbUVP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083333985355309434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083309746703286392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不能拖延睡眠了，已经注射完有段时间了，再晚睡又要被戒断反应搞醒了 https://t.co/gRWRbYbUVP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083309746703286392",
+        "created_at": "2026-07-31T21:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T22:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083309746703286392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083309746703286392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "间隔八个半小时又用了一点1161，20mg左右，静脉注射一半，肌肉注射一半，终于舒服了，先享受一下然后睡觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 166,
+          "like_count": 8569,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1920
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

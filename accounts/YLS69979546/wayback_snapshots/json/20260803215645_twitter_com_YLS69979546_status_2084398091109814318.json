@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2084398089893511168"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084398091109814318",
+    "created_at": "2026-08-03T21:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T22:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084398091109814318"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084398091109814318",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "考虑一个问题ing，阿片类敏感度高，副作用不明显，耐药恢复快这些对一个oder/毒虫来说到底是好还是不好\n好处是磕的爽，可以更频繁的爽，坏处是更容易成瘾，有点好奇大家怎么看的，我自己之前非常喜欢我的此特质，但是又真的磕太上瘾了"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-08-04T21:56:45.000Z",
+        "id": "2084398089893511168",
+        "options": [
+          {
+            "label": "好😋",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "不好😡",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2084398089893511168"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084398091109814318",
+        "created_at": "2026-08-03T21:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084398091109814318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084398091109814318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "考虑一个问题ing，阿片类敏感度高，副作用不明显，耐药恢复快这些对一个oder/毒虫来说到底是好还是不好\n好处是磕的爽，可以更频繁的爽，坏处是更容易成瘾，有点好奇大家怎么看的，我自己之前非常喜欢我的此特质，但是又真的磕太上瘾了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 170,
+          "like_count": 8851,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2195
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

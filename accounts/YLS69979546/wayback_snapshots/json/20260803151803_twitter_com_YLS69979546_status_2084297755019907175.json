@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084287727701483690",
+    "created_at": "2026-08-03T15:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084297755019907175"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084297755019907175",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084296460959732143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在某些方面极度希望自己是最强的，可以付出非常多的努力，当然，这些和我的性格有关，我是一个慕强者，我有肌肉崇拜和力量崇拜，甚至在吸毒磕药方面我也有这种倾向，包括不爱低剂量，偷偷和别人比剂量，别人能戒药那我也得试试，但是我依旧没有戒毒的能力，我必须承认我无法打败心理依赖，很多时候我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084287727701483690",
+        "created_at": "2026-08-03T15:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084297755019907175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084297755019907175",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084296460959732143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在某些方面极度希望自己是最强的，可以付出非常多的努力，当然，这些和我的性格有关，我是一个慕强者，我有肌肉崇拜和力量崇拜，甚至在吸毒磕药方面我也有这种倾向，包括不爱低剂量，偷偷和别人比剂量，别人能戒药那我也得试试，但是我依旧没有戒毒的能力，我必须承认我无法打败心理依赖，很多时候我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084287727701483690",
+        "created_at": "2026-08-03T15:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084296460959732143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084296460959732143",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084295006714732597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己的意志力了，身体依赖我可以无所谓，我可以任由毒瘾折磨，折磨致死也是我咎由自取，但心理依赖我无法战胜，曾经的我觉得我的意志真的很强，我可以从嗜甜到完全戒糖（游离糖）并且保持一两年，可以坚持每天一次力量训练，一次有氧，一次复合训练以及极端饮食很长一段时间并且保持低体脂，并且我在某"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 169,
+          "like_count": 8793,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2139
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

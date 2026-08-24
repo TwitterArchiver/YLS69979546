@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084287727701483690",
+    "created_at": "2026-08-03T15:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084296460959732143"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084296460959732143",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084295006714732597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己的意志力了，身体依赖我可以无所谓，我可以任由毒瘾折磨，折磨致死也是我咎由自取，但心理依赖我无法战胜，曾经的我觉得我的意志真的很强，我可以从嗜甜到完全戒糖（游离糖）并且保持一两年，可以坚持每天一次力量训练，一次有氧，一次复合训练以及极端饮食很长一段时间并且保持低体脂，并且我在某"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084287727701483690",
+        "created_at": "2026-08-03T15:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084296460959732143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084296460959732143",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084295006714732597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己的意志力了，身体依赖我可以无所谓，我可以任由毒瘾折磨，折磨致死也是我咎由自取，但心理依赖我无法战胜，曾经的我觉得我的意志真的很强，我可以从嗜甜到完全戒糖（游离糖）并且保持一两年，可以坚持每天一次力量训练，一次有氧，一次复合训练以及极端饮食很长一段时间并且保持低体脂，并且我在某"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084287727701483690",
+        "created_at": "2026-08-03T15:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084295006714732597"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084295006714732597",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084293681142792627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也是有可能的，确实有这样的人只是非常少，但我觉得他们大多是因为各种变故或者生活突然变得美好了，人生突然出现了非常值得追求的目标才从此决心戒毒，当然也不一定，人生有无数种可能不是吗？\n但是对我而言我无法做出“我再也不吸毒了”的承诺因为我知道我兑现不了此承诺，药物让我再也不能坚信自己的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 169,
+          "like_count": 8793,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

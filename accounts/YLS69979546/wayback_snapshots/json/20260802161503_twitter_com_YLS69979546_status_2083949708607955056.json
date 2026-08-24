@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083559360807026688"
+      ],
+      "media_source_tweet_id": [
+        "2083559367845036334"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2083949708607955056",
+    "created_at": "2026-08-02T16:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T17:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083949708607955056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1427038121665961986",
+          "start": 3,
+          "username": "youngtoven4L"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JE18ASYBHg",
+          "end": 41,
+          "expanded_url": "https://x.com/youngtoven4L/status/2083559367845036334/photo/1",
+          "media_key": "3_2083559360807026688",
+          "start": 18,
+          "url": "https://t.co/JE18ASYBHg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083949708607955056",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1699
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083559367845036334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youngtoven4L: https://t.co/JE18ASYBHg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2083559360807026688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpKMxFXwAA_1W5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083559360807026688"
+          ]
+        },
+        "author_id": "1427038121665961986",
+        "conversation_id": "2083559367845036334",
+        "created_at": "2026-08-01T14:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083559367845036334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JE18ASYBHg",
+              "end": 23,
+              "expanded_url": "https://x.com/youngtoven4L/status/2083559367845036334/photo/1",
+              "media_key": "3_2083559360807026688",
+              "start": 0,
+              "url": "https://t.co/JE18ASYBHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083559367845036334",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 553,
+          "impression_count": 68298,
+          "like_count": 7926,
+          "quote_count": 27,
+          "reply_count": 10,
+          "retweet_count": 1699
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JE18ASYBHg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083559360807026688"
+          ],
+          "media_source_tweet_id": [
+            "2083559367845036334"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083949708607955056",
+        "created_at": "2026-08-02T16:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083949708607955056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1427038121665961986",
+              "start": 3,
+              "username": "youngtoven4L"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JE18ASYBHg",
+              "end": 41,
+              "expanded_url": "https://x.com/youngtoven4L/status/2083559367845036334/photo/1",
+              "media_key": "3_2083559360807026688",
+              "start": 18,
+              "url": "https://t.co/JE18ASYBHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083949708607955056",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1699
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083559367845036334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youngtoven4L: https://t.co/JE18ASYBHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 169,
+          "like_count": 8700,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2038
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T22:43:08.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/31u7igcx6…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/31u7igcx6gori724wo7lqrm5zswy?si=1a54742faca34dea",
+                "start": 0,
+                "url": "https://t.co/cj30EO9ZoQ"
+              }
+            ]
+          }
+        },
+        "id": "1427038121665961986",
+        "location": "☹️",
+        "name": "berk🧛🏾",
+        "pinned_tweet_id": "2061908158059085905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078562628847210496/ZqUJbJz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 93,
+          "like_count": 6667,
+          "listed_count": 0,
+          "media_count": 209,
+          "tweet_count": 2812
+        },
+        "url": "https://t.co/cj30EO9ZoQ",
+        "username": "youngtoven4L",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084518865959338075",
+    "created_at": "2026-08-04T06:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084520564962562234"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084520564962562234",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084518865959338075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "阿片戒断最大的死亡风险是复吸过量，我当时根本没有复吸打算，纯抑郁，焦虑，崩溃到差点跳了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2084518852516585473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2y2iPbIAE0WFm.jpg",
+        "width": 1156
+      },
+      {
+        "height": 2510,
+        "media_key": "3_2084518859412058112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2y277bsAAMqLR.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084518865959338075",
+        "created_at": "2026-08-04T06:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084520564962562234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084520564962562234",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084518865959338075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿片戒断最大的死亡风险是复吸过量，我当时根本没有复吸打算，纯抑郁，焦虑，崩溃到差点跳了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084518852516585473",
+            "3_2084518859412058112"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084518865959338075",
+        "created_at": "2026-08-04T05:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084518865959338075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zHg8vvQTmI",
+              "end": 76,
+              "expanded_url": "https://x.com/YLS69979546/status/2084518865959338075/photo/1",
+              "media_key": "3_2084518852516585473",
+              "start": 53,
+              "url": "https://t.co/zHg8vvQTmI"
+            },
+            {
+              "display_url": "pic.x.com/zHg8vvQTmI",
+              "end": 76,
+              "expanded_url": "https://x.com/YLS69979546/status/2084518865959338075/photo/1",
+              "media_key": "3_2084518859412058112",
+              "start": 53,
+              "url": "https://t.co/zHg8vvQTmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084518865959338075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他娘的我在问gpt这些东西（关于戒断的致死率和zi sha率）总结是除了大麻和尼古丁，都容易zi sha https://t.co/zHg8vvQTmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 170,
+          "like_count": 8895,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2237
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

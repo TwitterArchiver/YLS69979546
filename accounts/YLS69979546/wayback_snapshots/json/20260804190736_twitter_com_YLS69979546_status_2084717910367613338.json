@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084715196011225310",
+    "created_at": "2026-08-04T19:07:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T20:07:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084717910367613338"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084717910367613338",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084717492581421547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以特么的等我需要止痛的时候，我大抵是需要阿片类，而不是布洛芬，对乙酰氨基酚……需要这些药的疼痛我一般不管，随他去，直接爱痛不痛，反正痛不死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084715196011225310",
+        "created_at": "2026-08-04T19:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084717910367613338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084717910367613338",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084717492581421547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以特么的等我需要止痛的时候，我大抵是需要阿片类，而不是布洛芬，对乙酰氨基酚……需要这些药的疼痛我一般不管，随他去，直接爱痛不痛，反正痛不死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084715196011225310",
+        "created_at": "2026-08-04T19:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084717492581421547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084717492581421547",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084716293962535317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好像就是这个原因导致我疼痛阈值特别高，尤其是对腹痛，而且还能一边疼的全身无力两腿发软一边佯装镇定，看上去啥事没有坐着上好几节课，我几乎不用非甾体类药物止痛这些对我来说只是退烧药，需要止痛的时候我会觉得这些东西一点用都没有，我觉得大抵是疼痛已经超过这些药能止痛的范围了，小痛我不吃药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 167,
+          "like_count": 8960,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2286
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

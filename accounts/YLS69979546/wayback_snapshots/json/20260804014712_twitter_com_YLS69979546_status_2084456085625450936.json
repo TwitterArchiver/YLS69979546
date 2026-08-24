@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084456085625450936",
+    "created_at": "2026-08-04T01:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084456085625450936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2084451607140532307",
+          "start": 135,
+          "url": "https://t.co/VlydtKL5EK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084456085625450936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084451607140532307",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道我得靠解离剂戒阿片吗，戒断导致我抑郁，躁狂混合，抑郁太严重了，直接剧烈想死只希望立马结束一切，同时我动不了，把自己拖起来想用热来触发躁狂结果到阳台上看到外面直接联想跳下去的画面，一脑子全部都是很糟糕的东西，剧烈难受剧烈想哭但是哭不出来，然后我给自己硬拉回房吸解离剂 https://t.co/VlydtKL5EK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084456085625450936",
+        "created_at": "2026-08-04T01:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084456085625450936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2084451607140532307",
+              "start": 135,
+              "url": "https://t.co/VlydtKL5EK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084456085625450936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084451607140532307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道我得靠解离剂戒阿片吗，戒断导致我抑郁，躁狂混合，抑郁太严重了，直接剧烈想死只希望立马结束一切，同时我动不了，把自己拖起来想用热来触发躁狂结果到阳台上看到外面直接联想跳下去的画面，一脑子全部都是很糟糕的东西，剧烈难受剧烈想哭但是哭不出来，然后我给自己硬拉回房吸解离剂 https://t.co/VlydtKL5EK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084451607140532307",
+        "created_at": "2026-08-04T01:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084451607140532307"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084451607140532307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离剂，速效抗抑郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 170,
+          "like_count": 8872,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 2219
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

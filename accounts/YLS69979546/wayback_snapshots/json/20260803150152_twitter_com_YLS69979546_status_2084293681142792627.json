@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2084287727701483690",
+    "created_at": "2026-08-03T15:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084293681142792627"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084293681142792627",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084292620965072981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我都接受不了我的身份出现污点，当然这是我现在的想法，我不确定我会不会吸上什么高成瘾性的东西，然后干出什么我现在觉得绝对是个混蛋的事情\n还有我觉得几乎所有毒虫（就这么叫理解就行）说出的：我再也不吸毒了，这句话不管加了多少修饰多么撼天动地都很难是真的，当然真正的再也不想接触药物了也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084287727701483690",
+        "created_at": "2026-08-03T15:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084293681142792627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084293681142792627",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084292620965072981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都接受不了我的身份出现污点，当然这是我现在的想法，我不确定我会不会吸上什么高成瘾性的东西，然后干出什么我现在觉得绝对是个混蛋的事情\n还有我觉得几乎所有毒虫（就这么叫理解就行）说出的：我再也不吸毒了，这句话不管加了多少修饰多么撼天动地都很难是真的，当然真正的再也不想接触药物了也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084287727701483690",
+        "created_at": "2026-08-03T14:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084292620965072981"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084292620965072981",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084291300707488063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很难走回去我甚至觉得最后不是因为毒瘾，而且因为已经突破了自己全部的底线，我难以想象如果是那个地步我该怎么走回去，我可能会选择直接结束生命，当然现在的我不接受突破某些底线，比如我现在认为绝对不会为了毒资奸淫掳掠，打砸抢之类的事情打死我都不会干的，我都觉得被晶了万一留下案底就不好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 169,
+          "like_count": 8793,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2136
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083923010638274560"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2083923016946450818",
+    "created_at": "2026-08-02T14:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083923016946450818"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZQGIMPkwG",
+          "end": 34,
+          "expanded_url": "https://x.com/YLS69979546/status/2083923016946450818/photo/1",
+          "media_key": "3_2083923010638274560",
+          "start": 11,
+          "url": "https://t.co/qZQGIMPkwG"
+        },
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2083918220897943817",
+          "start": 35,
+          "url": "https://t.co/h8EiddXDXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083923016946450818",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083918220897943817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学不了，学不了半点😭 https://t.co/qZQGIMPkwG https://t.co/h8EiddXDXP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2083923010638274560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuU7-RbYAAtYc6.jpg",
+        "width": 1156
+      },
+      {
+        "height": 251,
+        "media_key": "3_2083918215361744896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuQk2eaUAAh7GW.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083923010638274560"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2083923016946450818",
+        "created_at": "2026-08-02T14:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083923016946450818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZQGIMPkwG",
+              "end": 34,
+              "expanded_url": "https://x.com/YLS69979546/status/2083923016946450818/photo/1",
+              "media_key": "3_2083923010638274560",
+              "start": 11,
+              "url": "https://t.co/qZQGIMPkwG"
+            },
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2083918220897943817",
+              "start": 35,
+              "url": "https://t.co/h8EiddXDXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083923016946450818",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083918220897943817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学不了，学不了半点😭 https://t.co/qZQGIMPkwG https://t.co/h8EiddXDXP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083918215361744896"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2083918220897943817",
+        "created_at": "2026-08-02T14:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083918220897943817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yfgQpWDFw",
+              "end": 35,
+              "expanded_url": "https://x.com/YLS69979546/status/2083918220897943817/photo/1",
+              "media_key": "3_2083918215361744896",
+              "start": 12,
+              "url": "https://t.co/5yfgQpWDFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083918220897943817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吸毒了想到要学化学了🤪 https://t.co/5yfgQpWDFw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 169,
+          "like_count": 8685,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 2022
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}
