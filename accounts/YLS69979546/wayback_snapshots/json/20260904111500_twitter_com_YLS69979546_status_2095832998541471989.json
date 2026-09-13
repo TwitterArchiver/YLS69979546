@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2095739442002805218",
+    "created_at": "2026-09-04T11:15:00.000Z",
+    "display_text_range": [
+      30,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T12:15:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095832998541471989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2050243815420944384",
+          "start": 0,
+          "username": "JHo14jw"
+        },
+        {
+          "end": 16,
+          "id": "2081766418505183232",
+          "start": 9,
+          "username": "ehcodu"
+        },
+        {
+          "end": 29,
+          "id": "1291988176496545792",
+          "start": 17,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095832998541471989",
+    "in_reply_to_user_id": "2050243815420944384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095795307087012300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JHo14jw @ehcodu @Vox35112635 那得有钱啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2095739442002805218",
+        "created_at": "2026-09-04T11:15:00.000Z",
+        "display_text_range": [
+          30,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095832998541471989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2050243815420944384",
+              "start": 0,
+              "username": "JHo14jw"
+            },
+            {
+              "end": 16,
+              "id": "2081766418505183232",
+              "start": 9,
+              "username": "ehcodu"
+            },
+            {
+              "end": 29,
+              "id": "1291988176496545792",
+              "start": 17,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095832998541471989",
+        "in_reply_to_user_id": "2050243815420944384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095795307087012300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JHo14jw @ehcodu @Vox35112635 那得有钱啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050243815420944384",
+        "conversation_id": "2095739442002805218",
+        "created_at": "2026-09-04T08:45:13.000Z",
+        "display_text_range": [
+          21,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095795307087012300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2081766418505183232",
+              "start": 0,
+              "username": "ehcodu"
+            },
+            {
+              "end": 20,
+              "id": "1291988176496545792",
+              "start": 8,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095795307087012300",
+        "in_reply_to_user_id": "2081766418505183232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 628,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095781835469214049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ehcodu @Vox35112635 重新买一个.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095832998541471989",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 274,
+          "like_count": 11021,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3073
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T16:00:15.000Z",
+        "description": "",
+        "id": "2050243815420944384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095795307087012300",
+        "name": "JHo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050243815420944384/1785993140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095722830759706624/Fs1bm5dd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "JHo14jw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T15:41:36.000Z",
+        "description": "耍起",
+        "id": "2081766418505183232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095827852037878073",
+        "name": "ehco",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081766418505183232/1788363291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081767299803942912/G9hoSP8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 98,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "ehcodu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "防走丢小号：@PDDBJS/抖音号：32625516049/现在会接一点有偿转发/付费线上纯绿色交友委托/如果谎称投稿人私下联系你们请找我确认防止被骗/广告正规推以外的其他投稿均为免费/不做任何验证❗️❗️❗️/加vx随缘给门槛就好了/算卦找@minglishii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "PDDBJS"
+              },
+              {
+                "end": 132,
+                "start": 121,
+                "username": "minglishii"
+              }
+            ]
+          }
+        },
+        "id": "1291988176496545792",
+        "is_identity_verified": false,
+        "location": "沙发床上",
+        "most_recent_tweet_id": "2095828440201171352",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "2085244890972377274",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1291988176496545792/1652111017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310330,
+          "following_count": 532,
+          "like_count": 471,
+          "listed_count": 372,
+          "media_count": 13011,
+          "tweet_count": 18627
+        },
+        "url": "",
+        "username": "Vox35112635",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

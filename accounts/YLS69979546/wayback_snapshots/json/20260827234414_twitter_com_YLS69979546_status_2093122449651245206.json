@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2079525116011315536",
+    "created_at": "2026-08-27T23:44:14.000Z",
+    "display_text_range": [
+      23,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T00:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093122449651245206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057835400790462464",
+          "start": 0,
+          "username": "Curse0307"
+        },
+        {
+          "end": 22,
+          "id": "1810616157059301376",
+          "start": 11,
+          "username": "Bocchi_Kk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093122449651245206",
+    "in_reply_to_user_id": "2057835400790462464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093118477305577506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Curse0307 @Bocchi_Kk1 有罂粟壳，阿片类"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093118477305577506].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093118477305577506",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093118477305577506"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2079525116011315536",
+        "created_at": "2026-08-27T23:44:14.000Z",
+        "display_text_range": [
+          23,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T00:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093122449651245206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057835400790462464",
+              "start": 0,
+              "username": "Curse0307"
+            },
+            {
+              "end": 22,
+              "id": "1810616157059301376",
+              "start": 11,
+              "username": "Bocchi_Kk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093122449651245206",
+        "in_reply_to_user_id": "2057835400790462464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093118477305577506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Curse0307 @Bocchi_Kk1 有罂粟壳，阿片类"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093122449651245206",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 261,
+          "like_count": 10527,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2922
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-22T14:46:19.000Z",
+        "description": "宝宝@AngelIlIIl @Sakura_rain98",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "AngelIlIIl"
+              },
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Sakura_rain98"
+              }
+            ]
+          }
+        },
+        "id": "2057835400790462464",
+        "is_identity_verified": false,
+        "location": "步此苦旅",
+        "most_recent_tweet_id": "2093117218435616789",
+        "name": "Curse",
+        "pinned_tweet_id": "2092548130902286570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057835400790462464/1787373706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092919831939190784/qPfj2nW-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 275,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "Curse0307",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-09T10:05:14.000Z",
+        "description": "我是傻逼/想和别人互fo",
+        "id": "1810616157059301376",
+        "is_identity_verified": false,
+        "location": "你家",
+        "most_recent_tweet_id": "2092949058365317524",
+        "name": "可爱波奇大王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810616157059301376/1777911847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051336863353536512/Wq2rULBE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 275,
+          "like_count": 789,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 263
+        },
+        "url": "",
+        "username": "Bocchi_Kk1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2097578509023805722",
+    "created_at": "2026-09-09T22:34:31.000Z",
+    "display_text_range": [
+      30,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T23:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097815943787536496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037210164131225604",
+          "start": 0,
+          "username": "Zoink3118675425"
+        },
+        {
+          "end": 29,
+          "id": "2095558512848023552",
+          "start": 17,
+          "username": "yumeng_0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097815943787536496",
+    "in_reply_to_user_id": "2037210164131225604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097731982797250922",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoink3118675425 @yumeng_0721 好吧，那我还是期待利右苯丙胺吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2097578509023805722",
+        "created_at": "2026-09-09T22:34:31.000Z",
+        "display_text_range": [
+          30,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097815943787536496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037210164131225604",
+              "start": 0,
+              "username": "Zoink3118675425"
+            },
+            {
+              "end": 29,
+              "id": "2095558512848023552",
+              "start": 17,
+              "username": "yumeng_0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097815943787536496",
+        "in_reply_to_user_id": "2037210164131225604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097731982797250922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoink3118675425 @yumeng_0721 好吧，那我还是期待利右苯丙胺吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037210164131225604",
+        "conversation_id": "2097578509023805722",
+        "created_at": "2026-09-09T17:00:53.000Z",
+        "display_text_range": [
+          26,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097731982797250922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 25,
+              "id": "2095558512848023552",
+              "start": 13,
+              "username": "yumeng_0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097731982797250922",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097617003523752354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @yumeng_0721 不对甚至不如哌，科普一下药理知识，森塔纳法啶和安非他酮跟莫达非尼一样都是非典型DAT抑制剂，你把他理解成大号安非他酮+ssri就行，不用太期待（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097815943787536496",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 807,
+          "following_count": 286,
+          "like_count": 11347,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 3237
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T16:49:53.000Z",
+        "description": "intp/互fo/audhd\n热爱药理学",
+        "id": "2037210164131225604",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097737022752665797",
+        "name": "链光",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081896585886314496/XZ8_hwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 272,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 149
+        },
+        "url": "",
+        "username": "Zoink3118675425",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-03T17:08:05.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/Lp01040s9g 孤岛频道https://t.co/rXjyEV4O09",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/Lp01040s9g"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 63,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 40,
+                "url": "https://t.co/rXjyEV4O09"
+              }
+            ]
+          }
+        },
+        "id": "2095558512848023552",
+        "is_identity_verified": false,
+        "location": "天國",
+        "most_recent_tweet_id": "2097648910705848611",
+        "name": "Meng",
+        "pinned_tweet_id": "2095833561677082644",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2095558512848023552/1788456727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095559876382760960/ULqsJiLq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 26,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "yumeng_0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

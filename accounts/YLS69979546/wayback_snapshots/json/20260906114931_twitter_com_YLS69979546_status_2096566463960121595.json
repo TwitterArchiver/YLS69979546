@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2096321162242555982",
+    "created_at": "2026-09-06T11:49:31.000Z",
+    "display_text_range": [
+      17,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:49:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096566463960121595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1796872504511983616",
+          "start": 0,
+          "username": "Phanes_farewell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096566463960121595",
+    "in_reply_to_user_id": "1796872504511983616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096477237059211505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Phanes_farewell 解离太大就没力气了，我药效下去了点才做的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2096321162242555982",
+        "created_at": "2026-09-06T11:49:31.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096566463960121595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1796872504511983616",
+              "start": 0,
+              "username": "Phanes_farewell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096566463960121595",
+        "in_reply_to_user_id": "1796872504511983616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096477237059211505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Phanes_farewell 解离太大就没力气了，我药效下去了点才做的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796872504511983616",
+        "conversation_id": "2096321162242555982",
+        "created_at": "2026-09-06T05:54:58.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096477237059211505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096477237059211505",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096321162242555982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 为什么解离了还有力气做引体"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096566463960121595",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 275,
+          "like_count": 11205,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 3140
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T11:53:00.000Z",
+        "description": "avemujica/主推睦祥/杂食，可逆可拆/碎碎念和发疯比较多/cos压抑了，我需要假期和搭子",
+        "id": "1796872504511983616",
+        "is_identity_verified": false,
+        "location": "好晕，有解酒药吗？",
+        "most_recent_tweet_id": "2096563839949328553",
+        "name": "Amayuki",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796872504511983616/1784065565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096480634579677184/gpDB_hZi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 133,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 542
+        },
+        "url": "",
+        "username": "Phanes_farewell",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

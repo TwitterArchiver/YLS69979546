@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2095582375069565362",
+    "created_at": "2026-09-04T15:10:59.000Z",
+    "display_text_range": [
+      27,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095892387256250513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937079095852158976",
+          "start": 0,
+          "username": "Chizuru_arch"
+        },
+        {
+          "end": 26,
+          "id": "1565730864708943874",
+          "start": 14,
+          "username": "616peterman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095892387256250513",
+    "in_reply_to_user_id": "1937079095852158976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095874880181002616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chizuru_arch @616peterman 空格当标点的人😭＊＊＊＊😭＊＊＊😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2095582375069565362",
+        "created_at": "2026-09-04T15:10:59.000Z",
+        "display_text_range": [
+          27,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095892387256250513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937079095852158976",
+              "start": 0,
+              "username": "Chizuru_arch"
+            },
+            {
+              "end": 26,
+              "id": "1565730864708943874",
+              "start": 14,
+              "username": "616peterman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095892387256250513",
+        "in_reply_to_user_id": "1937079095852158976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095874880181002616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chizuru_arch @616peterman 空格当标点的人😭＊＊＊＊😭＊＊＊😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937079095852158976",
+        "conversation_id": "2095582375069565362",
+        "created_at": "2026-09-04T14:01:25.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095874880181002616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565730864708943874",
+              "start": 0,
+              "username": "616peterman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095874880181002616",
+        "in_reply_to_user_id": "1565730864708943874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 290,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095582375069565362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@616peterman 那是不是中日韩就可以免疫这种病毒🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095892387256250513",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 274,
+          "like_count": 11070,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3093
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-23T09:23:58.000Z",
+        "description": "𒂼𒅈𒄄，发音为Ama-ar-gi₄，在苏美尔语和阿卡德语里代表着自由。",
+        "id": "1937079095852158976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095877171919348058",
+        "name": "月見　千鶴🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937079095852158976/1750672512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042370475561795584/XTHdIDIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 129,
+          "like_count": 18057,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "Chizuru_arch",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T15:58:53.000Z",
+        "description": "spideypool connoisseur",
+        "id": "1565730864708943874",
+        "is_identity_verified": false,
+        "location": "🕸️ he/him | 19 | free 🇵🇸",
+        "most_recent_tweet_id": "2095826408995967019",
+        "name": "nathaniel 🕷️",
+        "pinned_tweet_id": "2077788789997474134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565730864708943874/1782896894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072245839129391104/Y3tFod3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 849,
+          "following_count": 930,
+          "like_count": 11269,
+          "listed_count": 1,
+          "media_count": 215,
+          "tweet_count": 1579
+        },
+        "url": "",
+        "username": "616peterman",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

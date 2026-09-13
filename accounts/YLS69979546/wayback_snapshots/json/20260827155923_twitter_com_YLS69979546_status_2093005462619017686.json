@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2092675817105179035",
+    "created_at": "2026-08-27T15:59:23.000Z",
+    "display_text_range": [
+      8,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093005462619017686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1483028560084299776",
+          "start": 0,
+          "username": "AskYU_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093005462619017686",
+    "in_reply_to_user_id": "1483028560084299776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092940112430780595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AskYU_ 多么的美味😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2092675817105179035",
+        "created_at": "2026-08-27T15:59:23.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093005462619017686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1483028560084299776",
+              "start": 0,
+              "username": "AskYU_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093005462619017686",
+        "in_reply_to_user_id": "1483028560084299776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092940112430780595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AskYU_ 多么的美味😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483028560084299776",
+        "conversation_id": "2092675817105179035",
+        "created_at": "2026-08-27T11:39:42.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092940112430780595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092940112430780595",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092675817105179035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 啊啊啊我不行了！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093005462619017686",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 256,
+          "like_count": 10500,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2902
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-17T10:49:03.000Z",
+        "description": "⩌⌯⩌",
+        "id": "1483028560084299776",
+        "is_identity_verified": false,
+        "location": "我说我不会原谅这个世界👁👁👁",
+        "most_recent_tweet_id": "2092940112430780595",
+        "name": "5101",
+        "pinned_tweet_id": "1725837773863887269",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483028560084299776/1733890357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719020103059345408/GaA9engd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 110,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "AskYU_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

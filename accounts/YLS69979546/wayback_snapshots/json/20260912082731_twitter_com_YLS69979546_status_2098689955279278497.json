@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2098636882368446848",
+    "created_at": "2026-09-12T08:27:31.000Z",
+    "display_text_range": [
+      16,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T09:27:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098689955279278497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098689955279278497",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098636882368446848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 不是手机的问题，是他自己误下载了一些垃圾软件，之前遇到一个老太把手机弄成这样叫我帮忙清理，给她删了一堆垃圾软件，老年人确实容易中这些东西的招"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 79715,
+        "height": 1280,
+        "media_key": "13_2098636668622528512",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098636668622528512/img/VpfUgqfDmbRfGp0i.jpg",
+        "public_metrics": {
+          "view_count": 149665
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098636668622528512/vid/avc1/320x568/CaJ1NZtpZBjLXzbD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098636668622528512/vid/avc1/480x852/GncGeWrZBI75OvGt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098636668622528512/vid/avc1/720x1280/s3xj3Ec9T-QdNIhP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098636668622528512/pl/0DBQ2JhmbjbN3igE.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2098636882368446848",
+        "created_at": "2026-09-12T08:27:31.000Z",
+        "display_text_range": [
+          16,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T09:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098689955279278497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098689955279278497",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098636882368446848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 不是手机的问题，是他自己误下载了一些垃圾软件，之前遇到一个老太把手机弄成这样叫我帮忙清理，给她删了一堆垃圾软件，老年人确实容易中这些东西的招"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098636668622528512"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "2098636882368446848",
+        "created_at": "2026-09-12T04:56:38.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T05:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098636882368446848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uaEO4lfooO",
+              "end": 82,
+              "expanded_url": "https://x.com/Rococo90933671/status/2098636882368446848/video/1",
+              "media_key": "13_2098636668622528512",
+              "start": 59,
+              "url": "https://t.co/uaEO4lfooO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098636882368446848",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098636668622528512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 263181,
+          "like_count": 1705,
+          "quote_count": 43,
+          "reply_count": 313,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "老人突发疾病，结果因为荣耀手机魔法画报的开屏广告非常难关掉，导致其延误治疗去世。\n下面是遥遥领先的魔法画报的具体情况 https://t.co/uaEO4lfooO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098689955279278497",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 290,
+          "like_count": 11435,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3300
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2098689442722746508",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14502,
+          "following_count": 3279,
+          "like_count": 50473,
+          "listed_count": 46,
+          "media_count": 5460,
+          "tweet_count": 26948
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

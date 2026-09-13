@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2095695633512640803",
+    "created_at": "2026-09-05T10:35:06.000Z",
+    "display_text_range": [
+      22,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096185347675709949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467659726",
+          "start": 0,
+          "username": "WorstCat"
+        },
+        {
+          "end": 21,
+          "id": "2083201699934867456",
+          "start": 10,
+          "username": "toxicate01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096185347675709949",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096182728551284736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorstCat @toxicate01 沃擦，太对了，我就是，哇哇吐了一整夜人吐麻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2095695633512640803",
+        "created_at": "2026-09-05T10:35:06.000Z",
+        "display_text_range": [
+          22,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096185347675709949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            },
+            {
+              "end": 21,
+              "id": "2083201699934867456",
+              "start": 10,
+              "username": "toxicate01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096185347675709949",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096182728551284736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat @toxicate01 沃擦，太对了，我就是，哇哇吐了一整夜人吐麻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "467659726",
+        "conversation_id": "2095695633512640803",
+        "created_at": "2026-09-05T10:24:42.000Z",
+        "display_text_range": [
+          25,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:24:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096182728551284736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 24,
+              "id": "2083201699934867456",
+              "start": 13,
+              "username": "toxicate01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096182728551284736",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095844922041766039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @toxicate01 集采的昂丹司琼劲不够诶，有的打好几只都还哇哇的吐"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096185347675709949",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 273,
+          "like_count": 11143,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3109
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2096184175263154623",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3120,
+          "following_count": 91,
+          "like_count": 17458,
+          "listed_count": 6,
+          "media_count": 313,
+          "tweet_count": 2450
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:45:38.000Z",
+        "description": "I𝗋𝗂𝗌 C𝗂𝗇𝗇𝖺𝖻𝖺𝗋 2 Hexa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/toxicate01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/toxicate01",
+                "start": 0,
+                "url": "https://t.co/upBuGjvqg1"
+              }
+            ]
+          }
+        },
+        "id": "2083201699934867456",
+        "is_identity_verified": false,
+        "location": "恋歌",
+        "most_recent_tweet_id": "2096148116143505500",
+        "name": "cmi",
+        "pinned_tweet_id": "2087521569232900603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083201699934867456/1785509689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202567937650688/Xs4QIS3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 100,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 381
+        },
+        "url": "https://t.co/upBuGjvqg1",
+        "username": "toxicate01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

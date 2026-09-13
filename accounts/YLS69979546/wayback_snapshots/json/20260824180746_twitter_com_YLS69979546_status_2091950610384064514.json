@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2091950136146710738",
+    "created_at": "2026-08-24T18:07:46.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091950610384064514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091950610384064514",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091950136146710738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吃完舌头到喉咙都麻，跟嚼碎了一颗安非他酮一样（好像还是安非他酮更麻舌头一点）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2091950115036831744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgZi8aboAAGmHU.jpg",
+        "width": 2304
+      },
+      {
+        "height": 2304,
+        "media_key": "3_2091950127472947200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgZjqvbsAAlxgJ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2091950136146710738",
+        "created_at": "2026-08-24T18:07:46.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091950610384064514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091950610384064514",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091950136146710738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吃完舌头到喉咙都麻，跟嚼碎了一颗安非他酮一样（好像还是安非他酮更麻舌头一点）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091950115036831744",
+            "3_2091950127472947200"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2091950136146710738",
+        "created_at": "2026-08-24T18:05:53.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091950136146710738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hpblCrq2Qz",
+              "end": 65,
+              "expanded_url": "https://x.com/YLS69979546/status/2091950136146710738/photo/1",
+              "media_key": "3_2091950115036831744",
+              "start": 42,
+              "url": "https://t.co/hpblCrq2Qz"
+            },
+            {
+              "display_url": "pic.x.com/hpblCrq2Qz",
+              "end": 65,
+              "expanded_url": "https://x.com/YLS69979546/status/2091950136146710738/photo/1",
+              "media_key": "3_2091950127472947200",
+              "start": 42,
+              "url": "https://t.co/hpblCrq2Qz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091950136146710738",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091950115036831744"
+          },
+          {
+            "media_key": "3_2091950127472947200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个味道吃起来奇奇怪怪的，有点凉，有点麻舌头，有点甜，我都不知道是说它难吃还是好吃 https://t.co/hpblCrq2Qz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091950610384064514",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 259,
+          "like_count": 10353,
+          "listed_count": 0,
+          "media_count": 146,
+          "tweet_count": 2838
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

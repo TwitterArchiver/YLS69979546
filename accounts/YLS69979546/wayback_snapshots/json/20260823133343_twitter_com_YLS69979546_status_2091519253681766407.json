@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2091503054575349847",
+    "created_at": "2026-08-23T13:33:43.000Z",
+    "display_text_range": [
+      15,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091519253681766407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1961351591715639298",
+          "start": 0,
+          "username": "overdose_momo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091519253681766407",
+    "in_reply_to_user_id": "1961351591715639298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091503054575349847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_momo 阿片吃的时间长了会便秘，而停药会导致戒断，戒断会腹泻，总结就是阿片鬼不是拉不出就是拉的停不下来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2091503054575349847",
+        "created_at": "2026-08-23T13:33:43.000Z",
+        "display_text_range": [
+          15,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091519253681766407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1961351591715639298",
+              "start": 0,
+              "username": "overdose_momo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091519253681766407",
+        "in_reply_to_user_id": "1961351591715639298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091503054575349847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_momo 阿片吃的时间长了会便秘，而停药会导致戒断，戒断会腹泻，总结就是阿片鬼不是拉不出就是拉的停不下来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961351591715639298",
+        "conversation_id": "2091503054575349847",
+        "created_at": "2026-08-23T12:29:21.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091503054575349847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091503054575349847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "非常地狱笑话的恶性循环：药效中会尿潴留尿不出来，多喝水加速代谢可以减轻这个问题，但多喝水又会尿不出来难受。\n\n另一个很少人经历过的副作用是，阿片类吃的时间长了会肠蠕动减慢，导致便秘——不只是大便干，而是一种肠道使不上劲的感觉，非常缓慢排不出来便。解决方法是停药……不o了让身体自己恢复"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091519253681766407",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 259,
+          "like_count": 10284,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 2812
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T08:54:16.000Z",
+        "description": "堆放一些od相关或许包括odwiki相关_赛博八字isfp_adhd双相_prbl单推",
+        "id": "1961351591715639298",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091509352788328751",
+        "name": "mo mo",
+        "pinned_tweet_id": "2084519650361315496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961351591715639298/1764860123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996594009180139521/f19azjrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 26,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "overdose_momo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

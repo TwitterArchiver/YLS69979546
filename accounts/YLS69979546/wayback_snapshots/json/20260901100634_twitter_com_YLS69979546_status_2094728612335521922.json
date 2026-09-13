@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2094449871248068692",
+    "created_at": "2026-09-01T10:06:34.000Z",
+    "display_text_range": [
+      26,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T11:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094728612335521922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060786188680884224",
+          "start": 0,
+          "username": "methYLphENdA"
+        },
+        {
+          "end": 25,
+          "id": "990585162722242560",
+          "start": 14,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094728612335521922",
+    "in_reply_to_user_id": "2060786188680884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094598522465407394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@methYLphENdA @YangDowond 那个时候，我确实不用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2094449871248068692",
+        "created_at": "2026-09-01T10:06:34.000Z",
+        "display_text_range": [
+          26,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094728612335521922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060786188680884224",
+              "start": 0,
+              "username": "methYLphENdA"
+            },
+            {
+              "end": 25,
+              "id": "990585162722242560",
+              "start": 14,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094728612335521922",
+        "in_reply_to_user_id": "2060786188680884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094598522465407394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@methYLphENdA @YangDowond 那个时候，我确实不用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060786188680884224",
+        "conversation_id": "2094449871248068692",
+        "created_at": "2026-09-01T01:29:38.000Z",
+        "display_text_range": [
+          25,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094598522465407394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 24,
+              "id": "1547812257676963840",
+              "start": 12,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094598522465407394",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094449871248068692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @YLS69979546 🤯大家注射不用过.22膜的吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094728612335521922",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 263,
+          "like_count": 10777,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3020
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T18:17:25.000Z",
+        "description": "",
+        "id": "2060786188680884224",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2094598522465407394",
+        "name": "EAK 巨能充",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060786188680884224/1781835718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060788975284219904/3_DL8hOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 176,
+          "like_count": 5306,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "methYLphENdA",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094701314626531545",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 284,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 506
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

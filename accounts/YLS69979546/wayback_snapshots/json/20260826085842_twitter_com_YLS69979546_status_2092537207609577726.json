@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2092526183930007862",
+    "created_at": "2026-08-26T08:58:42.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092537207609577726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2083201699934867456",
+          "start": 0,
+          "username": "toxicate01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092537207609577726",
+    "in_reply_to_user_id": "2083201699934867456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092528299071390149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toxicate01 神秘气体解离剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2092526183930007862",
+        "created_at": "2026-08-26T08:58:42.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092537207609577726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083201699934867456",
+              "start": 0,
+              "username": "toxicate01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092537207609577726",
+        "in_reply_to_user_id": "2083201699934867456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092528299071390149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toxicate01 神秘气体解离剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083201699934867456",
+        "conversation_id": "2092526183930007862",
+        "created_at": "2026-08-26T08:23:18.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092528299071390149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092528299071390149",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092526183930007862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 加入一些奶油发泡剂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092537207609577726",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 256,
+          "like_count": 10418,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 2869
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T14:45:38.000Z",
+        "description": "I𝗋𝗂𝗌 C𝗂𝗇𝗇𝖺𝖻𝖺𝗋 2 Hexa",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/toxicate01",
+                "end": 23,
+                "expanded_url": "https://ngl.link/toxicate01",
+                "start": 0,
+                "url": "https://t.co/upBuGjvqg1"
+              }
+            ]
+          }
+        },
+        "id": "2083201699934867456",
+        "is_identity_verified": false,
+        "location": "恋歌",
+        "most_recent_tweet_id": "2092533447126610374",
+        "name": "cmi",
+        "pinned_tweet_id": "2087521569232900603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083201699934867456/1785509689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083202567937650688/Xs4QIS3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 94,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/upBuGjvqg1",
+        "username": "toxicate01",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

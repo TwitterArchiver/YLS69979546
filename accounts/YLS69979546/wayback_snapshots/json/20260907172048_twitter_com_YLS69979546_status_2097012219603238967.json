@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2096882397438517550",
+    "created_at": "2026-09-07T17:20:48.000Z",
+    "display_text_range": [
+      48,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T18:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097012219603238967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "974898109883981825",
+          "start": 0,
+          "username": "a2LDwkmm2M9QA3f"
+        },
+        {
+          "end": 30,
+          "id": "1866458229527764992",
+          "start": 17,
+          "username": "Citrus_amara"
+        },
+        {
+          "end": 47,
+          "id": "1882705285816672256",
+          "start": 31,
+          "username": "tom779853915031"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097012219603238967",
+    "in_reply_to_user_id": "974898109883981825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096912471605047430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2LDwkmm2M9QA3f @Citrus_amara @tom779853915031 加一，神内开药最爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2096882397438517550",
+        "created_at": "2026-09-07T17:20:48.000Z",
+        "display_text_range": [
+          48,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T18:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097012219603238967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "974898109883981825",
+              "start": 0,
+              "username": "a2LDwkmm2M9QA3f"
+            },
+            {
+              "end": 30,
+              "id": "1866458229527764992",
+              "start": 17,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 47,
+              "id": "1882705285816672256",
+              "start": 31,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097012219603238967",
+        "in_reply_to_user_id": "974898109883981825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096912471605047430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2LDwkmm2M9QA3f @Citrus_amara @tom779853915031 加一，神内开药最爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "974898109883981825",
+        "conversation_id": "2096882397438517550",
+        "created_at": "2026-09-07T10:44:26.000Z",
+        "display_text_range": [
+          31,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096912471605047430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1866458229527764992",
+              "start": 0,
+              "username": "Citrus_amara"
+            },
+            {
+              "end": 30,
+              "id": "1882705285816672256",
+              "start": 14,
+              "username": "tom779853915031"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096912471605047430",
+        "in_reply_to_user_id": "1866458229527764992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096911487705264522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citrus_amara @tom779853915031 纯粹开药还是喜欢去神内，感觉神内医生会更爽快一些（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097012219603238967",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 283,
+          "like_count": 11269,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 3192
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-17T06:39:56.000Z",
+        "description": "某个学了医但当不了医生的专业在读\n这一切值得吗\n我太贪心 都是我应得的",
+        "id": "974898109883981825",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096912471605047430",
+        "name": "CornCCD",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1521051233317900288/UPy2smQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 357,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "a2LDwkmm2M9QA3f",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "在评论区和我互动就会回fo了！\n--\nenby/Autism/Plurality/BPD/药物滥用/双相\n---\nπ@Vacue138950\n妹妹@shsh548866\n主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Vacue138950"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "shsh548866"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/V6d8rwBDGV"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "is_identity_verified": false,
+        "location": "地狱",
+        "most_recent_tweet_id": "2097010227141063128",
+        "name": "🍊苦橙🍊8️⃣9️⃣6️⃣4️⃣",
+        "pinned_tweet_id": "2096796287257411778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1866458229527764992/1776605949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1591,
+          "following_count": 1227,
+          "like_count": 21346,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 12095
+        },
+        "url": "https://t.co/V6d8rwBDGV",
+        "username": "Citrus_amara",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T08:21:47.000Z",
+        "description": "中度抑郁焦虑 | 非资深oder | 友跨 | 互fo请私信 | 心理性别女 | 重度社交恐惧 | 日常 | 极端虚无主义 |  偶尔穿穿女装 | emoji精通\n艰难的活着ing…\n咱的好朋友@aberyoheiskm @6De_dian\n咱的小号@benzyl_group",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 97,
+                "username": "aberyoheiskm"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "6De_dian"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "benzyl_group"
+              }
+            ]
+          }
+        },
+        "id": "1882705285816672256",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2096927671951249596",
+        "name": "苯环",
+        "pinned_tweet_id": "2087926675371606099",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882705285816672256/1786463034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084867150938857472/fIpNJgBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 521,
+          "like_count": 2894,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "tom779853915031",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

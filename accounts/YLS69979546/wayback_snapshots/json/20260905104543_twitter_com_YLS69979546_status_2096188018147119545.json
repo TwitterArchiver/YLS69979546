@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2096175386430496826",
+    "created_at": "2026-09-05T10:45:43.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T11:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096188018147119545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2086659590444433408",
+          "start": 0,
+          "username": "Mercydrugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096188018147119545",
+    "in_reply_to_user_id": "2086659590444433408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096175386430496826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mercydrugs 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2096175386430496826",
+        "created_at": "2026-09-05T10:45:43.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T11:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096188018147119545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2086659590444433408",
+              "start": 0,
+              "username": "Mercydrugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096188018147119545",
+        "in_reply_to_user_id": "2086659590444433408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096175386430496826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mercydrugs 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086659590444433408",
+        "conversation_id": "2096175386430496826",
+        "created_at": "2026-09-05T09:55:31.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T10:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096175386430496826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096175386430496826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈刚才拿着我的洗气瓶问我这是啥 我说这我吸毒用的。我妈：哦哦好的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096188018147119545",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 273,
+          "like_count": 11152,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3110
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-10T03:43:58.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR.｜💊🔪🩸\n出PR及各种致幻剂。",
+        "id": "2086659590444433408",
+        "is_identity_verified": false,
+        "location": "💖@liyfn130024",
+        "most_recent_tweet_id": "2096175386430496826",
+        "name": "Mercy",
+        "pinned_tweet_id": "2089164623522205867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086659590444433408/1787353946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090940066206199808/fYjlzG6i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 239,
+          "like_count": 493,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 181
+        },
+        "url": "",
+        "username": "Mercydrugs",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

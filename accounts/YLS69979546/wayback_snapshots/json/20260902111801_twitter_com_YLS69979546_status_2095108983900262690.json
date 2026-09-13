@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2095108983900262690",
+    "created_at": "2026-09-02T11:18:01.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T12:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095108983900262690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vuulgardarling…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/vuulgardarling/status/2094927761546608767",
+          "start": 2,
+          "url": "https://t.co/zfXYdmltB4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095108983900262690",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094927761546608767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔 https://t.co/zfXYdmltB4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2095108983900262690",
+        "created_at": "2026-09-02T11:18:01.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095108983900262690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vuulgardarling…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/vuulgardarling/status/2094927761546608767",
+              "start": 2,
+              "url": "https://t.co/zfXYdmltB4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095108983900262690",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094927761546608767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/zfXYdmltB4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1290868345349320704",
+        "conversation_id": "2094927761546608767",
+        "created_at": "2026-09-01T23:17:54.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094927761546608767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094927761546608767",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 120623,
+          "like_count": 5191,
+          "quote_count": 15,
+          "reply_count": 45,
+          "retweet_count": 148
+        },
+        "reply_settings": "everyone",
+        "text": "If I was a bag of cocaine I put away while on a xanax where would I be"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095108983900262690",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 262,
+          "like_count": 10849,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 3039
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-05T04:33:07.000Z",
+        "description": "babydoll is so Sick",
+        "id": "1290868345349320704",
+        "is_identity_verified": false,
+        "location": "NSFL ✮⋆˙",
+        "most_recent_tweet_id": "2095065747391234251",
+        "name": "L’s",
+        "pinned_tweet_id": "1950604312461070359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1290868345349320704/1753826864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094910479948718080/BksjDt6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 88,
+          "like_count": 2803,
+          "listed_count": 1,
+          "media_count": 219,
+          "tweet_count": 1443
+        },
+        "url": "",
+        "username": "vuulgardarling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

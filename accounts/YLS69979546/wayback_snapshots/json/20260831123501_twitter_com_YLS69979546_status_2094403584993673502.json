@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2093722450047746109",
+    "created_at": "2026-08-31T12:35:01.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094403584993673502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775852715492737024",
+          "start": 0,
+          "username": "Hisui_Daigaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094403584993673502",
+    "in_reply_to_user_id": "1775852715492737024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093722450047746109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hisui_Daigaku 东亚是都这么教英语的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2093722450047746109",
+        "created_at": "2026-08-31T12:35:01.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094403584993673502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775852715492737024",
+              "start": 0,
+              "username": "Hisui_Daigaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094403584993673502",
+        "in_reply_to_user_id": "1775852715492737024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093722450047746109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hisui_Daigaku 东亚是都这么教英语的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775852715492737024",
+        "conversation_id": "2093722450047746109",
+        "created_at": "2026-08-29T15:28:26.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:28:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093722450047746109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093722450047746109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 96512,
+          "like_count": 1606,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "【患者が日本人だった場合】\n\n医者：How are you feeling today?\n\n病人：I'm fine thank you, and you?\n\n医者：「」"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094403584993673502",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 264,
+          "like_count": 10747,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2995
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T11:49:01.000Z",
+        "description": "数学科 B1\n数研/将棋/カラオケ/川崎＆横浜/🍊💫/いきものがかり\n将棋垢@HisuiShogi0401\nサブ垢@Hisui2007\nhttps://t.co/ESknRB79F2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "HisuiShogi0401"
+              },
+              {
+                "end": 67,
+                "start": 57,
+                "username": "Hisui2007"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "note.com/hisui_rikadai",
+                "end": 91,
+                "expanded_url": "http://note.com/hisui_rikadai",
+                "start": 68,
+                "url": "https://t.co/ESknRB79F2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mixi.social/invitations/@H…",
+                "end": 23,
+                "expanded_url": "https://mixi.social/invitations/@Hisui_Rikadai/8ubLLmsyw2QA8KgvevwknM",
+                "start": 0,
+                "url": "https://t.co/I7xijaOH1M"
+              }
+            ]
+          }
+        },
+        "id": "1775852715492737024",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2094362402175525121",
+        "name": "ヒスイ",
+        "pinned_tweet_id": "2053477664267382829",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775852715492737024/1786693816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064413591022002176/Ei8aiZz__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2021,
+          "following_count": 1689,
+          "like_count": 24734,
+          "listed_count": 9,
+          "media_count": 390,
+          "tweet_count": 3306
+        },
+        "url": "https://t.co/I7xijaOH1M",
+        "username": "Hisui_Daigaku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2098492154083733653",
+    "created_at": "2026-09-11T20:15:24.000Z",
+    "display_text_range": [
+      12,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T21:15:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098505710418239737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1515562361070960646",
+          "start": 0,
+          "username": "Minastear1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098505710418239737",
+    "in_reply_to_user_id": "1515562361070960646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098492154083733653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear1 我是吸毒就会抽烟，不吸毒很少抽烟，我拿烟当药效增强器，但我平均一个月抽不了一包"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 340,
+        "media_key": "3_2098492116418646017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR9XdisXUAEPOUM.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2098492154083733653",
+        "created_at": "2026-09-11T20:15:24.000Z",
+        "display_text_range": [
+          12,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:15:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098505710418239737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1515562361070960646",
+              "start": 0,
+              "username": "Minastear1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098505710418239737",
+        "in_reply_to_user_id": "1515562361070960646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098492154083733653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear1 我是吸毒就会抽烟，不吸毒很少抽烟，我拿烟当药效增强器，但我平均一个月抽不了一包"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098492116418646017"
+          ]
+        },
+        "author_id": "1515562361070960646",
+        "conversation_id": "2098492154083733653",
+        "created_at": "2026-09-11T19:21:32.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T20:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098492154083733653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7nsTwpz1Vj",
+              "end": 88,
+              "expanded_url": "https://x.com/Minastear1/status/2098492154083733653/photo/1",
+              "media_key": "3_2098492116418646017",
+              "start": 65,
+              "url": "https://t.co/7nsTwpz1Vj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098492154083733653",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098492116418646017"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "致敬传奇不成瘾者。\n但我发现吸毒可以戒烟 吸烟可以戒毒🤓☝️因为我最近不到半个月就会抽完一包烟，，之前一个月甚至一个多月一包（） https://t.co/7nsTwpz1Vj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098505710418239737",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 290,
+          "like_count": 11413,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 3278
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-17T05:26:48.000Z",
+        "description": "＝易烟︱我独立于世界之上︱18↑︱友跨顺女泛性恋︱oder︱提供小零食出售业务︱第二世@Minastear030 永远怀念",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 43,
+                "username": "Minastear030"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Minastear",
+                "end": 23,
+                "expanded_url": "http://t.me/Minastear",
+                "start": 0,
+                "url": "https://t.co/b3aLfzgd4Y"
+              }
+            ]
+          }
+        },
+        "id": "1515562361070960646",
+        "is_identity_verified": false,
+        "location": "Eden",
+        "most_recent_tweet_id": "2098492154083733653",
+        "name": "Minastear",
+        "pinned_tweet_id": "2030864448249024731",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515562361070960646/1650173322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515562692299264001/veLb66ZQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 294,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 477
+        },
+        "url": "https://t.co/b3aLfzgd4Y",
+        "username": "Minastear1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

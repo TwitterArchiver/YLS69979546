@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2094233892219994371",
+    "created_at": "2026-08-31T01:20:43.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T02:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094233892219994371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CyberKanjousen…",
+          "end": 94,
+          "expanded_url": "https://twitter.com/CyberKanjousen/status/2093919677835571495",
+          "start": 71,
+          "url": "https://t.co/IGypQfGBCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094233892219994371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093919677835571495",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真羡慕你，我从出生起就对呼吸上瘾了，隔几分钟不呼吸就会浑身难受，产生严重的戒断反应，整个人萎靡不振，所以被迫只能每几秒钟呼吸一次，太痛苦了。 https://t.co/IGypQfGBCY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2094233892219994371",
+        "created_at": "2026-08-31T01:20:43.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T02:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094233892219994371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CyberKanjousen…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/CyberKanjousen/status/2093919677835571495",
+              "start": 71,
+              "url": "https://t.co/IGypQfGBCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094233892219994371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093919677835571495",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真羡慕你，我从出生起就对呼吸上瘾了，隔几分钟不呼吸就会浑身难受，产生严重的戒断反应，整个人萎靡不振，所以被迫只能每几秒钟呼吸一次，太痛苦了。 https://t.co/IGypQfGBCY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2093919677835571495",
+        "created_at": "2026-08-30T04:32:08.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093919677835571495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xueweidiqiu/st…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/xueweidiqiu/status/2093709382693396831",
+              "start": 74,
+              "url": "https://t.co/kQrbLrC0jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093919677835571495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3844,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093709382693396831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真羡慕你，我从出生起就对喝水上瘾了，隔几个小时不喝水就会浑身难受，产生严重的戒断反应，整个人萎靡不振，所以被迫只能每隔一小会儿喝一次水，太痛苦了。 https://t.co/kQrbLrC0jr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094233892219994371",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 265,
+          "like_count": 10690,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2987
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨但永不翻车 | 想当猫猫\n日语号：@NihonKanjousen\n给我钱：https://t.co/OB4bJVjpNC\n发邮箱：cyber@kanjousen.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/s",
+                "end": 88,
+                "expanded_url": "https://kanjousen.com/s",
+                "start": 65,
+                "url": "https://t.co/OB4bJVjpNC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnL0nr"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2094226412274094530",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918274202580467713/1787143538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18134,
+          "following_count": 887,
+          "like_count": 34830,
+          "listed_count": 32,
+          "media_count": 2872,
+          "tweet_count": 13021
+        },
+        "url": "https://t.co/s9lflnL0nr",
+        "username": "CyberKanjousen",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
