@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2106019762723786808",
+    "created_at": "2026-10-02T17:36:55.000Z",
+    "display_text_range": [
+      12,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106075973540290913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106075973540290913",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106019762723786808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 戒断还能出门的吗，我已经作息混乱不见天日了（虽然不戒断我也经常家里蹲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106019738879168513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToVy1nakAE-E7O.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106019738879193088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToVy1na8AAZ4CB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2106019762723786808",
+        "created_at": "2026-10-02T17:36:55.000Z",
+        "display_text_range": [
+          12,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106075973540290913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106075973540290913",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106019762723786808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 戒断还能出门的吗，我已经作息混乱不见天日了（虽然不戒断我也经常家里蹲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106019738879168513",
+            "3_2106019738879193088"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2106019762723786808",
+        "created_at": "2026-10-02T13:53:34.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106019762723786808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Plj90VwgA",
+              "end": 91,
+              "expanded_url": "https://x.com/YangDowond/status/2106019762723786808/photo/1",
+              "media_key": "3_2106019738879168513",
+              "start": 68,
+              "url": "https://t.co/9Plj90VwgA"
+            },
+            {
+              "display_url": "pic.x.com/9Plj90VwgA",
+              "end": 91,
+              "expanded_url": "https://x.com/YangDowond/status/2106019762723786808/photo/1",
+              "media_key": "3_2106019738879193088",
+              "start": 68,
+              "url": "https://t.co/9Plj90VwgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106019762723786808",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106019738879168513"
+          },
+          {
+            "media_key": "3_2106019738879193088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 254,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一杯瑞幸半杯冰，这太夸张了，以及几包无意义的联名纸（）\n用咖啡因来对冲阿片戒断效果还不错，我倒是觉得我阿片戒断还能开车倒是挺神奇的（） https://t.co/9Plj90VwgA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106075973540290913",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 319,
+          "like_count": 13092,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3807
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2106046256019898545",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 326,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

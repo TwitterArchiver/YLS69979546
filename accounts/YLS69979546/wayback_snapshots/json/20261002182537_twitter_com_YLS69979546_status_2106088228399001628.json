@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2106021221641101352",
+    "created_at": "2026-10-02T18:25:37.000Z",
+    "display_text_range": [
+      12,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T19:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106088228399001628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "990585162722242560",
+          "start": 0,
+          "username": "YangDowond"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106088228399001628",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106021221641101352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangDowond 不觉得有种要一头栽地上的感觉吗，这就是我有时候不吃可乐定的原因，猛地一起身感觉要栽地上了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2106021206474522624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToXIQ1agAAE31U.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2106021206440939521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HToXIQtaEAEwFH8.jpg",
+        "width": 614
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2106021221641101352",
+        "created_at": "2026-10-02T18:25:37.000Z",
+        "display_text_range": [
+          12,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106088228399001628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106088228399001628",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106021221641101352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 不觉得有种要一头栽地上的感觉吗，这就是我有时候不吃可乐定的原因，猛地一起身感觉要栽地上了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106021206474522624",
+            "3_2106021206440939521"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106021221641101352",
+        "created_at": "2026-10-02T13:59:21.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106021221641101352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HLOSSXJDt1",
+              "end": 76,
+              "expanded_url": "https://x.com/YangDowond/status/2106021221641101352/photo/1",
+              "media_key": "3_2106021206474522624",
+              "start": 53,
+              "url": "https://t.co/HLOSSXJDt1"
+            },
+            {
+              "display_url": "pic.x.com/HLOSSXJDt1",
+              "end": 76,
+              "expanded_url": "https://x.com/YangDowond/status/2106021221641101352/photo/1",
+              "media_key": "3_2106021206440939521",
+              "start": 53,
+              "url": "https://t.co/HLOSSXJDt1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106021221641101352",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106021206474522624"
+          },
+          {
+            "media_key": "3_2106021206440939521"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 756,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片戒断可乐定就我狗命（）\n以及吃完可乐定之后蹲下再站起来太好玩了，一直在玩这个，虽然可能会脑缺氧吧（） https://t.co/HLOSSXJDt1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106088228399001628",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 319,
+          "like_count": 13109,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3809
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2106046256019898545",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 326,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 843
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

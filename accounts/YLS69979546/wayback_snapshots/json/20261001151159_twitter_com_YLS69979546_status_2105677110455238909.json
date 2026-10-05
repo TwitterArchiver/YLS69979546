@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2105034559662510166",
+    "created_at": "2026-10-01T15:11:59.000Z",
+    "display_text_range": [
+      24,
+      89
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T16:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105677110455238909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1708410791744118784",
+          "start": 0,
+          "username": "trump1029597"
+        },
+        {
+          "end": 23,
+          "id": "467659726",
+          "start": 14,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105677110455238909",
+    "in_reply_to_user_id": "1708410791744118784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105674468358046117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@trump1029597 @WorstCat 倒也不至于一个月，按我上次的经验十来天差不多，但我上次才连续用了四五天，现在已经连续十天了，我还只能减量直接停会惊恐发作，情绪崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2105034559662510166",
+        "created_at": "2026-10-01T15:11:59.000Z",
+        "display_text_range": [
+          24,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105677110455238909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1708410791744118784",
+              "start": 0,
+              "username": "trump1029597"
+            },
+            {
+              "end": 23,
+              "id": "467659726",
+              "start": 14,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105677110455238909",
+        "in_reply_to_user_id": "1708410791744118784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105674468358046117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@trump1029597 @WorstCat 倒也不至于一个月，按我上次的经验十来天差不多，但我上次才连续用了四五天，现在已经连续十天了，我还只能减量直接停会惊恐发作，情绪崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708410791744118784",
+        "conversation_id": "2105034559662510166",
+        "created_at": "2026-10-01T15:01:29.000Z",
+        "display_text_range": [
+          23,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105674468358046117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 22,
+              "id": "467659726",
+              "start": 13,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105674468358046117",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105577429951733912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @WorstCat 你这个阿片类药物急性期都一个月了，肯定难戒啊，我羟考酮戒断急性期才一周"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105677110455238909",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 320,
+          "like_count": 12961,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3788
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-01T09:17:38.000Z",
+        "description": "随便玩玩",
+        "id": "1708410791744118784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105674468358046117",
+        "name": "永雏小晚",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105563128675405824/g5IH-KtJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 19,
+          "like_count": 13618,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "trump1029597",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2105612896986337724",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3162,
+          "following_count": 155,
+          "like_count": 21813,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 2928
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

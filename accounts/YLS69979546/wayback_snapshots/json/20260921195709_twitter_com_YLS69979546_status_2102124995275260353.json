@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2101376849783964040",
+    "created_at": "2026-09-21T19:57:09.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T20:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102124995275260353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037210164131225604",
+          "start": 0,
+          "username": "Zoink3118675425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102124995275260353",
+    "in_reply_to_user_id": "2037210164131225604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102071327507263754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoink3118675425 已严肃服用NAC，好久没吃了来着的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2101376849783964040",
+        "created_at": "2026-09-21T19:57:09.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102124995275260353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037210164131225604",
+              "start": 0,
+              "username": "Zoink3118675425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102124995275260353",
+        "in_reply_to_user_id": "2037210164131225604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102071327507263754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoink3118675425 已严肃服用NAC，好久没吃了来着的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037210164131225604",
+        "conversation_id": "2101376849783964040",
+        "created_at": "2026-09-21T16:23:53.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102071327507263754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102071327507263754",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101376849783964040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 用这个最好补充一堆抗氧化物质，尤其NAC，以及检查肝功能（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102124995275260353",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 970,
+          "following_count": 319,
+          "like_count": 12041,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3500
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T16:49:53.000Z",
+        "description": "intp/互fo/audhd\n热爱药理学",
+        "id": "2037210164131225604",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102071327507263754",
+        "name": "链光",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081896585886314496/XZ8_hwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 365,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Zoink3118675425",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104367811737063460",
+    "created_at": "2026-09-28T16:07:40.000Z",
+    "display_text_range": [
+      24,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104603962389438661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1969670166423228416",
+          "start": 0,
+          "username": "h2o2333"
+        },
+        {
+          "end": 23,
+          "id": "1972497129550860288",
+          "start": 9,
+          "username": "Isolation8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104603962389438661",
+    "in_reply_to_user_id": "1969670166423228416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104395848239227209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@h2o2333 @Isolation8964 我好像也是快从右边变左边了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104367811737063460",
+        "created_at": "2026-09-28T16:07:40.000Z",
+        "display_text_range": [
+          24,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104603962389438661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1969670166423228416",
+              "start": 0,
+              "username": "h2o2333"
+            },
+            {
+              "end": 23,
+              "id": "1972497129550860288",
+              "start": 9,
+              "username": "Isolation8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104603962389438661",
+        "in_reply_to_user_id": "1969670166423228416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104395848239227209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@h2o2333 @Isolation8964 我好像也是快从右边变左边了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969670166423228416",
+        "conversation_id": "2104367811737063460",
+        "created_at": "2026-09-28T02:20:42.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104395848239227209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1972497129550860288",
+              "start": 0,
+              "username": "Isolation8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104395848239227209",
+        "in_reply_to_user_id": "1972497129550860288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18038,
+          "like_count": 240,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104367811737063460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Isolation8964 以前是右边现在是左边怎么办（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104603962389438661",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 316,
+          "like_count": 12625,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3706
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-21T07:49:04.000Z",
+        "description": "Wish you were here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/h2o16689",
+                "end": 23,
+                "expanded_url": "https://ngl.link/h2o16689",
+                "start": 0,
+                "url": "https://t.co/vLpx3AYoTA"
+              }
+            ]
+          }
+        },
+        "id": "1969670166423228416",
+        "is_identity_verified": false,
+        "location": "level 790",
+        "most_recent_tweet_id": "2104598436297548218",
+        "name": "一氧化二氢",
+        "pinned_tweet_id": "2085584792461132007",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094985055911473152/orOihCgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1135,
+          "following_count": 1153,
+          "like_count": 3560,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 5584
+        },
+        "url": "https://t.co/vLpx3AYoTA",
+        "username": "h2o2333",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-29T03:03:36.000Z",
+        "description": "成分follow|16 y.o.|INTP-A|CN/EN|自由主义|LGBT+友好|音游人|C-PTSD|生活健全|\n爱个体而非集体 / 痛恨霸凌与洗脑\nAsk: https://t.co/mUxacbDtRC\nOtherX: @Isolation1126 @IsoAntiloss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 115,
+                "username": "Isolation1126"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "IsoAntiloss"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hereis1so",
+                "end": 106,
+                "expanded_url": "http://ngl.link/hereis1so",
+                "start": 83,
+                "url": "https://t.co/mUxacbDtRC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/IsosNotice",
+                "end": 23,
+                "expanded_url": "http://t.me/IsosNotice",
+                "start": 0,
+                "url": "https://t.co/lEYNInHu2K"
+              }
+            ]
+          }
+        },
+        "id": "1972497129550860288",
+        "is_identity_verified": false,
+        "location": "Internet",
+        "most_recent_tweet_id": "2104594378903945224",
+        "name": "Is0.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1972497129550860288/1777825629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092784137187041280/9WWVwoEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 219,
+          "like_count": 3083,
+          "listed_count": 2,
+          "media_count": 431,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/lEYNInHu2K",
+        "username": "Isolation8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

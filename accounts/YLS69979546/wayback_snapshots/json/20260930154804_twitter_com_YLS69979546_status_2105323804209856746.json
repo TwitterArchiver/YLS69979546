@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2105323804209856746",
+    "created_at": "2026-09-30T15:48:04.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T16:48:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105323804209856746"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2105233881893118247",
+          "start": 53,
+          "url": "https://t.co/0VbzzUaVVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105323804209856746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105233881893118247",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "特么的这好像是侵入性思维，我当时意识不到这是侵入性思维，持续惊恐状态差不多三个小时脑子里全是不正常的东西 https://t.co/0VbzzUaVVN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2105323804209856746",
+        "created_at": "2026-09-30T15:48:04.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T16:48:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105323804209856746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2105233881893118247",
+              "start": 53,
+              "url": "https://t.co/0VbzzUaVVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105323804209856746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105233881893118247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "特么的这好像是侵入性思维，我当时意识不到这是侵入性思维，持续惊恐状态差不多三个小时脑子里全是不正常的东西 https://t.co/0VbzzUaVVN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2105233881893118247",
+        "created_at": "2026-09-30T09:50:45.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105233881893118247"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105233881893118247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀疑我的精神状态比我想象的还要糟糕，我犯病只要摄入一点镇静剂就好了，但是如果不来点镇静剂并且无法脱离导致犯病的刺激源一直停不下来或者缓解再犯再缓解再犯的话思维会变得非常恐怖，如果有人会读心术知道我在想什么绝对我觉得这人是疯子的程度"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105323804209856746",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 319,
+          "like_count": 12787,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3748
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

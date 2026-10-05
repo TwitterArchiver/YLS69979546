@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2101856791999246820",
+    "created_at": "2026-09-21T02:11:24.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T03:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101856791999246820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YLS69979546/st…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/YLS69979546/status/2101805703333814612",
+          "start": 97,
+          "url": "https://t.co/l54iG8FoXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101856791999246820",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101805703333814612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个组合再加半片阿普直接给我爽的神志不清了三个小时，强烈到溢出来的欣快感，我拿了大概15mg1161只注射了一半，现在呼吸完全正常所以我觉得我可以把剩下的一半也用掉了，脑子要彻底被阿片玩坏掉了 https://t.co/l54iG8FoXV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2101856791999246820",
+        "created_at": "2026-09-21T02:11:24.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T03:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101856791999246820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YLS69979546/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/YLS69979546/status/2101805703333814612",
+              "start": 97,
+              "url": "https://t.co/l54iG8FoXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101856791999246820",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101805703333814612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个组合再加半片阿普直接给我爽的神志不清了三个小时，强烈到溢出来的欣快感，我拿了大概15mg1161只注射了一半，现在呼吸完全正常所以我觉得我可以把剩下的一半也用掉了，脑子要彻底被阿片玩坏掉了 https://t.co/l54iG8FoXV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2101805703333814612",
+        "created_at": "2026-09-20T22:48:23.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T23:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101805703333814612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101805703333814612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1016,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片鬼限时返场，曲马多+1161太爽了，欣快感高潮强度明显提升，并且后续一直有一阵阵的强烈欣快感，爽死了，爽死了，爽死了，阿片又要把我艹死了捏"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101856791999246820",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 320,
+          "like_count": 12021,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3494
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

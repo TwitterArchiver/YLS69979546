@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2105687225568764117",
+    "created_at": "2026-10-01T17:41:02.000Z",
+    "display_text_range": [
+      14,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T18:41:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105714622670270968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047879211168493568",
+          "start": 0,
+          "username": "aberyoheiabe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105714622670270968",
+    "in_reply_to_user_id": "2047879211168493568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105687225568764117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aberyoheiabe 不影响，睡没睡着吃这一次都会增加耐药，但不会因为没睡着而增加额外的耐药，除非你又吃了一颗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2105687225568764117",
+        "created_at": "2026-10-01T17:41:02.000Z",
+        "display_text_range": [
+          14,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105714622670270968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047879211168493568",
+              "start": 0,
+              "username": "aberyoheiabe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105714622670270968",
+        "in_reply_to_user_id": "2047879211168493568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105687225568764117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aberyoheiabe 不影响，睡没睡着吃这一次都会增加耐药，但不会因为没睡着而增加额外的耐药，除非你又吃了一颗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047879211168493568",
+        "conversation_id": "2105687225568764117",
+        "created_at": "2026-10-01T15:52:11.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105687225568764117"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105687225568764117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 469,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想问一下大家(´o̴̶̷̤ㅂo̴̶̷̤`)\n如果这次吃唑吡坦但是忍着没睡着\n下次吃唑吡坦还有用吗，会不会影响药效什么的啊😰😰😰\n（只知道喹硫平忍过去对下次吃完全不影响）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105714622670270968",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 320,
+          "like_count": 12967,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3795
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-25T03:24:13.000Z",
+        "description": "⊹ すずめ ⊹ 前世：@aberyoheiabe⌇三代目：@aberyoheiszm⌇𝟢𝟧⌇天使/水色界隈 🫧\nメンヘラ  ✟  依存症  ✟  〇Ð ✟ お掃除 💉\n​*⑅୨୧  無言フォローでお迎え​  ୨୧⑅* \n​他担・他界隈様◎同担◎( 恋愛不可 🆖)看成分互fo\n↓🦋的联系方式！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "aberyoheiabe"
+              },
+              {
+                "end": 42,
+                "start": 29,
+                "username": "aberyoheiszm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/aberyo…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/aberyoheiskm.bsky.social",
+                "start": 0,
+                "url": "https://t.co/8Sfw0dOLQB"
+              }
+            ]
+          }
+        },
+        "id": "2047879211168493568",
+        "is_identity_verified": false,
+        "location": "地獄の監禁室",
+        "most_recent_tweet_id": "2105701412361678914",
+        "name": "⊹ SUZUME ⊹🩵（寻回互fo）",
+        "pinned_tweet_id": "2094084500724809996",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047879211168493568/1777087553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047885258499162112/U69oegBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 363,
+          "like_count": 1135,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 733
+        },
+        "url": "https://t.co/8Sfw0dOLQB",
+        "username": "aberyoheiabe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

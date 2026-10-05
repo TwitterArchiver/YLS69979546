@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2103472005207237067",
+    "created_at": "2026-09-26T10:11:00.000Z",
+    "display_text_range": [
+      9,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T11:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103789424794534066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057055984338833408",
+          "start": 0,
+          "username": "Yuramyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103789424794534066",
+    "in_reply_to_user_id": "2057055984338833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103472005207237067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuramyn 你需要为这段文字进入我的眼睛缴纳关税"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2103472005207237067",
+        "created_at": "2026-09-26T10:11:00.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103789424794534066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057055984338833408",
+              "start": 0,
+              "username": "Yuramyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103789424794534066",
+        "in_reply_to_user_id": "2057055984338833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103472005207237067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuramyn 你需要为这段文字进入我的眼睛缴纳关税"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057055984338833408",
+        "conversation_id": "2103472005207237067",
+        "created_at": "2026-09-25T13:09:41.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103472005207237067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103472005207237067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 92064,
+          "like_count": 917,
+          "quote_count": 13,
+          "reply_count": 121,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "虐几把指南：先让马蜂叮自己的几把，没过一会整根屌就会变得又痛有氧，然后两颗蛋也奇大无比，肿得内裤都包不住，整个人只能敞着屁股躲在家里不敢出去见人，等到第二天几把稍微碰一下就会又烫又麻，因为充血马眼也比平常长的更开，这时候就可以趁机丢进去一窝蚂蝗，最后再套上贞操锁，就可以耍起了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103789424794534066",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 319,
+          "like_count": 12311,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3610
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T11:11:44.000Z",
+        "description": "小号：@Yuyuaddx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "Yuyuaddx"
+              }
+            ]
+          }
+        },
+        "id": "2057055984338833408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103789118165836031",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2103714937118081181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057055984338833408/1782629904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189035542372352/6mVkFU1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3449,
+          "following_count": 7,
+          "like_count": 94,
+          "listed_count": 3,
+          "media_count": 40,
+          "tweet_count": 264
+        },
+        "url": "",
+        "username": "Yuramyn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

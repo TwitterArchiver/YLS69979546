@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2106323250968162694",
+    "created_at": "2026-10-03T16:50:03.000Z",
+    "display_text_range": [
+      17,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T17:50:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106426566528135444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998633997623300096",
+          "start": 0,
+          "username": "17kxscvooo45974"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106426566528135444",
+    "in_reply_to_user_id": "1998633997623300096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106323250968162694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@17kxscvooo45974 按我的经验阿片类剂量比较大，每天多次的话四五天之后会有戒断反应，但是如果你多次戒断再复吸的话，耐受和戒断都会来的特别快，比如每使用一次耐受上升一点磕两天之后直接开始出戒断反应了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_2106323242369835008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsp1EOaYAA-xxB.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2106323250968162694",
+        "created_at": "2026-10-03T16:50:03.000Z",
+        "display_text_range": [
+          17,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106426566528135444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998633997623300096",
+              "start": 0,
+              "username": "17kxscvooo45974"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106426566528135444",
+        "in_reply_to_user_id": "1998633997623300096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106323250968162694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@17kxscvooo45974 按我的经验阿片类剂量比较大，每天多次的话四五天之后会有戒断反应，但是如果你多次戒断再复吸的话，耐受和戒断都会来的特别快，比如每使用一次耐受上升一点磕两天之后直接开始出戒断反应了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106323242369835008"
+          ]
+        },
+        "author_id": "1998633997623300096",
+        "conversation_id": "2106323250968162694",
+        "created_at": "2026-10-03T09:59:31.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106323250968162694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RjOcaPeBz2",
+              "end": 89,
+              "expanded_url": "https://x.com/17kxscvooo45974/status/2106323250968162694/photo/1",
+              "media_key": "3_2106323242369835008",
+              "start": 66,
+              "url": "https://t.co/RjOcaPeBz2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106323250968162694",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106323242369835008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个报告说，吃海洛因，每天四次，每次一克，三天上瘾，可是没有耐受的前提下，第一次吸一克，我觉得第一次应该是凉凉了，没有机会上瘾的。 https://t.co/RjOcaPeBz2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106426566528135444",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 321,
+          "like_count": 13122,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3819
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-10T06:00:59.000Z",
+        "description": "https://t.co/Yn9N2XnAZK长时间不更新就是去到啊偏星球了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/erfjjuu",
+                "end": 23,
+                "expanded_url": "https://t.me/erfjjuu",
+                "start": 0,
+                "url": "https://t.co/Yn9N2XnAZK"
+              }
+            ]
+          }
+        },
+        "id": "1998633997623300096",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106395263799853202",
+        "name": "liyuexi263527282🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998633997623300096/1781697073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089300666359664640/x2Seu3j3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 335,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "17kxscvooo45974",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

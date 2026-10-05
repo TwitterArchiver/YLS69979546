@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104647305647595879",
+    "created_at": "2026-09-28T21:40:28.000Z",
+    "display_text_range": [
+      8,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T22:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104687711055749628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104687711055749628",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104647305647595879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvovl3 拼多多试图自从之前普瑞不能无需补充立即开方之后就对各种处方越来越严了，其他平台都比拼多多宽松"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 602,
+        "media_key": "3_2104640405044346880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTUvTCqaQAANilZ.jpg",
+        "width": 647
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104647305647595879",
+        "created_at": "2026-09-28T21:40:28.000Z",
+        "display_text_range": [
+          8,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T22:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104687711055749628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104687711055749628",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104647305647595879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 拼多多试图自从之前普瑞不能无需补充立即开方之后就对各种处方越来越严了，其他平台都比拼多多宽松"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104640405044346880"
+          ]
+        },
+        "author_id": "1994724283176947712",
+        "conversation_id": "2104647305647595879",
+        "created_at": "2026-09-28T18:59:54.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104647305647595879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3OEwsyUK7K",
+              "end": 99,
+              "expanded_url": "https://x.com/lvovl3/status/2104647305647595879/photo/1",
+              "media_key": "3_2104640405044346880",
+              "start": 76,
+              "url": "https://t.co/3OEwsyUK7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104647305647595879",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104640405044346880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前在pdd上买安非他酮都是无需开方立即通过\n然后现在居然是真人查我的开药处方\n跟我说必须要两个月还是几个月以内的\n\n哦哦哦哦？\n我是不是要囤点…… https://t.co/3OEwsyUK7K"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104687711055749628",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 319,
+          "like_count": 12644,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3715
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD/我的斜杠青年是精神疾病/双相/精神分裂/ed/严肃od中/girl but not human/not alien\n全世界最恨homework之人/人生是被恐惧追赶着逃跑\n有🚪88/爱我请口令红包@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "luciawannadone"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名备用号  提问箱关掉了",
+        "most_recent_tweet_id": "2104685562808729763",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 685,
+          "like_count": 6331,
+          "listed_count": 2,
+          "media_count": 690,
+          "tweet_count": 7428
+        },
+        "url": "",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

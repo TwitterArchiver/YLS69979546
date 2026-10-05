@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2094573035789644008",
+    "created_at": "2026-09-16T22:33:45.000Z",
+    "display_text_range": [
+      15,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T23:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100352468580532309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1710447447225597952",
+          "start": 0,
+          "username": "return1125203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100352468580532309",
+    "in_reply_to_user_id": "1710447447225597952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100336766230393217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@return1125203 这么大剂量不会低血压吗，我一次1ml都不到，剩下的再抽一针出来然后灌进鼻喷瓶里，鼻喷我也感觉和肌注差不多效果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2094573035789644008",
+        "created_at": "2026-09-16T22:33:45.000Z",
+        "display_text_range": [
+          15,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100352468580532309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1710447447225597952",
+              "start": 0,
+              "username": "return1125203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100352468580532309",
+        "in_reply_to_user_id": "1710447447225597952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100336766230393217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@return1125203 这么大剂量不会低血压吗，我一次1ml都不到，剩下的再抽一针出来然后灌进鼻喷瓶里，鼻喷我也感觉和肌注差不多效果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1710447447225597952",
+        "conversation_id": "2094573035789644008",
+        "created_at": "2026-09-16T21:31:22.000Z",
+        "display_text_range": [
+          13,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:31:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100336766230393217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100336766230393217",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094573035789644008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 我都是扎 2ml 臀大肌的，1ml 根本睡不着，但会有点昏沉，放松。到目前为止我都不记得我用了多少盒了😂，我用的美大的，舌下含跟肌注差不多效果，但我还是喜欢扎针，不知道为什么，扎的时候紧张一下然后注射完会放松（不是药的效果）。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100352468580532309",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 317,
+          "like_count": 11782,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3433
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-07T00:10:38.000Z",
+        "description": "",
+        "id": "1710447447225597952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100336766230393217",
+        "name": "a半颗瓜子花生",
+        "pinned_tweet_id": "2062055771014307970",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877200701341970433/cgYfbWwB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 281,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "return1125203",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

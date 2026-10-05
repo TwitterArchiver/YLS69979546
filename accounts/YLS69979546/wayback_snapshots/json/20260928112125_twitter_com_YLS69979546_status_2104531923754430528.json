@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104321371841110342",
+    "created_at": "2026-09-28T11:21:25.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T12:21:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104531923754430528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1965877267193569280",
+          "start": 0,
+          "username": "yugusugufarsiv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104531923754430528",
+    "in_reply_to_user_id": "1965877267193569280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104321371841110342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yugusugufarsiv 尼古喵喵来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42874,
+        "height": 1920,
+        "media_key": "13_2104321318887768065",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104321318887768065/img/0ZhHOFd5KGvaXad4.jpg",
+        "public_metrics": {
+          "view_count": 867546
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321318887768065/vid/avc1/480x852/aXV1_b2Vvn9SGSXA.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321318887768065/vid/avc1/320x568/pPJcBoCVI_bcVK-T.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321318887768065/vid/avc1/1080x1920/5eXMKL5yBz7Eqzph.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104321318887768065/pl/NA0Xj9nLpz_RHoc8.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104321318887768065/vid/avc1/720x1280/QQ4XmL-4X1L0ZAuN.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104321371841110342",
+        "created_at": "2026-09-28T11:21:25.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T12:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104531923754430528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1965877267193569280",
+              "start": 0,
+              "username": "yugusugufarsiv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104531923754430528",
+        "in_reply_to_user_id": "1965877267193569280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104321371841110342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yugusugufarsiv 尼古喵喵来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104321318887768065"
+          ]
+        },
+        "author_id": "1965877267193569280",
+        "conversation_id": "2104321371841110342",
+        "created_at": "2026-09-27T21:24:46.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104321371841110342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6s03g2Ag6B",
+              "end": 63,
+              "expanded_url": "https://x.com/yugusugufarsiv/status/2104321371841110342/video/1",
+              "media_key": "13_2104321318887768065",
+              "start": 40,
+              "url": "https://t.co/6s03g2Ag6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104321371841110342",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2104321318887768065"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2766,
+          "impression_count": 1661305,
+          "like_count": 13835,
+          "quote_count": 263,
+          "reply_count": 387,
+          "retweet_count": 621
+        },
+        "reply_settings": "everyone",
+        "text": "sigarayı tek nefeste içip bitiren çocuk https://t.co/6s03g2Ag6B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104531923754430528",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 314,
+          "like_count": 12611,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3699
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-10T20:38:10.000Z",
+        "description": "Yugusuguf Arşiv askıya alındı yeni hesap \nadmin: @fugusuguy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "fugusuguy"
+              }
+            ]
+          }
+        },
+        "id": "1965877267193569280",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104448127616889148",
+        "name": "Yugusuguf Arşiv Yeni",
+        "pinned_tweet_id": "2102298160345280723",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965877267193569280/1790080529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103005527156326400/T5AVK3X9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25421,
+          "following_count": 110,
+          "like_count": 116,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "yugusugufarsiv",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

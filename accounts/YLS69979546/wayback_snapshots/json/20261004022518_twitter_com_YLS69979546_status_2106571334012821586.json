@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2106320819089764772",
+    "created_at": "2026-10-04T02:25:18.000Z",
+    "display_text_range": [
+      8,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T03:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106571334012821586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092517131552423936",
+          "start": 0,
+          "username": "MT7276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106571334012821586",
+    "in_reply_to_user_id": "2092517131552423936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106320819089764772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MT7276 右美沙芬不抑制2d6吧，反而解离剂能略微降低阿片类耐药增强药效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2106320819089764772",
+        "created_at": "2026-10-04T02:25:18.000Z",
+        "display_text_range": [
+          8,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106571334012821586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092517131552423936",
+              "start": 0,
+              "username": "MT7276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106571334012821586",
+        "in_reply_to_user_id": "2092517131552423936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106320819089764772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MT7276 右美沙芬不抑制2d6吧，反而解离剂能略微降低阿片类耐药增强药效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092517131552423936",
+        "conversation_id": "2106320819089764772",
+        "created_at": "2026-10-03T09:49:51.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106320819089764772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106320819089764772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1146,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "使用右美沙芬后10天内不要吃双氢可待因\n前天晚上o了愈美片，然后今天吃白兔一直补到84t都只有咖啡因的效果。\nai给我说是CYP2D6酶被dxm抑制使双氢可待因转化不出足够的双氢吗啡所以没有药效。\n好想哭啊，浪费了一瓶白兔😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106571334012821586",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 321,
+          "like_count": 13157,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3840
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "友所有人\n会回fo同类喵\n简介施工中\nhttps://t.co/6gBhlfU4Bv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mt17276",
+                "end": 42,
+                "expanded_url": "https://ngl.link/mt17276",
+                "start": 19,
+                "url": "https://t.co/6gBhlfU4Bv"
+              }
+            ]
+          }
+        },
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106554657204257157",
+        "name": "MT",
+        "pinned_tweet_id": "2106331688838348909",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 205,
+          "like_count": 4823,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1077
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

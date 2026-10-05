@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2103255900450660745",
+    "created_at": "2026-09-25T18:32:10.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:32:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103553161957171259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2050049924008660992",
+          "start": 0,
+          "username": "OD4UFML"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103553161957171259",
+    "in_reply_to_user_id": "2050049924008660992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103471861657203153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OD4UFML 瘙痒是阿片类一个非常普遍的副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2103255900450660745",
+        "created_at": "2026-09-25T18:32:10.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103553161957171259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2050049924008660992",
+              "start": 0,
+              "username": "OD4UFML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103553161957171259",
+        "in_reply_to_user_id": "2050049924008660992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103471861657203153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OD4UFML 瘙痒是阿片类一个非常普遍的副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050049924008660992",
+        "conversation_id": "2103255900450660745",
+        "created_at": "2026-09-25T13:09:07.000Z",
+        "display_text_range": [
+          13,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103471861657203153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103471861657203153",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103255900450660745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 原来阿片真的会痒吗？我还以为是我药物过敏了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103553161957171259",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 321,
+          "like_count": 12275,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3593
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-01T03:09:38.000Z",
+        "description": "千行皆心腑，三年空负春",
+        "id": "2050049924008660992",
+        "is_identity_verified": false,
+        "location": "自深深处",
+        "most_recent_tweet_id": "2103550278545166836",
+        "name": "不挽春",
+        "pinned_tweet_id": "2102885685699182896",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050049924008660992/1790227189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101675924127444992/adPvqHpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 108,
+          "like_count": 980,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "OD4UFML",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

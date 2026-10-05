@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099871009935692209",
+    "created_at": "2026-09-15T20:01:50.000Z",
+    "display_text_range": [
+      8,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T21:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099951850082755006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1994724283176947712",
+          "start": 0,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099951850082755006",
+    "in_reply_to_user_id": "1994724283176947712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099946355158601893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lvovl3 托莫西汀对我好像没用，专注达还是挺有用的，但是我如果吃完被某些因素诱发焦虑就会开始难受，我都得在比较合适的环境下吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099871009935692209",
+        "created_at": "2026-09-15T20:01:50.000Z",
+        "display_text_range": [
+          8,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099951850082755006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099951850082755006",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099946355158601893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 托莫西汀对我好像没用，专注达还是挺有用的，但是我如果吃完被某些因素诱发焦虑就会开始难受，我都得在比较合适的环境下吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994724283176947712",
+        "conversation_id": "2099871009935692209",
+        "created_at": "2026-09-15T19:40:00.000Z",
+        "display_text_range": [
+          13,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T20:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099946355158601893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099946355158601893",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099876286021988700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 我吃专注达治疗剂量感觉诱发了我的精神分裂\n我感觉死亡在向我逼近\n\n我在吃托莫西汀(\n对我来说有即时的注意力提升，感恩不会引起焦虑\n但这一切都只是因为我对兴奋剂太敏感了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099951850082755006",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 307,
+          "like_count": 11727,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3405
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD/我的斜杠青年是精神疾病/双相/精神分裂/ed/严肃od中/girl but not human/not alien\n全世界最恨homework之人/人生是被恐惧追赶着逃跑\n有🚪88/爱我请口令红包@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "luciawannadone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zabuu.site/user/detail/19…",
+                "end": 23,
+                "expanded_url": "https://zabuu.site/user/detail/1994724283176947712",
+                "start": 0,
+                "url": "https://t.co/y3THJjqrwt"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名是备用号  链接是提问箱",
+        "most_recent_tweet_id": "2099947095348420646",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 632,
+          "like_count": 5679,
+          "listed_count": 2,
+          "media_count": 576,
+          "tweet_count": 6445
+        },
+        "url": "https://t.co/y3THJjqrwt",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099010716707778798",
+    "created_at": "2026-09-14T07:59:41.000Z",
+    "display_text_range": [
+      27,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T08:59:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099407724484452375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2064236987213905920",
+          "start": 0,
+          "username": "YuukiReina2023"
+        },
+        {
+          "end": 26,
+          "id": "1759955681593917440",
+          "start": 16,
+          "username": "Xioa_SuLi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099407724484452375",
+    "in_reply_to_user_id": "2064236987213905920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099035837384311179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuukiReina2023 @Xioa_SuLi 真的吗，我可以开到普瑞，所以我能推断我可以开羟考酮吗，那我要去开羟考酮了🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099010716707778798",
+        "created_at": "2026-09-14T07:59:41.000Z",
+        "display_text_range": [
+          27,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T08:59:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099407724484452375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2064236987213905920",
+              "start": 0,
+              "username": "YuukiReina2023"
+            },
+            {
+              "end": 26,
+              "id": "1759955681593917440",
+              "start": 16,
+              "username": "Xioa_SuLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099407724484452375",
+        "in_reply_to_user_id": "2064236987213905920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099035837384311179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuukiReina2023 @Xioa_SuLi 真的吗，我可以开到普瑞，所以我能推断我可以开羟考酮吗，那我要去开羟考酮了🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064236987213905920",
+        "conversation_id": "2099010716707778798",
+        "created_at": "2026-09-13T07:21:56.000Z",
+        "display_text_range": [
+          11,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099035837384311179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1759955681593917440",
+              "start": 0,
+              "username": "Xioa_SuLi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099035837384311179",
+        "in_reply_to_user_id": "1759955681593917440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099010716707778798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xioa_SuLi 現在奧斯康定比這個好開（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099407724484452375",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 306,
+          "like_count": 11589,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3364
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-09T06:44:46.000Z",
+        "description": "A cute autistic kiddo and her gadgets: Dreams of becoming a fox-girl engineer, dabbles in electronics & coding😊\n\n哥@YangDowond 老婆@LolingVerse 姐姐@smiroyama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 114,
+                "username": "YangDowond"
+              },
+              {
+                "end": 140,
+                "start": 128,
+                "username": "LolingVerse"
+              },
+              {
+                "end": 153,
+                "start": 143,
+                "username": "smiroyama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YuukiReina2023",
+                "end": 23,
+                "expanded_url": "https://github.com/YuukiReina2023",
+                "start": 0,
+                "url": "https://t.co/2dFOiyRx87"
+              }
+            ]
+          }
+        },
+        "id": "2064236987213905920",
+        "is_identity_verified": false,
+        "location": "京都第二赤十字病院",
+        "most_recent_tweet_id": "2099353291692089364",
+        "name": "𝒴𝓊𝓊𝓀𝒾ℛℯ𝒾𝓃𝒶×𝒟𝒾𝓈ℴ𝓇𝒹ℯ𝓇",
+        "pinned_tweet_id": "2095017515764318548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064236987213905920/1787368592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086683250437537792/gnAY6x_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 229,
+          "like_count": 1850,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 486
+        },
+        "url": "https://t.co/2dFOiyRx87",
+        "username": "YuukiReina2023",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-20T14:58:41.000Z",
+        "description": "记住每天保持微笑ヾ(✿ﾟ▽ﾟ)ノ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "https://t.me",
+                "start": 0,
+                "url": "https://t.co/92fY79QjRQ"
+              }
+            ]
+          }
+        },
+        "id": "1759955681593917440",
+        "is_identity_verified": false,
+        "location": "地球",
+        "most_recent_tweet_id": "2099380807165182212",
+        "name": "薪薪🍥",
+        "pinned_tweet_id": "1916962863601881373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759955681593917440/1734001138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851580126796083201/BZa5z-O3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 395,
+          "like_count": 165,
+          "listed_count": 2,
+          "media_count": 229,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/92fY79QjRQ",
+        "username": "Xioa_SuLi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

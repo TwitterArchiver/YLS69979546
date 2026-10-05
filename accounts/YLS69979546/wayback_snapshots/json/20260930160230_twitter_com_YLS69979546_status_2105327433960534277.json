@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2105283090289492163",
+    "created_at": "2026-09-30T16:02:30.000Z",
+    "display_text_range": [
+      22,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:02:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105327433960534277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822109599459397632",
+          "start": 0,
+          "username": "zifensix"
+        },
+        {
+          "end": 21,
+          "id": "2085173242814451712",
+          "start": 10,
+          "username": "yuda4_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105327433960534277",
+    "in_reply_to_user_id": "1822109599459397632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105307969256890737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifensix @yuda4_8964 太坏了，你不许引导系度！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2105283090289492163",
+        "created_at": "2026-09-30T16:02:30.000Z",
+        "display_text_range": [
+          22,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105327433960534277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822109599459397632",
+              "start": 0,
+              "username": "zifensix"
+            },
+            {
+              "end": 21,
+              "id": "2085173242814451712",
+              "start": 10,
+              "username": "yuda4_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105327433960534277",
+        "in_reply_to_user_id": "1822109599459397632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105307969256890737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifensix @yuda4_8964 太坏了，你不许引导系度！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822109599459397632",
+        "conversation_id": "2105283090289492163",
+        "created_at": "2026-09-30T14:45:09.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:45:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105307969256890737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2085173242814451712",
+              "start": 0,
+              "username": "yuda4_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105307969256890737",
+        "in_reply_to_user_id": "2085173242814451712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105284657377862088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuda4_8964 你怎么知道我给不系度的朋友分享独品？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105327433960534277",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 319,
+          "like_count": 12792,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3752
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人 自己找骂的除外😎\n09年 17岁 男的\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓\n小号 @zifeneight",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "zifeneight"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuFsw2"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105307969256890737",
+        "name": "自分",
+        "pinned_tweet_id": "2095062171684360268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1822109599459397632/1790405847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 193,
+          "like_count": 744,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/GFoTTuFsw2",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T01:20:17.000Z",
+        "description": "@yuda3_8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "yuda3_8964"
+              }
+            ]
+          }
+        },
+        "id": "2085173242814451712",
+        "is_identity_verified": false,
+        "location": "地心世界",
+        "most_recent_tweet_id": "2105311371537658018",
+        "name": "𝖞𝖚𝖉𝖆🏴‍☠️(4.0)",
+        "pinned_tweet_id": "2105276718181179901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085173242814451712/1789984331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085174857097150464/Dke2R4rR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 141,
+          "like_count": 7735,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 389
+        },
+        "url": "",
+        "username": "yuda4_8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

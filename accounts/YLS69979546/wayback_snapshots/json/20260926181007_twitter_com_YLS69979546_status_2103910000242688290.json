@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2103910000242688290",
+    "created_at": "2026-09-26T18:10:07.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T19:10:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103910000242688290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030021360785694720",
+          "start": 3,
+          "username": "iris0571"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103910000242688290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103759340247158852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iris0571: 毒品之所以被称作罪恶，是大他者对原乐的恐惧。作为被禁止的享乐，物质绕过了语言、符号，它直接命令你的身体感到极乐，这是不被允许的。在拉康语境中，致幻剂是遭遇实在界的一场意外，是绕过菲勒斯能指的享乐，即揭示出了大他者的不可靠性。是逃逸线的坐标，它让主体发…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2103910000242688290",
+        "created_at": "2026-09-26T18:10:07.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T19:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103910000242688290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030021360785694720",
+              "start": 3,
+              "username": "iris0571"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103910000242688290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103759340247158852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iris0571: 毒品之所以被称作罪恶，是大他者对原乐的恐惧。作为被禁止的享乐，物质绕过了语言、符号，它直接命令你的身体感到极乐，这是不被允许的。在拉康语境中，致幻剂是遭遇实在界的一场意外，是绕过菲勒斯能指的享乐，即揭示出了大他者的不可靠性。是逃逸线的坐标，它让主体发…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030021360785694720",
+        "conversation_id": "2103759340247158852",
+        "created_at": "2026-09-26T08:11:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103759340247158852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103759340247158852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "毒品之所以被称作罪恶，是大他者对原乐的恐惧。作为被禁止的享乐，物质绕过了语言、符号，它直接命令你的身体感到极乐，这是不被允许的。在拉康语境中，致幻剂是遭遇实在界的一场意外，是绕过菲勒斯能指的享乐，即揭示出了大他者的不可靠性。是逃逸线的坐标，它让主体发现，不需要介由符号秩序也可获得极乐，能指溃散，规则失效，伦理失重\n\n既然原乐触手可及，为何还要遵循欲望机器所下达的命令？沉沦在色胺带来的雪花屏与失重感，拥抱小客体a有何不可？他们害怕，将瘾君子囚禁，因为无法创造所谓的价值，瘾君子退出了由普世观念建构的规则，正常人将他们称作异类。他们拒绝了阉割，这是对子宫的一次回望。\n\n就像精神病结构一般，正常人用疯子来遮盖，拒绝承认符号秩序的脆弱性。他们拒绝了大他者淫乱的飞乐思享乐。生成一个无器官的身体，作为一个绝对自由的主体，游牧在独立于大他者的享乐。瘾君子的肉体无法提供生产率，无法提供价值，主体被要求忏悔，为何忏悔？戒毒所是一艘愚人船，历史再次上演，人类并未改变任何事。我只是想抱怨，为什么人类觉得自己有资格评判另一个主体。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1780,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "毒品之所以被称作罪恶，是大他者对原乐的恐惧。作为被禁止的享乐，物质绕过了语言、符号，它直接命令你的身体感到极乐，这是不被允许的。在拉康语境中，致幻剂是遭遇实在界的一场意外，是绕过菲勒斯能指的享乐，即揭示出了大他者的不可靠性。是逃逸线的坐标，它让主体发现，不需要介由符号秩序也可获得"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103910000242688290",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 318,
+          "like_count": 12410,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3623
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T20:44:15.000Z",
+        "description": "oder/🏳️‍🌈/bpd/偏执狂/🩸/🚬/tcc/08/安那其妈妈/长发男/许珀耳玻瑞亚游牧中",
+        "id": "2030021360785694720",
+        "is_identity_verified": false,
+        "location": "千高原",
+        "most_recent_tweet_id": "2103833389447217475",
+        "name": "la mort✝️",
+        "pinned_tweet_id": "2103391828166992210",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030021360785694720/1788745413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096672324552712192/157kREMe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 99,
+          "like_count": 2154,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "iris0571",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

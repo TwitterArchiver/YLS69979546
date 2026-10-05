@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104000106446152142",
+    "created_at": "2026-09-27T07:51:40.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T08:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104116750178746838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104116750178746838",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104000106446152142",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 是这样的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104000106446152142].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104000106446152142",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104000106446152142"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104000106446152142",
+        "created_at": "2026-09-27T07:51:40.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T08:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104116750178746838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104116750178746838",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104000106446152142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 是这样的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104116750178746838",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 315,
+          "like_count": 12447,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3639
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "退役oder，锁推只是防止被推送出去 欢迎互fo！\nHe/They/猫🏳️‍🌈🏳️‍⚧️💛🤍💜🖤#drugtwt #shtwt #Audhd #transmasc\n万一被封逃生舱 @8964qwerty",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "shtwt"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "Audhd"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "tag": "transmasc"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "8964qwerty"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "is_identity_verified": false,
+        "location": "请勿截图/转载这里的任何内容 文字和图片",
+        "most_recent_tweet_id": "2039955080338878864",
+        "name": "🐱",
+        "pinned_tweet_id": "2103767741811556803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545898408858161154/1778057547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051338286296387587/A6mOoIbE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 812,
+          "following_count": 1475,
+          "like_count": 7172,
+          "listed_count": 1,
+          "media_count": 719,
+          "tweet_count": 4734
+        },
+        "url": "",
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

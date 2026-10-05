@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099467620072272119",
+    "created_at": "2026-09-14T18:18:33.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T19:18:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099563467581837327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1492068366731059203",
+          "start": 0,
+          "username": "Yuki3Mepcpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099563467581837327",
+    "in_reply_to_user_id": "1492068366731059203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099467620072272119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki3Mepcpy 戒？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3528,
+        "media_key": "3_2099467589793775617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLOpkMagAEtk0k.jpg",
+        "width": 3528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099467620072272119",
+        "created_at": "2026-09-14T18:18:33.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T19:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099563467581837327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1492068366731059203",
+              "start": 0,
+              "username": "Yuki3Mepcpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099563467581837327",
+        "in_reply_to_user_id": "1492068366731059203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099467620072272119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki3Mepcpy 戒？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099467589793775617"
+          ]
+        },
+        "author_id": "1492068366731059203",
+        "conversation_id": "2099467620072272119",
+        "created_at": "2026-09-14T11:57:41.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099467620072272119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VzjqXO5Wbe",
+              "end": 28,
+              "expanded_url": "https://x.com/Yuki3Mepcpy/status/2099467620072272119/photo/1",
+              "media_key": "3_2099467589793775617",
+              "start": 5,
+              "url": "https://t.co/VzjqXO5Wbe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099467620072272119",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099467589793775617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何墙灰? https://t.co/VzjqXO5Wbe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099563467581837327",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 308,
+          "like_count": 11656,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3377
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-11T09:30:08.000Z",
+        "description": "早已逝去之人 早已宽恕之罪 \n@Cecey33 与 @Yuki1161_IC26 的附庸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "Cecey33"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Yuki1161_IC26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/VLygxKkrdq"
+              }
+            ]
+          }
+        },
+        "id": "1492068366731059203",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2099561807845183872",
+        "name": "岐",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1492068366731059203/1788247653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095031175936970752/NSRNopkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 80,
+          "like_count": 236,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 92
+        },
+        "url": "https://t.co/VLygxKkrdq",
+        "username": "Yuki3Mepcpy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

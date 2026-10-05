@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099021017725436170",
+    "created_at": "2026-09-13T11:17:34.000Z",
+    "display_text_range": [
+      31,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T12:17:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099095137129464098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1927934266673090560",
+          "start": 0,
+          "username": "paperstone15564"
+        },
+        {
+          "end": 30,
+          "id": "1386670401422434304",
+          "start": 17,
+          "username": "xx1012000456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099095137129464098",
+    "in_reply_to_user_id": "1927934266673090560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099037300068130910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paperstone15564 @xx1012000456 哦，要送自选五星了？那我要不要回游一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099021017725436170",
+        "created_at": "2026-09-13T11:17:34.000Z",
+        "display_text_range": [
+          31,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T12:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099095137129464098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1927934266673090560",
+              "start": 0,
+              "username": "paperstone15564"
+            },
+            {
+              "end": 30,
+              "id": "1386670401422434304",
+              "start": 17,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099095137129464098",
+        "in_reply_to_user_id": "1927934266673090560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099037300068130910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paperstone15564 @xx1012000456 哦，要送自选五星了？那我要不要回游一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927934266673090560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2099021017725436170",
+        "created_at": "2026-09-13T07:27:45.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099037300068130910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386670401422434304",
+              "start": 0,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099037300068130910",
+        "in_reply_to_user_id": "1386670401422434304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099021017725436170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xx1012000456 公子，公子进原神送的自选五星了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099095137129464098",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 294,
+          "like_count": 11550,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3347
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-29T03:46:26.000Z",
+        "description": "06 | 自诊中抑 | od初尝试？|oder |同频互fo |过于抽象请自行离开 |不见证  | 本科在读 |可以叫我石头/stone | 有点呆傻\n提问箱https://t.co/WIWyyeVimf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/paperstone15564",
+                "end": 102,
+                "expanded_url": "https://ngl.link/paperstone15564",
+                "start": 79,
+                "url": "https://t.co/WIWyyeVimf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/stoneholder",
+                "end": 23,
+                "expanded_url": "http://t.me/stoneholder",
+                "start": 0,
+                "url": "https://t.co/AwRSLvFMZv"
+              }
+            ]
+          }
+        },
+        "id": "1927934266673090560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099041027533484424",
+        "name": "烛断的石头",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1927934266673090560/1787074065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089762662762819584/JMtls2gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 76,
+          "like_count": 65,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/AwRSLvFMZv",
+        "username": "paperstone15564",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2099021017725436170",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2089350220362678485",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2104,
+          "following_count": 1025,
+          "like_count": 200,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 2376
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

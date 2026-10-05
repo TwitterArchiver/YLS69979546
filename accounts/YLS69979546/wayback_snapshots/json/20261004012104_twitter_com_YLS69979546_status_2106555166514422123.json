@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2106175055436861464",
+    "created_at": "2026-10-04T01:21:04.000Z",
+    "display_text_range": [
+      36,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T02:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106555166514422123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4718589763",
+          "start": 0,
+          "username": "shao_zhufeng"
+        },
+        {
+          "end": 21,
+          "id": "1804158999660761092",
+          "start": 14,
+          "username": "asdhby"
+        },
+        {
+          "end": 35,
+          "id": "1593799138893873152",
+          "start": 22,
+          "username": "Fuugetsu_808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106555166514422123",
+    "in_reply_to_user_id": "4718589763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106360859392164000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shao_zhufeng @asdhby @Fuugetsu_808 公务员体检怎么可能做基因筛查，那能当公务员的估计没多少人了，有基因缺陷的人多的很只是未必表现出来或者不影响日常生活而已，只有白毛没有表现出其他问题肯定能过体检"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2106175055436861464",
+        "created_at": "2026-10-04T01:21:04.000Z",
+        "display_text_range": [
+          36,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106555166514422123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4718589763",
+              "start": 0,
+              "username": "shao_zhufeng"
+            },
+            {
+              "end": 21,
+              "id": "1804158999660761092",
+              "start": 14,
+              "username": "asdhby"
+            },
+            {
+              "end": 35,
+              "id": "1593799138893873152",
+              "start": 22,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106555166514422123",
+        "in_reply_to_user_id": "4718589763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106360859392164000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shao_zhufeng @asdhby @Fuugetsu_808 公务员体检怎么可能做基因筛查，那能当公务员的估计没多少人了，有基因缺陷的人多的很只是未必表现出来或者不影响日常生活而已，只有白毛没有表现出其他问题肯定能过体检"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4718589763",
+        "conversation_id": "2106175055436861464",
+        "created_at": "2026-10-03T12:28:57.000Z",
+        "display_text_range": [
+          22,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106360859392164000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1804158999660761092",
+              "start": 0,
+              "username": "asdhby"
+            },
+            {
+              "end": 21,
+              "id": "1593799138893873152",
+              "start": 8,
+              "username": "Fuugetsu_808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106360859392164000",
+        "in_reply_to_user_id": "1804158999660761092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2361,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106217010023772634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@asdhby @Fuugetsu_808 公务员录用体检不检这一项吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106555166514422123",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 321,
+          "like_count": 13151,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3834
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-06T12:48:58.000Z",
+        "description": "人心惟危，道心惟微，惟精惟一，允执厥中。",
+        "id": "4718589763",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106543669037981915",
+        "name": "邵珠峰",
+        "pinned_tweet_id": "1248677193145823232",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4718589763/1491978298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/888415182602424322/t0p_9R-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 742,
+          "like_count": 6076,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 3688
+        },
+        "url": "",
+        "username": "shao_zhufeng",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-21T14:26:53.000Z",
+        "description": "",
+        "id": "1804158999660761092",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106549262016512459",
+        "name": "贝尔乌萨斯",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804159056720064512/H1NzzRga_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 9,
+          "like_count": 2407,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "asdhby",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106544172853584297",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1593799138893873152/1786224982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6408,
+          "following_count": 1939,
+          "like_count": 97034,
+          "listed_count": 13,
+          "media_count": 2071,
+          "tweet_count": 14547
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

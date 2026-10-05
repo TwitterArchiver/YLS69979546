@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2100619055829012791",
+    "created_at": "2026-09-18T14:25:52.000Z",
+    "display_text_range": [
+      16,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100954464551313493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1597105235516076033",
+          "start": 0,
+          "username": "TamikoTomorika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100954464551313493",
+    "in_reply_to_user_id": "1597105235516076033",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100619055829012791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TamikoTomorika 不小心划到手就不爽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2100619055829012791",
+        "created_at": "2026-09-18T14:25:52.000Z",
+        "display_text_range": [
+          16,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100954464551313493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1597105235516076033",
+              "start": 0,
+              "username": "TamikoTomorika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100954464551313493",
+        "in_reply_to_user_id": "1597105235516076033",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100619055829012791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TamikoTomorika 不小心划到手就不爽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1597105235516076033",
+        "conversation_id": "2100619055829012791",
+        "created_at": "2026-09-17T16:13:05.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T17:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100619055829012791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100619055829012791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 261,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掰安玻瓶好爽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100954464551313493",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 321,
+          "like_count": 11874,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3457
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-28T05:49:01.000Z",
+        "description": "躁鬱紗名暴躁電鋸章魚. 16齡 ♡🍊@toukorina \n欠打親妹🐙@glutinouscloud \nAutigender / DiagnosedAutisticDHDyslexia / intersex. 幼兒退行疑難雜症心臟病。野生菌🍄章魚燒露營 #AnyLanguage",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 139,
+                "start": 127,
+                "tag": "AnyLanguage"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "toukorina"
+              },
+              {
+                "end": 50,
+                "start": 35,
+                "username": "glutinouscloud"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tako.sanae.homes",
+                "end": 23,
+                "expanded_url": "http://tako.sanae.homes",
+                "start": 0,
+                "url": "https://t.co/uZF1kL9uXQ"
+              }
+            ]
+          }
+        },
+        "id": "1597105235516076033",
+        "is_identity_verified": false,
+        "location": "静岡県浜松市立広沢小学校",
+        "most_recent_tweet_id": "2100905425306882221",
+        "name": "たみこ🍊🐙🍄🍼躁鬱無凡章魚燒",
+        "pinned_tweet_id": "1883250378118205743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1597105235516076033/1777581111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095029236662980609/t6MwGo1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 4387,
+          "like_count": 31338,
+          "listed_count": 0,
+          "media_count": 1686,
+          "tweet_count": 11887
+        },
+        "url": "https://t.co/uZF1kL9uXQ",
+        "username": "TamikoTomorika",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2100000103646015957",
+    "created_at": "2026-09-15T23:13:35.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T00:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100000103646015957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rositoxin/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/rositoxin/status/2099707407001673791",
+          "start": 11,
+          "url": "https://t.co/JgFGjcNsPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100000103646015957",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099707407001673791",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "this is me https://t.co/JgFGjcNsPd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2100000103646015957",
+        "created_at": "2026-09-15T23:13:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100000103646015957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rositoxin/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/rositoxin/status/2099707407001673791",
+              "start": 11,
+              "url": "https://t.co/JgFGjcNsPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100000103646015957",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099707407001673791",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is me https://t.co/JgFGjcNsPd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068527329769365504",
+        "conversation_id": "2099707407001673791",
+        "created_at": "2026-09-15T03:50:31.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099707407001673791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099707407001673791",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 8197,
+          "like_count": 299,
+          "quote_count": 5,
+          "reply_count": 8,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "i may be using stimulants but opioids are my true love and i miss those oxys every single day"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100000103646015957",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 929,
+          "following_count": 307,
+          "like_count": 11734,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3410
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-21T02:53:27.000Z",
+        "description": "17 ('09) || too high,\ncan't come down\n\nshe/her, bisexual, disordered, and annoying\n@rosicures  ⟡  @cestedrosi priv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "rosicures"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "cestedrosi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rosidose.straw.page",
+                "end": 23,
+                "expanded_url": "http://rosidose.straw.page",
+                "start": 0,
+                "url": "https://t.co/SCLl78mzHD"
+              }
+            ]
+          }
+        },
+        "id": "2068527329769365504",
+        "is_identity_verified": false,
+        "location": "miss mid-atlantic",
+        "most_recent_tweet_id": "2099996678736716067",
+        "name": "rosie ♡",
+        "pinned_tweet_id": "2094753490237112411",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068527329769365504/1789340411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084889735860793345/2BioWG7t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 362,
+          "like_count": 1881,
+          "listed_count": 9,
+          "media_count": 54,
+          "tweet_count": 1490
+        },
+        "url": "https://t.co/SCLl78mzHD",
+        "username": "rositoxin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

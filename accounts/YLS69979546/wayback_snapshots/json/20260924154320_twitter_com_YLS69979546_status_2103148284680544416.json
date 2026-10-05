@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2102869398596034628",
+    "created_at": "2026-09-24T15:43:20.000Z",
+    "display_text_range": [
+      17,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103148284680544416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037210164131225604",
+          "start": 0,
+          "username": "Zoink3118675425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103148284680544416",
+    "in_reply_to_user_id": "2037210164131225604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102869398596034628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoink3118675425 有的人用阿片就是没欣快感的，好像有20％到30％的人用阿片没欣快感，有点羡慕系度不爽的人，我因为系度太爽了所以瘾好大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2102869398596034628",
+        "created_at": "2026-09-24T15:43:20.000Z",
+        "display_text_range": [
+          17,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103148284680544416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037210164131225604",
+              "start": 0,
+              "username": "Zoink3118675425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103148284680544416",
+        "in_reply_to_user_id": "2037210164131225604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102869398596034628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoink3118675425 有的人用阿片就是没欣快感的，好像有20％到30％的人用阿片没欣快感，有点羡慕系度不爽的人，我因为系度太爽了所以瘾好大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037210164131225604",
+        "conversation_id": "2102869398596034628",
+        "created_at": "2026-09-23T21:15:08.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T22:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102869398596034628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102869398596034628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1224,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "羡慕你们这些没抑郁伴快感缺失的人，玩阿片有高潮式欣快，我玩阿片除了麻木，呼吸抑制和恶心以外什么都没有"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103148284680544416",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 321,
+          "like_count": 12180,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3540
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T16:49:53.000Z",
+        "description": "intp/互fo/audhd\n热爱药理学",
+        "id": "2037210164131225604",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103023011825885221",
+        "name": "链光",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081896585886314496/XZ8_hwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 387,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 235
+        },
+        "url": "",
+        "username": "Zoink3118675425",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

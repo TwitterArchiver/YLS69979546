@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2103173884904382596",
+    "created_at": "2026-09-24T18:23:47.000Z",
+    "display_text_range": [
+      18,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T19:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103188663194853858"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1660586167807664129",
+          "start": 0,
+          "username": "ttttk567"
+        },
+        {
+          "end": 17,
+          "id": "1994724283176947712",
+          "start": 10,
+          "username": "lvovl3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103188663194853858",
+    "in_reply_to_user_id": "1660586167807664129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103181431837229126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttttk567 @lvovl3 是这样的，但高功能有时候生活得也很痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2103173884904382596",
+        "created_at": "2026-09-24T18:23:47.000Z",
+        "display_text_range": [
+          18,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103188663194853858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1660586167807664129",
+              "start": 0,
+              "username": "ttttk567"
+            },
+            {
+              "end": 17,
+              "id": "1994724283176947712",
+              "start": 10,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103188663194853858",
+        "in_reply_to_user_id": "1660586167807664129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103181431837229126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttttk567 @lvovl3 是这样的，但高功能有时候生活得也很痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660586167807664129",
+        "conversation_id": "2103173884904382596",
+        "created_at": "2026-09-24T17:55:03.000Z",
+        "display_text_range": [
+          8,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T18:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103181431837229126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1994724283176947712",
+              "start": 0,
+              "username": "lvovl3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103181431837229126",
+        "in_reply_to_user_id": "1994724283176947712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103173884904382596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lvovl3 我感觉高功能不太能被确诊，感觉医院的标准是是否影响日常生活？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103188663194853858",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 975,
+          "following_count": 321,
+          "like_count": 12210,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3550
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-22T09:59:37.000Z",
+        "description": "INTP / AuDHD ？ 经常刷新在作死的边缘 🥕\nLife is a creation, not a discovery.\n博客",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "newmoon.space",
+                "end": 23,
+                "expanded_url": "http://www.newmoon.space",
+                "start": 0,
+                "url": "https://t.co/loGk7ipBaR"
+              }
+            ]
+          }
+        },
+        "id": "1660586167807664129",
+        "is_identity_verified": false,
+        "location": "Beijing ",
+        "most_recent_tweet_id": "2103186500221612250",
+        "name": "上弦月",
+        "pinned_tweet_id": "2039014252552523879",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660586167807664129/1760441422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066369584224198656/N9WKr45P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 1653,
+          "like_count": 4410,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1324
+        },
+        "url": "https://t.co/loGk7ipBaR",
+        "username": "ttttk567",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T11:05:37.000Z",
+        "description": "22岁AUDHD/我的斜杠青年是精神疾病/双相/精神分裂/ed/严肃od中/girl but not human/not alien\n全世界最恨homework之人/人生是被恐惧追赶着逃跑\n有🚪88/爱我请口令红包@luciawannadone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 107,
+                "username": "luciawannadone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zabuu.site/user/detail/19…",
+                "end": 23,
+                "expanded_url": "https://zabuu.site/user/detail/1994724283176947712",
+                "start": 0,
+                "url": "https://t.co/y3THJjqrwt"
+              }
+            ]
+          }
+        },
+        "id": "1994724283176947712",
+        "is_identity_verified": false,
+        "location": "蓝名是备用号  链接是提问箱",
+        "most_recent_tweet_id": "2103181139225776416",
+        "name": "只是想不存在",
+        "pinned_tweet_id": "2089315896909336775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994724283176947712/1784616875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079459942181007360/74nzgbYS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 670,
+          "like_count": 6026,
+          "listed_count": 2,
+          "media_count": 655,
+          "tweet_count": 7010
+        },
+        "url": "https://t.co/y3THJjqrwt",
+        "username": "lvovl3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104233739157152230",
+    "created_at": "2026-09-27T18:55:45.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T19:55:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104283872603361622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1663466214184853505",
+          "start": 0,
+          "username": "Kiyoshiki525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104283872603361622",
+    "in_reply_to_user_id": "1663466214184853505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104263707509522588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyoshiki525 那真的很难以忍受了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104233739157152230",
+        "created_at": "2026-09-27T18:55:45.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T19:55:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104283872603361622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1663466214184853505",
+              "start": 0,
+              "username": "Kiyoshiki525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104283872603361622",
+        "in_reply_to_user_id": "1663466214184853505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104263707509522588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyoshiki525 那真的很难以忍受了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663466214184853505",
+        "conversation_id": "2104233739157152230",
+        "created_at": "2026-09-27T17:35:37.000Z",
+        "display_text_range": [
+          13,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104263707509522588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104263707509522588",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104233739157152230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 靠，我嘴巴也是，嘴里没东西的时候经常莫名其妙会有石楠花味（但是他人闻我哈出的气表示没有）搞的我觉得天天嘴里有精x🫠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104283872603361622",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 316,
+          "like_count": 12506,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3671
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-30T08:44:08.000Z",
+        "description": "不主玩推，随缘冒泡，各抒己见",
+        "id": "1663466214184853505",
+        "is_identity_verified": true,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2104272759190900882",
+        "name": "百忧解不加氟西汀",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663466214184853505/1767372971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104141587832000512/6-mgSeHs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 49,
+          "like_count": 1258,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "Kiyoshiki525",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2103726981808594977",
+    "created_at": "2026-09-26T10:17:04.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T11:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103790953559667017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "200113501",
+          "start": 0,
+          "username": "leaf3loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103790953559667017",
+    "in_reply_to_user_id": "200113501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103726981808594977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaf3loveu 就是疼才要自残，不疼那还割它干嘛，就是要疼才爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2103726981808594977",
+        "created_at": "2026-09-26T10:17:04.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T11:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103790953559667017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "200113501",
+              "start": 0,
+              "username": "leaf3loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103790953559667017",
+        "in_reply_to_user_id": "200113501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103726981808594977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaf3loveu 就是疼才要自残，不疼那还割它干嘛，就是要疼才爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "200113501",
+        "conversation_id": "2103726981808594977",
+        "created_at": "2026-09-26T06:02:52.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103726981808594977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103726981808594977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自残的都是怎么忍住疼痛的啊，我感觉好痛一直不敢，但是每次发病就想自残，因为我没刀就一直掐自己，，，，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103790953559667017",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 319,
+          "like_count": 12314,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3611
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-08T13:44:33.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚\n\nlgbtq+全肯定",
+        "id": "200113501",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103782750956249545",
+        "name": "叶子大帝四世",
+        "pinned_tweet_id": "2093952083607404589",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093951095982940160/QfuHu2Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 111,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 200
+        },
+        "url": "",
+        "username": "leaf3loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

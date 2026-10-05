@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105080344408178688"
+      ]
+    },
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104907174472544738",
+    "created_at": "2026-09-29T23:40:41.000Z",
+    "display_text_range": [
+      8,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105080354453479931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1980612830824132609",
+          "start": 0,
+          "username": "seeFvn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L5B6O18EIo",
+          "end": 81,
+          "expanded_url": "https://x.com/YLS69979546/status/2105080354453479931/photo/1",
+          "media_key": "3_2105080344408178688",
+          "start": 58,
+          "url": "https://t.co/L5B6O18EIo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105080354453479931",
+    "in_reply_to_user_id": "1980612830824132609",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105080344408178688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104907174472544738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeFvn 说起这个，我28号开了点氯硝真签知情同意书了，不过也没啥限制就是处方单后面有个知情同意书然后签个字 https://t.co/L5B6O18EIo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4095,
+        "media_key": "3_2105080344408178688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTa_a4gbQAA2wKJ.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105080344408178688"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104907174472544738",
+        "created_at": "2026-09-29T23:40:41.000Z",
+        "display_text_range": [
+          8,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105080354453479931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1980612830824132609",
+              "start": 0,
+              "username": "seeFvn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L5B6O18EIo",
+              "end": 81,
+              "expanded_url": "https://x.com/YLS69979546/status/2105080354453479931/photo/1",
+              "media_key": "3_2105080344408178688",
+              "start": 58,
+              "url": "https://t.co/L5B6O18EIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105080354453479931",
+        "in_reply_to_user_id": "1980612830824132609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105080344408178688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104907174472544738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeFvn 说起这个，我28号开了点氯硝真签知情同意书了，不过也没啥限制就是处方单后面有个知情同意书然后签个字 https://t.co/L5B6O18EIo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980612830824132609",
+        "conversation_id": "2104907174472544738",
+        "created_at": "2026-09-29T12:12:32.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T13:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104907174472544738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seefvn/status/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/seefvn/status/2100753570727624823",
+              "start": 84,
+              "url": "https://t.co/612iFTaLpG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104907174472544738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1696,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100753570727624823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前来看是不包括一些常见安眠药 BZD/Z 专注达 这些药 那以后曲马多等一些不在这里面的药就麻烦了 以及对未成年人的限制会更多 \n（非医学建议 如有需要请询问医师） https://t.co/612iFTaLpG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105080354453479931",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 319,
+          "like_count": 12718,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3730
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2104946739673448812",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101699422585561088/zg5X_jfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 979,
+          "following_count": 862,
+          "like_count": 11824,
+          "listed_count": 1,
+          "media_count": 290,
+          "tweet_count": 2519
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

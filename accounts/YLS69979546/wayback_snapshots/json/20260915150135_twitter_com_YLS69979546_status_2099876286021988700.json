@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099871009935692209",
+    "created_at": "2026-09-15T15:01:35.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099876286021988700"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099876286021988700",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099871009935692209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实很好奇正常人吃中低剂量（adhd的医疗剂量）兴奋剂是什么效果，对我来说如果没有焦虑的话就是清醒，平静的，对的兴奋剂反而让我更加平静，然后就是感觉整个人开朗起来了，脑子也清楚了，做事也有动力了，正常人这么吃会直接欣快吗还是没感觉，应该不会没感觉吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099871009935692209",
+        "created_at": "2026-09-15T15:01:35.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099876286021988700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099876286021988700",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099871009935692209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实很好奇正常人吃中低剂量（adhd的医疗剂量）兴奋剂是什么效果，对我来说如果没有焦虑的话就是清醒，平静的，对的兴奋剂反而让我更加平静，然后就是感觉整个人开朗起来了，脑子也清楚了，做事也有动力了，正常人这么吃会直接欣快吗还是没感觉，应该不会没感觉吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099871009935692209",
+        "created_at": "2026-09-15T14:40:37.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099871009935692209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099871009935692209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有什么中短效功能性兴奋剂🤔专注达有时候药效太长了，一颗又不便宜，嚼碎吃就那没几个小时的药效还是太浪费了，鼻吸安非他酮有点废鼻子，司来吉兰+小剂量pea倒是可以但是maoi禁忌有点多，那个噻吩-3吗，好像一次也得20来块跟专一样不便宜，其他东西不是数据少的可怜就是不好买，没意思"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099876286021988700",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 307,
+          "like_count": 11724,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 3391
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

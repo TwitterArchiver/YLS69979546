@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099871009935692209",
+    "created_at": "2026-09-18T11:41:52.000Z",
+    "display_text_range": [
+      8,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T12:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100913190393819242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1889781426553520128",
+          "start": 0,
+          "username": "rveunl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100913190393819242",
+    "in_reply_to_user_id": "1889781426553520128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100841020267086058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rveunl 有时候犯焦虑了是会这样，可能是有adhd同时有焦虑问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099871009935692209",
+        "created_at": "2026-09-18T11:41:52.000Z",
+        "display_text_range": [
+          8,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T12:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100913190393819242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1889781426553520128",
+              "start": 0,
+              "username": "rveunl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100913190393819242",
+        "in_reply_to_user_id": "1889781426553520128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100841020267086058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rveunl 有时候犯焦虑了是会这样，可能是有adhd同时有焦虑问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889781426553520128",
+        "conversation_id": "2099871009935692209",
+        "created_at": "2026-09-18T06:55:05.000Z",
+        "display_text_range": [
+          13,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T07:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100841020267086058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100841020267086058",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099876286021988700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 我怀疑我不是adhd，因为我吃2t18mg专注达更焦虑了，想去做某事的紧迫感更强，小动作变多精神紧张，无欣快感，反而让我更加烦躁。也有可能是有共病导致效果不好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100913190393819242",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 320,
+          "like_count": 11851,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3453
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-12T20:59:49.000Z",
+        "description": "抑郁焦虑患者。我不是机器人",
+        "id": "1889781426553520128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100851652920025182",
+        "name": "mmmmmmmmmmm",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1889781426553520128/1766327086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002746990917029888/H0GMaK_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 117,
+          "like_count": 1040,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "rveunl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

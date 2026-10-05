@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104013394236072430",
+    "created_at": "2026-09-27T08:22:43.000Z",
+    "display_text_range": [
+      18,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:22:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104124563399549183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1906605092612227072",
+          "start": 0,
+          "username": "N9qHy"
+        },
+        {
+          "end": 17,
+          "id": "1462208415837655043",
+          "start": 7,
+          "username": "Prechaska"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104124563399549183",
+    "in_reply_to_user_id": "1906605092612227072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104122270444912751",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N9qHy @Prechaska 我还真有（为什么不能是吃阿片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104013394236072430",
+        "created_at": "2026-09-27T08:22:43.000Z",
+        "display_text_range": [
+          18,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104124563399549183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1906605092612227072",
+              "start": 0,
+              "username": "N9qHy"
+            },
+            {
+              "end": 17,
+              "id": "1462208415837655043",
+              "start": 7,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104124563399549183",
+        "in_reply_to_user_id": "1906605092612227072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104122270444912751",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N9qHy @Prechaska 我还真有（为什么不能是吃阿片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906605092612227072",
+        "conversation_id": "2104013394236072430",
+        "created_at": "2026-09-27T08:13:36.000Z",
+        "display_text_range": [
+          24,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104122270444912751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 23,
+              "id": "1462208415837655043",
+              "start": 13,
+              "username": "Prechaska"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104122270444912751",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104114121923051672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @Prechaska 吃文拉法辛（确信）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104124563399549183",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1024,
+          "following_count": 315,
+          "like_count": 12461,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 3642
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-31T07:11:09.000Z",
+        "description": "LV.4 - Angel Dust",
+        "id": "1906605092612227072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104123500546109582",
+        "name": "明前",
+        "pinned_tweet_id": "2077445551428341961",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906605092612227072/1783880665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992167258450509824/K5FSOyyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 2063,
+          "like_count": 7265,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2624
+        },
+        "url": "",
+        "username": "N9qHy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui\n备用号：@HyperInutile",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "HyperInutile"
+              }
+            ]
+          }
+        },
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104120527615033463",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 196,
+          "like_count": 5724,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 2383
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

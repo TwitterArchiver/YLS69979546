@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104854332441268267",
+    "created_at": "2026-09-30T03:48:42.000Z",
+    "display_text_range": [
+      11,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T04:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105142770365350173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2091692877491716096",
+          "start": 0,
+          "username": "Raiiin_J7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105142770365350173",
+    "in_reply_to_user_id": "2091692877491716096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105136986491338896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raiiin_J7 我严重的时候连续洗一个多小时手，从手洗到胳膊又洗到脸和脖子，因为洗太多皮肤还特别干燥，皮肤干得不行我还接着洗，强迫症太讨厌了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104854332441268267",
+        "created_at": "2026-09-30T03:48:42.000Z",
+        "display_text_range": [
+          11,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105142770365350173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2091692877491716096",
+              "start": 0,
+              "username": "Raiiin_J7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105142770365350173",
+        "in_reply_to_user_id": "2091692877491716096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105136986491338896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raiiin_J7 我严重的时候连续洗一个多小时手，从手洗到胳膊又洗到脸和脖子，因为洗太多皮肤还特别干燥，皮肤干得不行我还接着洗，强迫症太讨厌了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2091692877491716096",
+        "conversation_id": "2104854332441268267",
+        "created_at": "2026-09-30T03:25:43.000Z",
+        "display_text_range": [
+          13,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105136986491338896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105136986491338896",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104880297443824016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 和我差不多……甚至我可能更严重一些，我严重的时候会把手洗出血，洗澡更是半天起步（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105142770365350173",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 318,
+          "like_count": 12766,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3739
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T01:21:28.000Z",
+        "description": "前世@Rian_qi7（RIP）\n已确诊：OCD | MDD | 重度睡眠障碍\n是一个ODer💊，自学精神医学中……6g Pr+33度白酒+4.4mg阿普唑仑幸存玩家\n摇滚 | 前卫/迷幻摇滚 | 术力口 | 哲学 | AGC | 泛性向 | 友跨 | 社恐向\n会查成分互fo哦\n（可以叫我小霁喵~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "Rian_qi7"
+              }
+            ]
+          }
+        },
+        "id": "2091692877491716096",
+        "is_identity_verified": false,
+        "location": "人間",
+        "most_recent_tweet_id": "2105140940600189173",
+        "name": "霽🌈⃤",
+        "pinned_tweet_id": "2105140940600189173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091692877491716096/1787624890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094552771265798144/3iteZZnf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 101,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 779
+        },
+        "url": "",
+        "username": "Raiiin_J7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

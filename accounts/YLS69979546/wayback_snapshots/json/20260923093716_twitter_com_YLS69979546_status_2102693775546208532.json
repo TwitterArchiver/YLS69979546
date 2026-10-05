@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2102482308892872869",
+    "created_at": "2026-09-23T09:37:16.000Z",
+    "display_text_range": [
+      13,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102693775546208532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2076292469667532800",
+          "start": 0,
+          "username": "SankakuFuu3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102693775546208532",
+    "in_reply_to_user_id": "2076292469667532800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102482308892872869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SankakuFuu3 毒🐛没救了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2102482308892872869",
+        "created_at": "2026-09-23T09:37:16.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102693775546208532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2076292469667532800",
+              "start": 0,
+              "username": "SankakuFuu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102693775546208532",
+        "in_reply_to_user_id": "2076292469667532800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102482308892872869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SankakuFuu3 毒🐛没救了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076292469667532800",
+        "conversation_id": "2102482308892872869",
+        "created_at": "2026-09-22T19:36:59.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:36:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102482308892872869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leikejun/statu…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/leikejun/status/2102356170036125948",
+              "start": 22,
+              "url": "https://t.co/1C6oWcjJoy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102482308892872869",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1052,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102356170036125948",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一时间想到是不是有红处方能开点强阿片吃吃 https://t.co/1C6oWcjJoy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102693775546208532",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 319,
+          "like_count": 12085,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3521
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-12T13:13:09.000Z",
+        "description": "",
+        "id": "2076292469667532800",
+        "is_identity_verified": false,
+        "location": "守恒与虚无之地",
+        "most_recent_tweet_id": "2102688060651733333",
+        "name": "三角　楓🍥#参宿七",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076292469667532800/1783870999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082655270610907136/JBqLeqy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 330,
+          "like_count": 1301,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "SankakuFuu3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

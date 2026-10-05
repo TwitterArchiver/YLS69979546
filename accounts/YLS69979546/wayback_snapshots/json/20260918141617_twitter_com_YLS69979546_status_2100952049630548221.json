@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2100952049630548221",
+    "created_at": "2026-09-18T14:16:17.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T15:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100952049630548221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2090503130689474560",
+          "start": 3,
+          "username": "galiofgalilee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100952049630548221",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100632253256593796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @galiofgalilee: People with ADHD will put off a 4 minute call to the pharmacy for 2 weeks and then, on the day it turns urgent, make it…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2100952049630548221",
+        "created_at": "2026-09-18T14:16:17.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100952049630548221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2090503130689474560",
+              "start": 3,
+              "username": "galiofgalilee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100952049630548221",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100632253256593796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @galiofgalilee: People with ADHD will put off a 4 minute call to the pharmacy for 2 weeks and then, on the day it turns urgent, make it…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090503130689474560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2100632253256593796",
+        "created_at": "2026-09-17T17:05:31.000Z",
+        "display_text_range": [
+          0,
+          184
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100632253256593796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100632253256593796",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 4705,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "People with ADHD will put off a 4 minute call to the pharmacy for 2 weeks and then, on the day it turns urgent, make it while cooking dinner and checking homework at the same time.￼1/3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100952049630548221",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 321,
+          "like_count": 11871,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3455
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T18:21:26.000Z",
+        "description": "",
+        "id": "2090503130689474560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100922159728062849",
+        "name": "Gali",
+        "pinned_tweet_id": "2100891292309868590",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090503130689474560/1787250331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090505121331290112/u7S0PQB5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 954,
+          "following_count": 906,
+          "like_count": 11087,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3825
+        },
+        "url": "",
+        "username": "galiofgalilee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

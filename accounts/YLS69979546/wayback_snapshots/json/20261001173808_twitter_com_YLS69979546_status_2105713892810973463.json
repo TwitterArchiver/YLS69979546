@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2105629876200026342",
+    "created_at": "2026-10-01T17:38:08.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T18:38:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105713892810973463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2092667492531605504",
+          "start": 0,
+          "username": "aginlab1899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105713892810973463",
+    "in_reply_to_user_id": "2092667492531605504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105629876200026342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aginlab1899 睾丸也od吗，吃几个算od"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2105629876200026342",
+        "created_at": "2026-10-01T17:38:08.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T18:38:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105713892810973463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2092667492531605504",
+              "start": 0,
+              "username": "aginlab1899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105713892810973463",
+        "in_reply_to_user_id": "2092667492531605504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105629876200026342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aginlab1899 睾丸也od吗，吃几个算od"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092667492531605504",
+        "conversation_id": "2105629876200026342",
+        "created_at": "2026-10-01T12:04:17.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105629876200026342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105629876200026342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7018,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能不要再转发那个王烟洛od睾丸的视频了你们看着不恶心吗🤮我吃不下饭了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105713892810973463",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 320,
+          "like_count": 12965,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 3794
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T17:37:45.000Z",
+        "description": "May we meet again in the sunlight\nMtX/F•non-binary🍥｜泛性恋｜LGBTQIA➕｜民国99年出厂｜疑似asd adhd｜自由左\n人称代词偏向she/her｜想要互fo｜坐标沪上欢迎来找我玩｜天残也不算年龄党\n民社|卢森堡｜有限接纳毛左｜右逼劳保粉蛆滚远点\n容貌焦虑中😢",
+        "id": "2092667492531605504",
+        "is_identity_verified": false,
+        "location": "康米天国",
+        "most_recent_tweet_id": "2105699027098730988",
+        "name": "兰比密西西🏳️‍⚧️☭🏳️‍🌈",
+        "pinned_tweet_id": "2100987491260235954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092667492531605504/1788786684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100603444621094912/gBFsVr6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 1033,
+          "like_count": 11375,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1498
+        },
+        "url": "",
+        "username": "aginlab1899",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

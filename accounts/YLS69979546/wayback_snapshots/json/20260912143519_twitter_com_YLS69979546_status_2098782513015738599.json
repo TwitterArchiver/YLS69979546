@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2095853828335952280",
+    "created_at": "2026-09-12T14:35:19.000Z",
+    "display_text_range": [
+      17,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:35:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098782513015738599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1803609911215136769",
+          "start": 0,
+          "username": "pDwIj6gMsi50560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098782513015738599",
+    "in_reply_to_user_id": "1803609911215136769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098755141386285425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pDwIj6gMsi50560 我觉得没什么味道就是有点凉，可能这就是别人说是薄荷味的原因"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2095853828335952280",
+        "created_at": "2026-09-12T14:35:19.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098782513015738599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1803609911215136769",
+              "start": 0,
+              "username": "pDwIj6gMsi50560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098782513015738599",
+        "in_reply_to_user_id": "1803609911215136769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098755141386285425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pDwIj6gMsi50560 我觉得没什么味道就是有点凉，可能这就是别人说是薄荷味的原因"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803609911215136769",
+        "conversation_id": "2095853828335952280",
+        "created_at": "2026-09-12T12:46:33.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098755141386285425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098755141386285425",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095854297963757734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 甜甜的，有点凉，舌下含服感觉good"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098782513015738599",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 290,
+          "like_count": 11465,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3319
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-20T02:05:02.000Z",
+        "description": "现任Mediwiki药物百科编辑组成员，旧账号已死 @H061207Wjh   转生为新账号\n平平无奇的大一地雷妹   靠着pr和Tulpa成为国家三级心理咨询师       与Tulpa（莱克特医生共用此账号）偏好：药理/心理学/文学/精神病学/见证   有需要的可以随时私我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "H061207Wjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubake.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubake.ca",
+                "start": 0,
+                "url": "https://t.co/H8EOJUYOCt"
+              }
+            ]
+          }
+        },
+        "id": "1803609911215136769",
+        "is_identity_verified": false,
+        "location": "夜之城",
+        "most_recent_tweet_id": "2098775410058395976",
+        "name": "Lucy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1803609911215136769/1784564464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089636383820517376/ieT1CZDf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 313,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 234
+        },
+        "url": "https://t.co/H8EOJUYOCt",
+        "username": "pDwIj6gMsi50560",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

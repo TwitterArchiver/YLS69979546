@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2098652953850818832",
+    "created_at": "2026-09-12T19:57:46.000Z",
+    "display_text_range": [
+      25,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T20:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098863662350193129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "882487781041164288",
+          "start": 0,
+          "username": "Real_ChengLi"
+        },
+        {
+          "end": 24,
+          "id": "1892256210608697344",
+          "start": 14,
+          "username": "Btc8888XF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098863662350193129",
+    "in_reply_to_user_id": "882487781041164288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098786226237223103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Real_ChengLi @Btc8888XF 虽然但是人类性成熟早的可能12，13岁，晚的15，16也性成熟了，18岁只是现代意义上的成年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2098652953850818832",
+        "created_at": "2026-09-12T19:57:46.000Z",
+        "display_text_range": [
+          25,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098863662350193129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "882487781041164288",
+              "start": 0,
+              "username": "Real_ChengLi"
+            },
+            {
+              "end": 24,
+              "id": "1892256210608697344",
+              "start": 14,
+              "username": "Btc8888XF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098863662350193129",
+        "in_reply_to_user_id": "882487781041164288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098786226237223103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Real_ChengLi @Btc8888XF 虽然但是人类性成熟早的可能12，13岁，晚的15，16也性成熟了，18岁只是现代意义上的成年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "882487781041164288",
+        "conversation_id": "2098652953850818832",
+        "created_at": "2026-09-12T14:50:04.000Z",
+        "display_text_range": [
+          11,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098786226237223103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892256210608697344",
+              "start": 0,
+              "username": "Btc8888XF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098786226237223103",
+        "in_reply_to_user_id": "1892256210608697344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 79815,
+          "like_count": 275,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098652953850818832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Btc8888XF 大自然把人类寿命定在两个性成熟周期左右，大概就是18+18=36岁，相当于人类社会化之后抚育幼崽到刚好能传宗接代。后现代人们通过学习了消毒、外科手术和抗生素，人为干预了疾病、感染等因素，让人类寿命逆天突破。别跟我犟。犟就是你对。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098863662350193129",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 292,
+          "like_count": 11520,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3338
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-05T06:34:17.000Z",
+        "description": "追逐者",
+        "id": "882487781041164288",
+        "is_identity_verified": false,
+        "location": "tsushima",
+        "most_recent_tweet_id": "2098821583808893368",
+        "name": "Reledel",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/882487781041164288/1499237177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081763810013229056/G1drNFRn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 138,
+          "like_count": 310,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 212
+        },
+        "url": "",
+        "username": "Real_ChengLi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1925123366492745729/NGDodCQg_bigger.jpg",
+          "description": "BiyaPay 中文",
+          "url": "https://twitter.com/BIYAPAYOFFICIAL",
+          "user_id": [
+            "1404674977866018816"
+          ]
+        },
+        "created_at": "2025-02-19T16:53:47.000Z",
+        "description": "段子手 | 价值投资 | all in 推特\n\n脱下孔乙己的长衫，赚钱即正义！\n\nweb2是生活，web3是梦想 JUST DO IT ！ \n\nHTXDAO志愿者 | #蓝鸟会",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "蓝鸟会"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "htx.com.hr/zh-cn/invite-r…",
+                "end": 23,
+                "expanded_url": "https://www.htx.com.hr/zh-cn/invite-register?inviter_id=11343840&invite_code=tbuae223",
+                "start": 0,
+                "url": "https://t.co/x9iCAPVrhS"
+              }
+            ]
+          }
+        },
+        "id": "1892256210608697344",
+        "is_identity_verified": false,
+        "location": "注册火币",
+        "most_recent_tweet_id": "2098828738356003208",
+        "name": "7w 🕊️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892256210608697344/1769086519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988090512793042944/uBAwecUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23078,
+          "following_count": 7450,
+          "like_count": 6019,
+          "listed_count": 59,
+          "media_count": 3586,
+          "tweet_count": 24887
+        },
+        "url": "https://t.co/x9iCAPVrhS",
+        "username": "Btc8888XF",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2103056492647845974",
+    "created_at": "2026-09-24T20:25:47.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T21:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103219364808081567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757960319241207808",
+          "start": 0,
+          "username": "zhoziy1399928"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103219364808081567",
+    "in_reply_to_user_id": "1757960319241207808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103056492647845974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhoziy1399928 正常，推特给我发过好几次了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2103056492647845974",
+        "created_at": "2026-09-24T20:25:47.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T21:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103219364808081567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757960319241207808",
+              "start": 0,
+              "username": "zhoziy1399928"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103219364808081567",
+        "in_reply_to_user_id": "1757960319241207808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103056492647845974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhoziy1399928 正常，推特给我发过好几次了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757960319241207808",
+        "conversation_id": "2103056492647845974",
+        "created_at": "2026-09-24T09:38:35.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T10:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103056492647845974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103056492647845974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6517,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 36,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "给推特吓得退让者幸福了 凌晨给我发邮件让我别自残 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103219364808081567",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 321,
+          "like_count": 12237,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 3562
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-15T02:49:54.000Z",
+        "description": "brat 女同\n碎碎念的账号想到啥发啥 只接受女人👌可以聊天但不线上 本宝素很温良的正常人😌\n男的能不能离我远点\n我收信息特别慢可能回复的不是很快见谅🥺",
+        "id": "1757960319241207808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103164978551534054",
+        "name": "忧郁兔",
+        "pinned_tweet_id": "2102341089864945852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757960319241207808/1778509371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101579787517239296/BoIfcgoG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 31,
+          "like_count": 897,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "zhoziy1399928",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

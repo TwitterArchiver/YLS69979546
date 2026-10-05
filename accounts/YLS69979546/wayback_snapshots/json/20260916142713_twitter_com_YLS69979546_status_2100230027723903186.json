@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099944605219520783",
+    "created_at": "2026-09-16T14:27:13.000Z",
+    "display_text_range": [
+      17,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100230027723903186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871543886801424384",
+          "start": 0,
+          "username": "fsnuoVd7as36268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100230027723903186",
+    "in_reply_to_user_id": "1871543886801424384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100225008408932537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fsnuoVd7as36268 确实不便宜，一次20来块比医保后的专注达还贵一点，所以还是没有在我的廉价兴奋剂候选名单里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099944605219520783",
+        "created_at": "2026-09-16T14:27:13.000Z",
+        "display_text_range": [
+          17,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100230027723903186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871543886801424384",
+              "start": 0,
+              "username": "fsnuoVd7as36268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100230027723903186",
+        "in_reply_to_user_id": "1871543886801424384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100225008408932537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsnuoVd7as36268 确实不便宜，一次20来块比医保后的专注达还贵一点，所以还是没有在我的廉价兴奋剂候选名单里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871543886801424384",
+        "conversation_id": "2099944605219520783",
+        "created_at": "2026-09-16T14:07:16.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100225008408932537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100225008408932537",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099944605219520783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 感觉好贵啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100230027723903186",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 308,
+          "like_count": 11770,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3421
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-24T13:10:28.000Z",
+        "description": "",
+        "id": "1871543886801424384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100229850812592239",
+        "name": "樂",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100222233369333760/SmNAzaM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 44,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "fsnuoVd7as36268",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

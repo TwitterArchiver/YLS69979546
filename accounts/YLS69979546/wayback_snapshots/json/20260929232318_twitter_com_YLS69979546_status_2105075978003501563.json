@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2104866787259220226",
+    "created_at": "2026-09-29T23:23:18.000Z",
+    "display_text_range": [
+      29,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105075978003501563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        },
+        {
+          "end": 28,
+          "id": "1958048434021437440",
+          "start": 14,
+          "username": "baizhimengyao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105075978003501563",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104903986222379327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 @baizhimengyao ftm西装革履的我感觉不多，不过超短发的应该很多，或者喜欢硬汉风，故意让自己显得粗犷甚至粗糙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2104866787259220226",
+        "created_at": "2026-09-29T23:23:18.000Z",
+        "display_text_range": [
+          29,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105075978003501563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            },
+            {
+              "end": 28,
+              "id": "1958048434021437440",
+              "start": 14,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105075978003501563",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104903986222379327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 @baizhimengyao ftm西装革履的我感觉不多，不过超短发的应该很多，或者喜欢硬汉风，故意让自己显得粗犷甚至粗糙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "conversation_id": "2104866787259220226",
+        "created_at": "2026-09-29T11:59:52.000Z",
+        "display_text_range": [
+          15,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104903986222379327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958048434021437440",
+              "start": 0,
+              "username": "baizhimengyao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104903986222379327",
+        "in_reply_to_user_id": "1958048434021437440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104896210507280500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baizhimengyao ftm也是一样的，个个传的西装革履，这种童年报复性补偿心理非常正常"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105075978003501563",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 319,
+          "like_count": 12718,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 3729
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会写下十多年来中国的跨性别女性群体是如何生存的，她们又是如何燃尽自己的生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想了解我的详细情况，可以查看我的置顶推文",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2105057524051562507",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42852,
+          "following_count": 4205,
+          "like_count": 2398,
+          "listed_count": 3,
+          "media_count": 418,
+          "tweet_count": 3228
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-20T06:08:29.000Z",
+        "description": "无证糖🍥/出厂日期2007.02.17/北京/爸妈严正反对/enfp/文学发烧友（现网瘾少女）/某师范高校在读生/@k66cheng 伪物空城我大姐头/学姐@xinjie87288/攒钱手术ing\n紧急逃生舱：@wuheyuyang（已经被鬼了）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "k66cheng"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "xinjie87288"
+              },
+              {
+                "end": 116,
+                "start": 105,
+                "username": "wuheyuyang"
+              }
+            ]
+          }
+        },
+        "id": "1958048434021437440",
+        "is_identity_verified": false,
+        "location": "距你0.1km",
+        "most_recent_tweet_id": "2104940120738865512",
+        "name": "白芷梦瑶🍥",
+        "pinned_tweet_id": "2091135577379000468",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041418903319166976/IHr3Mv0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 40,
+          "like_count": 527,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 2335
+        },
+        "url": "",
+        "username": "baizhimengyao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2098646149418848445",
+    "created_at": "2026-09-12T18:15:19.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098837877979492783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066636363336953856",
+          "start": 0,
+          "username": "Shiro07ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098837877979492783",
+    "in_reply_to_user_id": "2066636363336953856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098646149418848445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiro07ovo 沃擦这么爽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1098,
+        "media_key": "3_2098646138333356032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizCa4AAlL8_.jpg",
+        "width": 1008
+      },
+      {
+        "height": 1617,
+        "media_key": "3_2098646138337509376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizDaQAAM70G.jpg",
+        "width": 1007
+      },
+      {
+        "height": 1136,
+        "media_key": "3_2098646138408820736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizUaYAAAadL.jpg",
+        "width": 1012
+      },
+      {
+        "height": 1072,
+        "media_key": "3_2098646138324971520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_jizAa8AACthA.jpg",
+        "width": 997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2098646149418848445",
+        "created_at": "2026-09-12T18:15:19.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098837877979492783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066636363336953856",
+              "start": 0,
+              "username": "Shiro07ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098837877979492783",
+        "in_reply_to_user_id": "2066636363336953856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098646149418848445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiro07ovo 沃擦这么爽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098646138333356032",
+            "3_2098646138337509376",
+            "3_2098646138408820736",
+            "3_2098646138324971520"
+          ]
+        },
+        "author_id": "2066636363336953856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2098646149418848445",
+        "created_at": "2026-09-12T05:33:27.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098646149418848445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138333356032",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            },
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138337509376",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            },
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138408820736",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            },
+            {
+              "display_url": "pic.x.com/fmPJVFS13i",
+              "end": 42,
+              "expanded_url": "https://x.com/Shiro07ovo/status/2098646149418848445/photo/1",
+              "media_key": "3_2098646138324971520",
+              "start": 19,
+              "url": "https://t.co/fmPJVFS13i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098646149418848445",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098646138333356032"
+          },
+          {
+            "media_key": "3_2098646138337509376"
+          },
+          {
+            "media_key": "3_2098646138408820736"
+          },
+          {
+            "media_key": "3_2098646138324971520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8226,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder们 跟小诊所的医生打好关系。 https://t.co/fmPJVFS13i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098837877979492783",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 292,
+          "like_count": 11503,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 3333
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T21:39:06.000Z",
+        "description": "情感空虚 表演型人格 重抑重焦\n泛性恋 sub 克苏鲁 分舌 穿刺 切割 coser",
+        "id": "2066636363336953856",
+        "is_identity_verified": false,
+        "location": "🚪188",
+        "most_recent_tweet_id": "2098646149418848445",
+        "name": "你說的拯救世界也包括我嗎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066636363336953856/1781559693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087805105353703425/lbal9FOx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 13,
+          "like_count": 9,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Shiro07ovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

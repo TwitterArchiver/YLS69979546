@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1547812257676963840",
+    "conversation_id": "2099743244699787692",
+    "created_at": "2026-09-15T20:03:12.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T21:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099952192165916907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2090493219801120769",
+          "start": 0,
+          "username": "bo1109bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099952192165916907",
+    "in_reply_to_user_id": "2090493219801120769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099743244699787692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bo1109bo 羟考酮🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099743237623980032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPJWYYbIAAS__B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2099743244699787692",
+        "created_at": "2026-09-15T20:03:12.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T21:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099952192165916907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2090493219801120769",
+              "start": 0,
+              "username": "bo1109bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099952192165916907",
+        "in_reply_to_user_id": "2090493219801120769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099743244699787692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bo1109bo 羟考酮🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099743237623980032"
+          ]
+        },
+        "author_id": "2090493219801120769",
+        "conversation_id": "2099743244699787692",
+        "created_at": "2026-09-15T06:12:55.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T07:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099743244699787692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mGk9XkkfCu",
+              "end": 62,
+              "expanded_url": "https://x.com/bo1109bo/status/2099743244699787692/photo/1",
+              "media_key": "3_2099743237623980032",
+              "start": 39,
+              "url": "https://t.co/mGk9XkkfCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099743244699787692",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099743237623980032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 499,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生一次性给开了一堆羟考酮，一个月60粒这处方不对吧，都这样了药房审核能过😢 https://t.co/mGk9XkkfCu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099952192165916907",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 307,
+          "like_count": 11727,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 3406
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:40:24.000Z",
+        "description": "",
+        "id": "2090493219801120769",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099743244699787692",
+        "name": "辞",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092442727774576640/bJRzjiH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 41,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "bo1109bo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
